@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>SUR DAO - Trayectorias Haroldo Horta</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        body { margin: 0; padding: 0; background: #1a1a1a; color: white; font-family: sans-serif; }
+        #map { height: 100vh; width: 100vw; }
+        .info-panel { position: absolute; top: 10px; right: 10px; z-index: 1000; background: rgba(0,0,0,0.8); padding: 15px; border-radius: 8px; max-width: 300px; border: 1px solid #444; }
+    </style>
+</head>
+<body>
+
+<div class="info-panel">
+    <h2>Haroldo Horta</h2>
+    <p>Archivo de Trayectorias v1.0</p>
+    <div id="etapa-info">Selecciona un punto para ver el relato</div>
+</div>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+    const map = L.map('map').setView([-20, -70], 4);
+
+    // Fondo oscuro estilo radar/piloto
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
+
+    // Cargar el GeoJSON generado por el script
+    fetch('../data/mapa_maestro.geojson')
+        .then(response => response.json())
+        .then(data => {
+            L.geoJSON(data, {
+                pointToLayer: (feature, latlng) => {
+                    let color = "#3498db"; // Azul Nómade
+                    if (feature.properties.etapa === "Corresponsal") color = "#e74c3c"; // Rojo
+                    if (feature.properties.etapa === "Patrimonio") color = "#2ecc71"; // Verde
+
+                    return L.circleMarker(latlng, {
+                        radius: 6,
+                        fillColor: color,
+                        color: "#fff",
+                        weight: 1,
+                        opacity: 1,
+                        fillOpacity: 0.8
+                    });
+                },
+                onEachFeature: (feature, layer) => {
+                    layer.bindPopup(`
+                        <strong>${feature.properties.titulo}</strong><br>
+                        <em>${feature.properties.anio} - ${feature.properties.etapa}</em><br><br>
+                        ${feature.properties.relato}<br>
+                        <small style="color:#888">${feature.properties.ruta}</small>
+                    `);
+                }
+            }).addTo(map);
+        });
+</script>
+</body>
+</html>
