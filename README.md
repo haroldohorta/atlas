@@ -1,4 +1,4 @@
-                                                          Legado fotográfico Haroldo Horta
+                                                      Legado fotográfico Haroldo Horta
 > *"Del barro de la revolución en Nicaragua al silencio infinito de Atacama. Un archivo rescatado para no olvidar el vuelo ni la dignidad humana."*
 
 ## 📜 El Manifiesto: Una Vida en Tres Actos
