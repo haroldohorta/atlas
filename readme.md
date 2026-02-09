@@ -1,5 +1,5 @@
 #  Haroldo Horta: Atlas Digital y Soberanía Visual
-> *"Del barro de la revolución en Nicaragua al silencio infinito de Atacama. Un archivo rescatado para no olvidar el vuelo ni la dignidad humana."*
+> *"Desde el corazon de la revolución Sandinista en Nicaragua al silencio infinito de Atacama. Un archivo rescatado para no olvidar el vuelo ni la dignidad humana."*
 
 ## 📜 El Manifiesto: Una Vida en Tres Actos
 
