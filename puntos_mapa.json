@@ -1,0 +1,4277 @@
+[
+    {
+        "id": "PeruFFF2.JPG",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/PeruFFF2.webp",
+        "titulo": "[Corresponsal] PeruFFF2.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Perú Cólera.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Perú Cólera.webp",
+        "titulo": "[Corresponsal] Perú Cólera.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PeruFF11.JPG",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/PeruFF11.webp",
+        "titulo": "[Corresponsal] PeruFF11.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Indigenas Cuzco copia.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Indigenas Cuzco copia.webp",
+        "titulo": "[Corresponsal] Indigenas Cuzco copia.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Mujeres campesinas sierra Perú.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Mujeres campesinas sierra Perú.webp",
+        "titulo": "[Corresponsal] Mujeres campesinas sierra Perú.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PeruFFF5.JPG",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/PeruFFF5.webp",
+        "titulo": "[Corresponsal] PeruFFF5.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PeruFFF10.JPG",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/PeruFFF10.webp",
+        "titulo": "[Corresponsal] PeruFFF10.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PeruFFF8.JPG",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/PeruFFF8.webp",
+        "titulo": "[Corresponsal] PeruFFF8.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Mercado Lima.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Mercado Lima.webp",
+        "titulo": "[Corresponsal] Mercado Lima.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Perú-Fujimori-periodistas-Chilenos.JPG",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Perú-Fujimori-periodistas-Chilenos.webp",
+        "titulo": "[Corresponsal] Perú-Fujimori-periodistas-Chilenos.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PeruFFF10-Editar.JPG",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/PeruFFF10-Editar.webp",
+        "titulo": "[Corresponsal] PeruFFF10-Editar.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Fujimori 1991.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Fujimori 1991.webp",
+        "titulo": "[Corresponsal] Fujimori 1991.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PeruFFF9.JPG",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/PeruFFF9.webp",
+        "titulo": "[Corresponsal] PeruFFF9.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PeruFFF1.JPG",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/PeruFFF1.webp",
+        "titulo": "[Corresponsal] PeruFFF1.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PeruFFF4.JPG",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/PeruFFF4.webp",
+        "titulo": "[Corresponsal] PeruFFF4.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Paramotor playa.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Paramotor playa.webp",
+        "titulo": "[Corresponsal] Paramotor playa.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Moto Nautica y tabla.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Moto Nautica y tabla.webp",
+        "titulo": "[Corresponsal] Moto Nautica y tabla.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Embajada-fuego.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Embajada-fuego.webp",
+        "titulo": "[Corresponsal] Embajada-fuego.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Buckeye-y-Embajada.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/05052002-Buckeye-y-Embajada.webp",
+        "titulo": "[Corresponsal] 05052002-Buckeye-y-Embajada.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Embajada ala mano.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Embajada ala mano.webp",
+        "titulo": "[Corresponsal] Embajada ala mano.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Doble-pagina-Embajada.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Doble-pagina-Embajada.webp",
+        "titulo": "[Corresponsal] Doble-pagina-Embajada.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "P1220689.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/P1220689.webp",
+        "titulo": "[Corresponsal] P1220689.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "_HHT5865-Editar.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/_HHT5865-Editar.webp",
+        "titulo": "[Corresponsal] _HHT5865-Editar.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Peru Costa verde.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/Peru Costa verde.webp",
+        "titulo": "[Corresponsal] Peru Costa verde.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Pta.2.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/Pta.2.webp",
+        "titulo": "[Corresponsal] Pta.2.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "img005.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/img005.webp",
+        "titulo": "[Corresponsal] img005.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Peru Parque judio.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/Peru Parque judio.webp",
+        "titulo": "[Corresponsal] Peru Parque judio.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Peru costa verde despegue.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/Peru costa verde despegue.webp",
+        "titulo": "[Corresponsal] Peru costa verde despegue.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Peru Costa verde Parapente.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/Peru Costa verde Parapente.webp",
+        "titulo": "[Corresponsal] Peru Costa verde Parapente.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "sobre Castro.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/sobre Castro.webp",
+        "titulo": "[Corresponsal] sobre Castro.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Peru Parapentes.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/Peru Parapentes.webp",
+        "titulo": "[Corresponsal] Peru Parapentes.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "IMG_5429.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/Verticales/IMG_5429.webp",
+        "titulo": "[Corresponsal] IMG_5429.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "_HHT6955.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/Verticales/_HHT6955.webp",
+        "titulo": "[Corresponsal] _HHT6955.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "_HHT6964.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/horizontales/_HHT6964.webp",
+        "titulo": "[Corresponsal] _HHT6964.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "IMG_7658.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/horizontales/IMG_7658.webp",
+        "titulo": "[Corresponsal] IMG_7658.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "_HHT6872.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/horizontales/_HHT6872.webp",
+        "titulo": "[Corresponsal] _HHT6872.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "_HHT6801.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/horizontales/_HHT6801.webp",
+        "titulo": "[Corresponsal] _HHT6801.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "_DSC3029ewr.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/horizontales/_DSC3029ewr.webp",
+        "titulo": "[Corresponsal] _DSC3029ewr.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PORTADA II.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/horizontales/PORTADA II.webp",
+        "titulo": "[Corresponsal] PORTADA II.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "_HHT5109.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/horizontales/_HHT5109.webp",
+        "titulo": "[Corresponsal] _HHT5109.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "_HHT6927.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/horizontales/_HHT6927.webp",
+        "titulo": "[Corresponsal] _HHT6927.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "servicio.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/horizontales/servicio.webp",
+        "titulo": "[Corresponsal] servicio.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fondo.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/horizontales/fondo.webp",
+        "titulo": "[Corresponsal] fondo.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "_HHT6797.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/horizontales/_HHT6797.webp",
+        "titulo": "[Corresponsal] _HHT6797.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Ultraligero.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/horizontales/Ultraligero.webp",
+        "titulo": "[Corresponsal] Ultraligero.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "IMG_5401.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/Fotos equipode vuelo/IMG_5401.webp",
+        "titulo": "[Corresponsal] IMG_5401.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Contraluz hélice.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/Fotos equipode vuelo/Contraluz hélice.webp",
+        "titulo": "[Corresponsal] Contraluz hélice.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "IMG_5413.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/Fotos equipode vuelo/IMG_5413.webp",
+        "titulo": "[Corresponsal] IMG_5413.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "IMG_5533.jpg",
+        "capa": "Corresponsal",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/seleccion/peru/LIMA/Buckeye Bombardeo/Fotos equipode vuelo/IMG_5533.webp",
+        "titulo": "[Corresponsal] IMG_5533.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "_HHT5502-Mejorado-NR-1.jpg",
+        "capa": "Libre Vuelo",
+        "lat": -34.5931,
+        "lon": -60.9464,
+        "thumb": "./fotos/seleccion/argentina/Junín/_HHT5502-Mejorado-NR-1.webp",
+        "titulo": "[Libre Vuelo] _HHT5502-Mejorado-NR-1.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Captura-de-pantalla-2026-01-12-a-la(s)-14.38.51.jpg",
+        "capa": "Libre Vuelo",
+        "lat": -34.5931,
+        "lon": -60.9464,
+        "thumb": "./fotos/seleccion/argentina/Junín/Captura-de-pantalla-2026-01-12-a-la(s)-14.38.51.webp",
+        "titulo": "[Libre Vuelo] Captura-de-pantalla-2026-01-12-a-la(s)-14.38.51.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "_HHT6097-Mejorado-NR-1.jpg",
+        "capa": "Libre Vuelo",
+        "lat": -34.5931,
+        "lon": -60.9464,
+        "thumb": "./fotos/seleccion/argentina/Junín/_HHT6097-Mejorado-NR-1.webp",
+        "titulo": "[Libre Vuelo] _HHT6097-Mejorado-NR-1.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "_HHT3930-Mejorado-NR-1.jpg",
+        "capa": "Libre Vuelo",
+        "lat": -34.5931,
+        "lon": -60.9464,
+        "thumb": "./fotos/seleccion/argentina/Junín/_HHT3930-Mejorado-NR-1.webp",
+        "titulo": "[Libre Vuelo] _HHT3930-Mejorado-NR-1.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "_HHT3895-Mejorado-NR-1.jpg",
+        "capa": "Libre Vuelo",
+        "lat": -34.5931,
+        "lon": -60.9464,
+        "thumb": "./fotos/seleccion/argentina/Junín/_HHT3895-Mejorado-NR-1.webp",
+        "titulo": "[Libre Vuelo] _HHT3895-Mejorado-NR-1.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "_HHT3840-Mejorado-NR-1.jpg",
+        "capa": "Libre Vuelo",
+        "lat": -34.5931,
+        "lon": -60.9464,
+        "thumb": "./fotos/seleccion/argentina/Junín/_HHT3840-Mejorado-NR-1.webp",
+        "titulo": "[Libre Vuelo] _HHT3840-Mejorado-NR-1.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "peine.jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro/peine.webp",
+        "titulo": "[General] peine.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna.jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro/valle_luna.webp",
+        "titulo": "[General] valle_luna.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "AtacamaSelección HHT0136.jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro/AtacamaSelección HHT0136.webp",
+        "titulo": "[General] AtacamaSelección HHT0136.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "altiplano.jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro/altiplano.webp",
+        "titulo": "[General] altiplano.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Peine-Flamencos-2007060013.jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro/Peine-Flamencos-2007060013.webp",
+        "titulo": "[General] Peine-Flamencos-2007060013.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tatio.jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro/tatio.webp",
+        "titulo": "[General] tatio.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "AtacamaSelección HHT0204.jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro/AtacamaSelección HHT0204.webp",
+        "titulo": "[General] AtacamaSelección HHT0204.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "laguna_altiplano.jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro/laguna_altiplano.webp",
+        "titulo": "[General] laguna_altiplano.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro.jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro/san_pedro.webp",
+        "titulo": "[General] san_pedro.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "chaxa (2).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/chaxa/chaxa (2).webp",
+        "titulo": "[General] chaxa (2).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "chaxa (1).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/chaxa/chaxa (1).webp",
+        "titulo": "[General] chaxa (1).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "chaxa (3).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/chaxa/chaxa (3).webp",
+        "titulo": "[General] chaxa (3).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (4).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/cejar/cejar (4).webp",
+        "titulo": "[General] cejar (4).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (10).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/cejar/cejar (10).webp",
+        "titulo": "[General] cejar (10).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (13).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/cejar/cejar (13).webp",
+        "titulo": "[General] cejar (13).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (9).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/cejar/cejar (9).webp",
+        "titulo": "[General] cejar (9).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (8).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/cejar/cejar (8).webp",
+        "titulo": "[General] cejar (8).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (5).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/cejar/cejar (5).webp",
+        "titulo": "[General] cejar (5).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (6).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/cejar/cejar (6).webp",
+        "titulo": "[General] cejar (6).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (7).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/cejar/cejar (7).webp",
+        "titulo": "[General] cejar (7).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (3).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/cejar/cejar (3).webp",
+        "titulo": "[General] cejar (3).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (12).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/cejar/cejar (12).webp",
+        "titulo": "[General] cejar (12).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (2).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/cejar/cejar (2).webp",
+        "titulo": "[General] cejar (2).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (1).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/cejar/cejar (1).webp",
+        "titulo": "[General] cejar (1).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (11).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/cejar/cejar (11).webp",
+        "titulo": "[General] cejar (11).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (14).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/cejar/cejar (14).webp",
+        "titulo": "[General] cejar (14).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (15).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/cejar/cejar (15).webp",
+        "titulo": "[General] cejar (15).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (16).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/cejar/cejar (16).webp",
+        "titulo": "[General] cejar (16).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "lagunas_altiplano (1).jpg",
+        "capa": "General",
+        "lat": -23.7383,
+        "lon": -67.7022,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/lagunas_altiplano/lagunas_altiplano (1).webp",
+        "titulo": "[General] lagunas_altiplano (1).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "lagunas_altiplano (2).jpg",
+        "capa": "General",
+        "lat": -23.7383,
+        "lon": -67.7022,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/lagunas_altiplano/lagunas_altiplano (2).webp",
+        "titulo": "[General] lagunas_altiplano (2).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "lagunas_altiplano (3).jpg",
+        "capa": "General",
+        "lat": -23.7383,
+        "lon": -67.7022,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/lagunas_altiplano/lagunas_altiplano (3).webp",
+        "titulo": "[General] lagunas_altiplano (3).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "lagunas_altiplano (4).jpg",
+        "capa": "General",
+        "lat": -23.7383,
+        "lon": -67.7022,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/lagunas_altiplano/lagunas_altiplano (4).webp",
+        "titulo": "[General] lagunas_altiplano (4).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "lagunas_altiplano (5).jpg",
+        "capa": "General",
+        "lat": -23.7383,
+        "lon": -67.7022,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/lagunas_altiplano/lagunas_altiplano (5).webp",
+        "titulo": "[General] lagunas_altiplano (5).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "lagunas_altiplano (6).jpg",
+        "capa": "General",
+        "lat": -23.7383,
+        "lon": -67.7022,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/lagunas_altiplano/lagunas_altiplano (6).webp",
+        "titulo": "[General] lagunas_altiplano (6).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "lagunas_altiplano (7).jpg",
+        "capa": "General",
+        "lat": -23.7383,
+        "lon": -67.7022,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/lagunas_altiplano/lagunas_altiplano (7).webp",
+        "titulo": "[General] lagunas_altiplano (7).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (37).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (37).webp",
+        "titulo": "[General] tebenquinche (37).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (36).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (36).webp",
+        "titulo": "[General] tebenquinche (36).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (17).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (17).webp",
+        "titulo": "[General] tebenquinche (17).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (11).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (11).webp",
+        "titulo": "[General] tebenquinche (11).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (21).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (21).webp",
+        "titulo": "[General] tebenquinche (21).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (6).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (6).webp",
+        "titulo": "[General] tebenquinche (6).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (33).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (33).webp",
+        "titulo": "[General] tebenquinche (33).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (8).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (8).webp",
+        "titulo": "[General] tebenquinche (8).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (28).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (28).webp",
+        "titulo": "[General] tebenquinche (28).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (25).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (25).webp",
+        "titulo": "[General] tebenquinche (25).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (29).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (29).webp",
+        "titulo": "[General] tebenquinche (29).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (10).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (10).webp",
+        "titulo": "[General] tebenquinche (10).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (32).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (32).webp",
+        "titulo": "[General] tebenquinche (32).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (26).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (26).webp",
+        "titulo": "[General] tebenquinche (26).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (20).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (20).webp",
+        "titulo": "[General] tebenquinche (20).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (5).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (5).webp",
+        "titulo": "[General] tebenquinche (5).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (15).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (15).webp",
+        "titulo": "[General] tebenquinche (15).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (16).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (16).webp",
+        "titulo": "[General] tebenquinche (16).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (31).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (31).webp",
+        "titulo": "[General] tebenquinche (31).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (12).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (12).webp",
+        "titulo": "[General] tebenquinche (12).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (1).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (1).webp",
+        "titulo": "[General] tebenquinche (1).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (2).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (2).webp",
+        "titulo": "[General] tebenquinche (2).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (3).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (3).webp",
+        "titulo": "[General] tebenquinche (3).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (4).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (4).webp",
+        "titulo": "[General] tebenquinche (4).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (7).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (7).webp",
+        "titulo": "[General] tebenquinche (7).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (9).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (9).webp",
+        "titulo": "[General] tebenquinche (9).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (13).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (13).webp",
+        "titulo": "[General] tebenquinche (13).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (14).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (14).webp",
+        "titulo": "[General] tebenquinche (14).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (18).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (18).webp",
+        "titulo": "[General] tebenquinche (18).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (19).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (19).webp",
+        "titulo": "[General] tebenquinche (19).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (22).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (22).webp",
+        "titulo": "[General] tebenquinche (22).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (23).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (23).webp",
+        "titulo": "[General] tebenquinche (23).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (24).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (24).webp",
+        "titulo": "[General] tebenquinche (24).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (27).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (27).webp",
+        "titulo": "[General] tebenquinche (27).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (30).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (30).webp",
+        "titulo": "[General] tebenquinche (30).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (34).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (34).webp",
+        "titulo": "[General] tebenquinche (34).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (35).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (35).webp",
+        "titulo": "[General] tebenquinche (35).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tebenquinche (38).jpg",
+        "capa": "General",
+        "lat": -23.1342,
+        "lon": -68.2514,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tebenquinche/tebenquinche (38).webp",
+        "titulo": "[General] tebenquinche (38).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (10).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (10).webp",
+        "titulo": "[General] san_pedro_atacama (10).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (4).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (4).webp",
+        "titulo": "[General] san_pedro_atacama (4).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (13).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (13).webp",
+        "titulo": "[General] san_pedro_atacama (13).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (11).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (11).webp",
+        "titulo": "[General] san_pedro_atacama (11).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (21).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (21).webp",
+        "titulo": "[General] san_pedro_atacama (21).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (14).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (14).webp",
+        "titulo": "[General] san_pedro_atacama (14).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (9).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (9).webp",
+        "titulo": "[General] san_pedro_atacama (9).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (8).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (8).webp",
+        "titulo": "[General] san_pedro_atacama (8).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (12).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (12).webp",
+        "titulo": "[General] san_pedro_atacama (12).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (15).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (15).webp",
+        "titulo": "[General] san_pedro_atacama (15).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (1).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (1).webp",
+        "titulo": "[General] san_pedro_atacama (1).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (2).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (2).webp",
+        "titulo": "[General] san_pedro_atacama (2).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (3).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (3).webp",
+        "titulo": "[General] san_pedro_atacama (3).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (5).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (5).webp",
+        "titulo": "[General] san_pedro_atacama (5).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (6).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (6).webp",
+        "titulo": "[General] san_pedro_atacama (6).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (7).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (7).webp",
+        "titulo": "[General] san_pedro_atacama (7).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (16).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (16).webp",
+        "titulo": "[General] san_pedro_atacama (16).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (17).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (17).webp",
+        "titulo": "[General] san_pedro_atacama (17).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (18).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (18).webp",
+        "titulo": "[General] san_pedro_atacama (18).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (19).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (19).webp",
+        "titulo": "[General] san_pedro_atacama (19).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (20).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (20).webp",
+        "titulo": "[General] san_pedro_atacama (20).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (22).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (22).webp",
+        "titulo": "[General] san_pedro_atacama (22).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (23).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (23).webp",
+        "titulo": "[General] san_pedro_atacama (23).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (24).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (24).webp",
+        "titulo": "[General] san_pedro_atacama (24).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (25).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (25).webp",
+        "titulo": "[General] san_pedro_atacama (25).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (26).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (26).webp",
+        "titulo": "[General] san_pedro_atacama (26).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro_atacama (27).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/san_pedro_REVISAR/san_pedro_atacama (27).webp",
+        "titulo": "[General] san_pedro_atacama (27).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "lazcar (1).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/lazcar/lazcar (1).webp",
+        "titulo": "[General] lazcar (1).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "lazcar (2).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/lazcar/lazcar (2).webp",
+        "titulo": "[General] lazcar (2).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "lazcar (3).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/lazcar/lazcar (3).webp",
+        "titulo": "[General] lazcar (3).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (17).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (17).webp",
+        "titulo": "[General] valle_luna (17).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (20).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (20).webp",
+        "titulo": "[General] valle_luna (20).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (43).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (43).webp",
+        "titulo": "[General] valle_luna (43).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (40).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (40).webp",
+        "titulo": "[General] valle_luna (40).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (37).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (37).webp",
+        "titulo": "[General] valle_luna (37).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (41).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (41).webp",
+        "titulo": "[General] valle_luna (41).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (34).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (34).webp",
+        "titulo": "[General] valle_luna (34).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (46).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (46).webp",
+        "titulo": "[General] valle_luna (46).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (52).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (52).webp",
+        "titulo": "[General] valle_luna (52).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (15).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (15).webp",
+        "titulo": "[General] valle_luna (15).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (53).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (53).webp",
+        "titulo": "[General] valle_luna (53).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (16).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (16).webp",
+        "titulo": "[General] valle_luna (16).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (33).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (33).webp",
+        "titulo": "[General] valle_luna (33).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (21).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (21).webp",
+        "titulo": "[General] valle_luna (21).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (49).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (49).webp",
+        "titulo": "[General] valle_luna (49).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (22).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (22).webp",
+        "titulo": "[General] valle_luna (22).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (35).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (35).webp",
+        "titulo": "[General] valle_luna (35).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (18).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (18).webp",
+        "titulo": "[General] valle_luna (18).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (47).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (47).webp",
+        "titulo": "[General] valle_luna (47).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (23).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (23).webp",
+        "titulo": "[General] valle_luna (23).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (11).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (11).webp",
+        "titulo": "[General] valle_luna (11).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (4).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (4).webp",
+        "titulo": "[General] valle_luna (4).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (36).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (36).webp",
+        "titulo": "[General] valle_luna (36).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (50).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (50).webp",
+        "titulo": "[General] valle_luna (50).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (63).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (63).webp",
+        "titulo": "[General] valle_luna (63).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (38).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (38).webp",
+        "titulo": "[General] valle_luna (38).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (44).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (44).webp",
+        "titulo": "[General] valle_luna (44).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (62).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (62).webp",
+        "titulo": "[General] valle_luna (62).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (14).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (14).webp",
+        "titulo": "[General] valle_luna (14).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (9).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (9).webp",
+        "titulo": "[General] valle_luna (9).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (13).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (13).webp",
+        "titulo": "[General] valle_luna (13).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (61).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (61).webp",
+        "titulo": "[General] valle_luna (61).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (28).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (28).webp",
+        "titulo": "[General] valle_luna (28).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (29).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (29).webp",
+        "titulo": "[General] valle_luna (29).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (7).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (7).webp",
+        "titulo": "[General] valle_luna (7).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (57).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (57).webp",
+        "titulo": "[General] valle_luna (57).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (42).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (42).webp",
+        "titulo": "[General] valle_luna (42).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (45).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (45).webp",
+        "titulo": "[General] valle_luna (45).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (12).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (12).webp",
+        "titulo": "[General] valle_luna (12).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (31).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (31).webp",
+        "titulo": "[General] valle_luna (31).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (10).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (10).webp",
+        "titulo": "[General] valle_luna (10).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (5).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (5).webp",
+        "titulo": "[General] valle_luna (5).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (56).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (56).webp",
+        "titulo": "[General] valle_luna (56).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (24).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (24).webp",
+        "titulo": "[General] valle_luna (24).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (8).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (8).webp",
+        "titulo": "[General] valle_luna (8).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (48).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (48).webp",
+        "titulo": "[General] valle_luna (48).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (59).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (59).webp",
+        "titulo": "[General] valle_luna (59).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (1).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (1).webp",
+        "titulo": "[General] valle_luna (1).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (2).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (2).webp",
+        "titulo": "[General] valle_luna (2).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (3).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (3).webp",
+        "titulo": "[General] valle_luna (3).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (6).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (6).webp",
+        "titulo": "[General] valle_luna (6).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (19).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (19).webp",
+        "titulo": "[General] valle_luna (19).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (25).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (25).webp",
+        "titulo": "[General] valle_luna (25).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (26).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (26).webp",
+        "titulo": "[General] valle_luna (26).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (27).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (27).webp",
+        "titulo": "[General] valle_luna (27).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (30).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (30).webp",
+        "titulo": "[General] valle_luna (30).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (32).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (32).webp",
+        "titulo": "[General] valle_luna (32).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (39).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (39).webp",
+        "titulo": "[General] valle_luna (39).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (51).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (51).webp",
+        "titulo": "[General] valle_luna (51).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (54).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (54).webp",
+        "titulo": "[General] valle_luna (54).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (55).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (55).webp",
+        "titulo": "[General] valle_luna (55).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (58).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (58).webp",
+        "titulo": "[General] valle_luna (58).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (60).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (60).webp",
+        "titulo": "[General] valle_luna (60).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (64).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (64).webp",
+        "titulo": "[General] valle_luna (64).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (65).jpg",
+        "capa": "General",
+        "lat": -22.9062,
+        "lon": -68.2431,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_luna/valle_luna (65).webp",
+        "titulo": "[General] valle_luna (65).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (28).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (28).webp",
+        "titulo": "[General] tara (28).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (29).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (29).webp",
+        "titulo": "[General] tara (29).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (30).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (30).webp",
+        "titulo": "[General] tara (30).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (34).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (34).webp",
+        "titulo": "[General] tara (34).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (42).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (42).webp",
+        "titulo": "[General] tara (42).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (46).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (46).webp",
+        "titulo": "[General] tara (46).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (47).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (47).webp",
+        "titulo": "[General] tara (47).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (52).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (52).webp",
+        "titulo": "[General] tara (52).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (54).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (54).webp",
+        "titulo": "[General] tara (54).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (55).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (55).webp",
+        "titulo": "[General] tara (55).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (56).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (56).webp",
+        "titulo": "[General] tara (56).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (59).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (59).webp",
+        "titulo": "[General] tara (59).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (60).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (60).webp",
+        "titulo": "[General] tara (60).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (25).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (25).webp",
+        "titulo": "[General] tara (25).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (17).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (17).webp",
+        "titulo": "[General] tara (17).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (15).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (15).webp",
+        "titulo": "[General] tara (15).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (16).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (16).webp",
+        "titulo": "[General] tara (16).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (20).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (20).webp",
+        "titulo": "[General] tara (20).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (61).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (61).webp",
+        "titulo": "[General] tara (61).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (13).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (13).webp",
+        "titulo": "[General] tara (13).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (14).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (14).webp",
+        "titulo": "[General] tara (14).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (21).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (21).webp",
+        "titulo": "[General] tara (21).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (23).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (23).webp",
+        "titulo": "[General] tara (23).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (22).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (22).webp",
+        "titulo": "[General] tara (22).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (24).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (24).webp",
+        "titulo": "[General] tara (24).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (26).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (26).webp",
+        "titulo": "[General] tara (26).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (19).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (19).webp",
+        "titulo": "[General] tara (19).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (37).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (37).webp",
+        "titulo": "[General] tara (37).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (39).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (39).webp",
+        "titulo": "[General] tara (39).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (1).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (1).webp",
+        "titulo": "[General] tara (1).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (2).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (2).webp",
+        "titulo": "[General] tara (2).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (3).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (3).webp",
+        "titulo": "[General] tara (3).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (4).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (4).webp",
+        "titulo": "[General] tara (4).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (5).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (5).webp",
+        "titulo": "[General] tara (5).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (6).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (6).webp",
+        "titulo": "[General] tara (6).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (7).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (7).webp",
+        "titulo": "[General] tara (7).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (8).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (8).webp",
+        "titulo": "[General] tara (8).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (9).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (9).webp",
+        "titulo": "[General] tara (9).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (10).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (10).webp",
+        "titulo": "[General] tara (10).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (11).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (11).webp",
+        "titulo": "[General] tara (11).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (12).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (12).webp",
+        "titulo": "[General] tara (12).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (18).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (18).webp",
+        "titulo": "[General] tara (18).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (27).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (27).webp",
+        "titulo": "[General] tara (27).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (31).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (31).webp",
+        "titulo": "[General] tara (31).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (32).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (32).webp",
+        "titulo": "[General] tara (32).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (33).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (33).webp",
+        "titulo": "[General] tara (33).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (35).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (35).webp",
+        "titulo": "[General] tara (35).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (36).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (36).webp",
+        "titulo": "[General] tara (36).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (38).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (38).webp",
+        "titulo": "[General] tara (38).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (40).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (40).webp",
+        "titulo": "[General] tara (40).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (41).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (41).webp",
+        "titulo": "[General] tara (41).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (43).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (43).webp",
+        "titulo": "[General] tara (43).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (44).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (44).webp",
+        "titulo": "[General] tara (44).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (45).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (45).webp",
+        "titulo": "[General] tara (45).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (48).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (48).webp",
+        "titulo": "[General] tara (48).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (49).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (49).webp",
+        "titulo": "[General] tara (49).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (50).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (50).webp",
+        "titulo": "[General] tara (50).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (51).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (51).webp",
+        "titulo": "[General] tara (51).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (53).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (53).webp",
+        "titulo": "[General] tara (53).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (57).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (57).webp",
+        "titulo": "[General] tara (57).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (58).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (58).webp",
+        "titulo": "[General] tara (58).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (62).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (62).webp",
+        "titulo": "[General] tara (62).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tara (63).jpg",
+        "capa": "General",
+        "lat": -22.9106,
+        "lon": -68.1991,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/tara/tara (63).webp",
+        "titulo": "[General] tara (63).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (25).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (25).webp",
+        "titulo": "[General] valle_arcoiris_ (25).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (109).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (109).webp",
+        "titulo": "[General] valle_arcoiris_ (109).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (66).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (66).webp",
+        "titulo": "[General] valle_arcoiris_ (66).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (97).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (97).webp",
+        "titulo": "[General] valle_arcoiris_ (97).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (108).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (108).webp",
+        "titulo": "[General] valle_arcoiris_ (108).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (100).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (100).webp",
+        "titulo": "[General] valle_arcoiris_ (100).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (99).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (99).webp",
+        "titulo": "[General] valle_arcoiris_ (99).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (94).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (94).webp",
+        "titulo": "[General] valle_arcoiris_ (94).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (44).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (44).webp",
+        "titulo": "[General] valle_arcoiris_ (44).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (102).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (102).webp",
+        "titulo": "[General] valle_arcoiris_ (102).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (35).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (35).webp",
+        "titulo": "[General] valle_arcoiris_ (35).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (101).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (101).webp",
+        "titulo": "[General] valle_arcoiris_ (101).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (24).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (24).webp",
+        "titulo": "[General] valle_arcoiris_ (24).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (10).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (10).webp",
+        "titulo": "[General] valle_arcoiris_ (10).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (107).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (107).webp",
+        "titulo": "[General] valle_arcoiris_ (107).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (98).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (98).webp",
+        "titulo": "[General] valle_arcoiris_ (98).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (62).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (62).webp",
+        "titulo": "[General] valle_arcoiris_ (62).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (41).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (41).webp",
+        "titulo": "[General] valle_arcoiris_ (41).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (95).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (95).webp",
+        "titulo": "[General] valle_arcoiris_ (95).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (48).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (48).webp",
+        "titulo": "[General] valle_arcoiris_ (48).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (46).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (46).webp",
+        "titulo": "[General] valle_arcoiris_ (46).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (77).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (77).webp",
+        "titulo": "[General] valle_arcoiris_ (77).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (105).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (105).webp",
+        "titulo": "[General] valle_arcoiris_ (105).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (106).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (106).webp",
+        "titulo": "[General] valle_arcoiris_ (106).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (1).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (1).webp",
+        "titulo": "[General] valle_arcoiris_ (1).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (2).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (2).webp",
+        "titulo": "[General] valle_arcoiris_ (2).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (3).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (3).webp",
+        "titulo": "[General] valle_arcoiris_ (3).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (4).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (4).webp",
+        "titulo": "[General] valle_arcoiris_ (4).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (5).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (5).webp",
+        "titulo": "[General] valle_arcoiris_ (5).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (6).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (6).webp",
+        "titulo": "[General] valle_arcoiris_ (6).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (7).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (7).webp",
+        "titulo": "[General] valle_arcoiris_ (7).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (8).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (8).webp",
+        "titulo": "[General] valle_arcoiris_ (8).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (9).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (9).webp",
+        "titulo": "[General] valle_arcoiris_ (9).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (11).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (11).webp",
+        "titulo": "[General] valle_arcoiris_ (11).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (12).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (12).webp",
+        "titulo": "[General] valle_arcoiris_ (12).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (13).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (13).webp",
+        "titulo": "[General] valle_arcoiris_ (13).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (14).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (14).webp",
+        "titulo": "[General] valle_arcoiris_ (14).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (15).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (15).webp",
+        "titulo": "[General] valle_arcoiris_ (15).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (16).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (16).webp",
+        "titulo": "[General] valle_arcoiris_ (16).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (17).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (17).webp",
+        "titulo": "[General] valle_arcoiris_ (17).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (18).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (18).webp",
+        "titulo": "[General] valle_arcoiris_ (18).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (19).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (19).webp",
+        "titulo": "[General] valle_arcoiris_ (19).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (20).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (20).webp",
+        "titulo": "[General] valle_arcoiris_ (20).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (21).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (21).webp",
+        "titulo": "[General] valle_arcoiris_ (21).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (22).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (22).webp",
+        "titulo": "[General] valle_arcoiris_ (22).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (23).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (23).webp",
+        "titulo": "[General] valle_arcoiris_ (23).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (26).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (26).webp",
+        "titulo": "[General] valle_arcoiris_ (26).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (27).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (27).webp",
+        "titulo": "[General] valle_arcoiris_ (27).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (28).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (28).webp",
+        "titulo": "[General] valle_arcoiris_ (28).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (29).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (29).webp",
+        "titulo": "[General] valle_arcoiris_ (29).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (30).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (30).webp",
+        "titulo": "[General] valle_arcoiris_ (30).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (31).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (31).webp",
+        "titulo": "[General] valle_arcoiris_ (31).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (32).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (32).webp",
+        "titulo": "[General] valle_arcoiris_ (32).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (33).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (33).webp",
+        "titulo": "[General] valle_arcoiris_ (33).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (34).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (34).webp",
+        "titulo": "[General] valle_arcoiris_ (34).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (36).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (36).webp",
+        "titulo": "[General] valle_arcoiris_ (36).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (37).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (37).webp",
+        "titulo": "[General] valle_arcoiris_ (37).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (38).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (38).webp",
+        "titulo": "[General] valle_arcoiris_ (38).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (39).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (39).webp",
+        "titulo": "[General] valle_arcoiris_ (39).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (40).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (40).webp",
+        "titulo": "[General] valle_arcoiris_ (40).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (42).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (42).webp",
+        "titulo": "[General] valle_arcoiris_ (42).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (43).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (43).webp",
+        "titulo": "[General] valle_arcoiris_ (43).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (45).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (45).webp",
+        "titulo": "[General] valle_arcoiris_ (45).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (47).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (47).webp",
+        "titulo": "[General] valle_arcoiris_ (47).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (49).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (49).webp",
+        "titulo": "[General] valle_arcoiris_ (49).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (50).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (50).webp",
+        "titulo": "[General] valle_arcoiris_ (50).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (51).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (51).webp",
+        "titulo": "[General] valle_arcoiris_ (51).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (52).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (52).webp",
+        "titulo": "[General] valle_arcoiris_ (52).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (53).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (53).webp",
+        "titulo": "[General] valle_arcoiris_ (53).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (54).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (54).webp",
+        "titulo": "[General] valle_arcoiris_ (54).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (55).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (55).webp",
+        "titulo": "[General] valle_arcoiris_ (55).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (56).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (56).webp",
+        "titulo": "[General] valle_arcoiris_ (56).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (57).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (57).webp",
+        "titulo": "[General] valle_arcoiris_ (57).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (58).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (58).webp",
+        "titulo": "[General] valle_arcoiris_ (58).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (59).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (59).webp",
+        "titulo": "[General] valle_arcoiris_ (59).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (60).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (60).webp",
+        "titulo": "[General] valle_arcoiris_ (60).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (61).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (61).webp",
+        "titulo": "[General] valle_arcoiris_ (61).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (63).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (63).webp",
+        "titulo": "[General] valle_arcoiris_ (63).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (64).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (64).webp",
+        "titulo": "[General] valle_arcoiris_ (64).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (65).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (65).webp",
+        "titulo": "[General] valle_arcoiris_ (65).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (67).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (67).webp",
+        "titulo": "[General] valle_arcoiris_ (67).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (68).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (68).webp",
+        "titulo": "[General] valle_arcoiris_ (68).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (69).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (69).webp",
+        "titulo": "[General] valle_arcoiris_ (69).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (70).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (70).webp",
+        "titulo": "[General] valle_arcoiris_ (70).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (71).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (71).webp",
+        "titulo": "[General] valle_arcoiris_ (71).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (72).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (72).webp",
+        "titulo": "[General] valle_arcoiris_ (72).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (73).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (73).webp",
+        "titulo": "[General] valle_arcoiris_ (73).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (74).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (74).webp",
+        "titulo": "[General] valle_arcoiris_ (74).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (75).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (75).webp",
+        "titulo": "[General] valle_arcoiris_ (75).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (76).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (76).webp",
+        "titulo": "[General] valle_arcoiris_ (76).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (78).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (78).webp",
+        "titulo": "[General] valle_arcoiris_ (78).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (79).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (79).webp",
+        "titulo": "[General] valle_arcoiris_ (79).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (80).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (80).webp",
+        "titulo": "[General] valle_arcoiris_ (80).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (81).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (81).webp",
+        "titulo": "[General] valle_arcoiris_ (81).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (82).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (82).webp",
+        "titulo": "[General] valle_arcoiris_ (82).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (83).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (83).webp",
+        "titulo": "[General] valle_arcoiris_ (83).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (84).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (84).webp",
+        "titulo": "[General] valle_arcoiris_ (84).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (85).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (85).webp",
+        "titulo": "[General] valle_arcoiris_ (85).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (86).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (86).webp",
+        "titulo": "[General] valle_arcoiris_ (86).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (87).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (87).webp",
+        "titulo": "[General] valle_arcoiris_ (87).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (88).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (88).webp",
+        "titulo": "[General] valle_arcoiris_ (88).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (89).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (89).webp",
+        "titulo": "[General] valle_arcoiris_ (89).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (90).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (90).webp",
+        "titulo": "[General] valle_arcoiris_ (90).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (91).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (91).webp",
+        "titulo": "[General] valle_arcoiris_ (91).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (92).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (92).webp",
+        "titulo": "[General] valle_arcoiris_ (92).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (93).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (93).webp",
+        "titulo": "[General] valle_arcoiris_ (93).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (96).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (96).webp",
+        "titulo": "[General] valle_arcoiris_ (96).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (103).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (103).webp",
+        "titulo": "[General] valle_arcoiris_ (103).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (104).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (104).webp",
+        "titulo": "[General] valle_arcoiris_ (104).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (110).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (110).webp",
+        "titulo": "[General] valle_arcoiris_ (110).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (111).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (111).webp",
+        "titulo": "[General] valle_arcoiris_ (111).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_arcoiris_ (112).jpg",
+        "capa": "General",
+        "lat": -22.5851,
+        "lon": -68.2361,
+        "thumb": "./fotos/seleccion/chile/san_pedro_atacama/valle_arco_iris/valle_arcoiris_ (112).webp",
+        "titulo": "[General] valle_arcoiris_ (112).jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (1).JPG",
+        "capa": "Corresponsal",
+        "lat": -3.8311,
+        "lon": -55.4983,
+        "thumb": "./fotos/seleccion/brasil/Forlandia/fordlandia (1).webp",
+        "titulo": "[Corresponsal] fordlandia (1).JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (2).JPG",
+        "capa": "Corresponsal",
+        "lat": -3.8311,
+        "lon": -55.4983,
+        "thumb": "./fotos/seleccion/brasil/Forlandia/fordlandia (2).webp",
+        "titulo": "[Corresponsal] fordlandia (2).JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (3).JPG",
+        "capa": "Corresponsal",
+        "lat": -3.8311,
+        "lon": -55.4983,
+        "thumb": "./fotos/seleccion/brasil/Forlandia/fordlandia (3).webp",
+        "titulo": "[Corresponsal] fordlandia (3).JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (4).JPG",
+        "capa": "Corresponsal",
+        "lat": -3.8311,
+        "lon": -55.4983,
+        "thumb": "./fotos/seleccion/brasil/Forlandia/fordlandia (4).webp",
+        "titulo": "[Corresponsal] fordlandia (4).JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (5).JPG",
+        "capa": "Corresponsal",
+        "lat": -3.8311,
+        "lon": -55.4983,
+        "thumb": "./fotos/seleccion/brasil/Forlandia/fordlandia (5).webp",
+        "titulo": "[Corresponsal] fordlandia (5).JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (6).JPG",
+        "capa": "Corresponsal",
+        "lat": -3.8311,
+        "lon": -55.4983,
+        "thumb": "./fotos/seleccion/brasil/Forlandia/fordlandia (6).webp",
+        "titulo": "[Corresponsal] fordlandia (6).JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (7).JPG",
+        "capa": "Corresponsal",
+        "lat": -3.8311,
+        "lon": -55.4983,
+        "thumb": "./fotos/seleccion/brasil/Forlandia/fordlandia (7).webp",
+        "titulo": "[Corresponsal] fordlandia (7).JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (8).JPG",
+        "capa": "Corresponsal",
+        "lat": -3.8311,
+        "lon": -55.4983,
+        "thumb": "./fotos/seleccion/brasil/Forlandia/fordlandia (8).webp",
+        "titulo": "[Corresponsal] fordlandia (8).JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (9).JPG",
+        "capa": "Corresponsal",
+        "lat": -3.8311,
+        "lon": -55.4983,
+        "thumb": "./fotos/seleccion/brasil/Forlandia/fordlandia (9).webp",
+        "titulo": "[Corresponsal] fordlandia (9).JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (10).JPG",
+        "capa": "Corresponsal",
+        "lat": -3.8311,
+        "lon": -55.4983,
+        "thumb": "./fotos/seleccion/brasil/Forlandia/fordlandia (10).webp",
+        "titulo": "[Corresponsal] fordlandia (10).JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (11).JPG",
+        "capa": "Corresponsal",
+        "lat": -3.8311,
+        "lon": -55.4983,
+        "thumb": "./fotos/seleccion/brasil/Forlandia/fordlandia (11).webp",
+        "titulo": "[Corresponsal] fordlandia (11).JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (12).JPG",
+        "capa": "Corresponsal",
+        "lat": -3.8311,
+        "lon": -55.4983,
+        "thumb": "./fotos/seleccion/brasil/Forlandia/fordlandia (12).webp",
+        "titulo": "[Corresponsal] fordlandia (12).JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (13).JPG",
+        "capa": "Corresponsal",
+        "lat": -3.8311,
+        "lon": -55.4983,
+        "thumb": "./fotos/seleccion/brasil/Forlandia/fordlandia (13).webp",
+        "titulo": "[Corresponsal] fordlandia (13).JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (14).JPG",
+        "capa": "Corresponsal",
+        "lat": -3.8311,
+        "lon": -55.4983,
+        "thumb": "./fotos/seleccion/brasil/Forlandia/fordlandia (14).webp",
+        "titulo": "[Corresponsal] fordlandia (14).JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (15).JPG",
+        "capa": "Corresponsal",
+        "lat": -3.8311,
+        "lon": -55.4983,
+        "thumb": "./fotos/seleccion/brasil/Forlandia/fordlandia (15).webp",
+        "titulo": "[Corresponsal] fordlandia (15).JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (16).JPG",
+        "capa": "Corresponsal",
+        "lat": -3.8311,
+        "lon": -55.4983,
+        "thumb": "./fotos/seleccion/brasil/Forlandia/fordlandia (16).webp",
+        "titulo": "[Corresponsal] fordlandia (16).JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (17).JPG",
+        "capa": "Corresponsal",
+        "lat": -3.8311,
+        "lon": -55.4983,
+        "thumb": "./fotos/seleccion/brasil/Forlandia/fordlandia (17).webp",
+        "titulo": "[Corresponsal] fordlandia (17).JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (18).JPG",
+        "capa": "Corresponsal",
+        "lat": -3.8311,
+        "lon": -55.4983,
+        "thumb": "./fotos/seleccion/brasil/Forlandia/fordlandia (18).webp",
+        "titulo": "[Corresponsal] fordlandia (18).JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "reflejo_uyuni.jpg",
+        "capa": "General",
+        "lat": -20.1338,
+        "lon": -67.4891,
+        "thumb": "./fotos/seleccion/bolivia/Uyuni/reflejo_uyuni.webp",
+        "titulo": "[General] reflejo_uyuni.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "saltando_uyuni.jpg",
+        "capa": "General",
+        "lat": -20.1338,
+        "lon": -67.4891,
+        "thumb": "./fotos/seleccion/bolivia/Uyuni/saltando_uyuni.webp",
+        "titulo": "[General] saltando_uyuni.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "salar_pano.jpg",
+        "capa": "General",
+        "lat": -20.1338,
+        "lon": -67.4891,
+        "thumb": "./fotos/seleccion/bolivia/Uyuni/salar_pano.webp",
+        "titulo": "[General] salar_pano.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "hotel_sal.jpg",
+        "capa": "General",
+        "lat": -20.1338,
+        "lon": -67.4891,
+        "thumb": "./fotos/seleccion/bolivia/Uyuni/hotel_sal.webp",
+        "titulo": "[General] hotel_sal.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Panoramica_uyuni.jpg",
+        "capa": "General",
+        "lat": -20.1338,
+        "lon": -67.4891,
+        "thumb": "./fotos/seleccion/bolivia/Uyuni/Panoramica_uyuni.webp",
+        "titulo": "[General] Panoramica_uyuni.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "laguna_altipano.jpg",
+        "capa": "General",
+        "lat": -20.1338,
+        "lon": -67.4891,
+        "thumb": "./fotos/seleccion/bolivia/Uyuni/laguna_altipano.webp",
+        "titulo": "[General] laguna_altipano.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fotografo_uyuni.jpg",
+        "capa": "General",
+        "lat": -20.1338,
+        "lon": -67.4891,
+        "thumb": "./fotos/seleccion/bolivia/Uyuni/fotografo_uyuni.webp",
+        "titulo": "[General] fotografo_uyuni.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "collage1.jpg",
+        "capa": "Editorial",
+        "lat": 50.0,
+        "lon": 10.0,
+        "thumb": "./fotos/pub_europa/collage1.webp",
+        "titulo": "[Editorial] collage1.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Doble-Pag.-Stern.jpg",
+        "capa": "Editorial",
+        "lat": 50.0,
+        "lon": 10.0,
+        "thumb": "./fotos/pub_europa/alemania/05052002-Doble-Pag.-Stern.webp",
+        "titulo": "[Editorial] 05052002-Doble-Pag.-Stern.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub.doble.-Marisol-y-Tino.jpg",
+        "capa": "Editorial",
+        "lat": 50.0,
+        "lon": 10.0,
+        "thumb": "./fotos/pub_europa/alemania/05052002-Pub.doble.-Marisol-y-Tino.webp",
+        "titulo": "[Editorial] 05052002-Pub.doble.-Marisol-y-Tino.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub.jpg",
+        "capa": "Editorial",
+        "lat": 50.0,
+        "lon": 10.0,
+        "thumb": "./fotos/pub_europa/alemania/05052002-Pub.webp",
+        "titulo": "[Editorial] 05052002-Pub.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub.sueca-fotografo-hh.jpg",
+        "capa": "Editorial",
+        "lat": 50.0,
+        "lon": 10.0,
+        "thumb": "./fotos/pub_europa/alemania/05052002-Pub.sueca-fotografo-hh.webp",
+        "titulo": "[Editorial] 05052002-Pub.sueca-fotografo-hh.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Doble-pag.pub.-sueca.jpg",
+        "capa": "Editorial",
+        "lat": 59.3293,
+        "lon": 18.0686,
+        "thumb": "./fotos/pub_europa/suecia/05052002-Doble-pag.pub.-sueca.webp",
+        "titulo": "[Editorial] 05052002-Doble-pag.pub.-sueca.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub.sueca.jpg",
+        "capa": "Editorial",
+        "lat": 59.3293,
+        "lon": 18.0686,
+        "thumb": "./fotos/pub_europa/suecia/05052002-Pub.sueca.webp",
+        "titulo": "[Editorial] 05052002-Pub.sueca.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub-Sueca-Fotograf-hh2.jpg",
+        "capa": "Editorial",
+        "lat": 59.3293,
+        "lon": 18.0686,
+        "thumb": "./fotos/pub_europa/suecia/05052002-Pub-Sueca-Fotograf-hh2.webp",
+        "titulo": "[Editorial] 05052002-Pub-Sueca-Fotograf-hh2.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub.sueca-2.jpg",
+        "capa": "Editorial",
+        "lat": 59.3293,
+        "lon": 18.0686,
+        "thumb": "./fotos/pub_europa/suecia/05052002-Pub.sueca-2.webp",
+        "titulo": "[Editorial] 05052002-Pub.sueca-2.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub-Sueca-Fothh3.jpg",
+        "capa": "Editorial",
+        "lat": 59.3293,
+        "lon": 18.0686,
+        "thumb": "./fotos/pub_europa/suecia/05052002-Pub-Sueca-Fothh3.webp",
+        "titulo": "[Editorial] 05052002-Pub-Sueca-Fothh3.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Mujeres rivera Rimac Lima Peru 1991_2.jpg",
+        "capa": "Editorial",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/lima/Mujeres rivera Rimac Lima Peru 1991_2.webp",
+        "titulo": "[Editorial] Mujeres rivera Rimac Lima Peru 1991_2.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Perú Cólera_3.jpg",
+        "capa": "Editorial",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/lima/Perú Cólera_3.webp",
+        "titulo": "[Editorial] Perú Cólera_3.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PerúCaptura Abimael Guzman.JPG",
+        "capa": "Editorial",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/lima/PerúCaptura Abimael Guzman.webp",
+        "titulo": "[Editorial] PerúCaptura Abimael Guzman.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Perú-Coche- Bomba.JPG",
+        "capa": "Editorial",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/lima/Perú-Coche- Bomba.webp",
+        "titulo": "[Editorial] Perú-Coche- Bomba.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Abigael_Guzman.JPG",
+        "capa": "Editorial",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/lima/Abigael_Guzman.webp",
+        "titulo": "[Editorial] Abigael_Guzman.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Ejercito Peruano_2.jpg",
+        "capa": "Editorial",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/lima/Ejercito Peruano_2.webp",
+        "titulo": "[Editorial] Ejercito Peruano_2.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "campesina.JPG",
+        "capa": "Editorial",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/lima/campesina.webp",
+        "titulo": "[Editorial] campesina.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "campesino_tienda.JPG",
+        "capa": "Editorial",
+        "lat": -12.0463,
+        "lon": -77.0428,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/lima/campesino_tienda.webp",
+        "titulo": "[Editorial] campesino_tienda.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "ojo_ojo.JPG",
+        "capa": "Editorial",
+        "lat": 6.2442,
+        "lon": -75.5812,
+        "thumb": "./fotos/pub_latinoamerica/pub_colombia/medellin/ojo_ojo.webp",
+        "titulo": "[Editorial] ojo_ojo.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "G0010946 copia.jpg",
+        "capa": "Editorial",
+        "lat": -23.5,
+        "lon": -68.3,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/Planta_Litio/G0010946 copia.webp",
+        "titulo": "[Editorial] G0010946 copia.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "DSC_5027 copia-Editar.jpg",
+        "capa": "Editorial",
+        "lat": -23.5,
+        "lon": -68.3,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/Planta_Litio/DSC_5027 copia-Editar.webp",
+        "titulo": "[Editorial] DSC_5027 copia-Editar.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "DSC_4470.jpg",
+        "capa": "Editorial",
+        "lat": -23.5,
+        "lon": -68.3,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/Planta_Litio/DSC_4470.webp",
+        "titulo": "[Editorial] DSC_4470.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "DSC_4425-Editar.jpg",
+        "capa": "Editorial",
+        "lat": -23.5,
+        "lon": -68.3,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/Planta_Litio/DSC_4425-Editar.webp",
+        "titulo": "[Editorial] DSC_4425-Editar.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Lota Chile 1990 pescando carbon.jpg",
+        "capa": "Editorial",
+        "lat": -37.0944,
+        "lon": -73.1594,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/lota/Lota Chile 1990 pescando carbon.webp",
+        "titulo": "[Editorial] Lota Chile 1990 pescando carbon.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Lota Chile 1990 anciano recolector de carbon.jpg",
+        "capa": "Editorial",
+        "lat": -37.0944,
+        "lon": -73.1594,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/lota/Lota Chile 1990 anciano recolector de carbon.webp",
+        "titulo": "[Editorial] Lota Chile 1990 anciano recolector de carbon.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "_MGD7164.JPG",
+        "capa": "Editorial",
+        "lat": -37.0944,
+        "lon": -73.1594,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/lota/_MGD7164.webp",
+        "titulo": "[Editorial] _MGD7164.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Hielo teatral.jpg",
+        "capa": "Editorial",
+        "lat": -62.2,
+        "lon": -58.96,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/antartica/Hielo teatral.webp",
+        "titulo": "[Editorial] Hielo teatral.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "14022012-pinguino.jpg",
+        "capa": "Editorial",
+        "lat": -62.2,
+        "lon": -58.96,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/antartica/14022012-pinguino.webp",
+        "titulo": "[Editorial] 14022012-pinguino.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Chiloe362 copy_1.jpg",
+        "capa": "Editorial",
+        "lat": -42.6,
+        "lon": -73.9,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/chiloe/Chiloe362 copy_1.webp",
+        "titulo": "[Editorial] Chiloe362 copy_1.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "16122009-_DSC1357.jpg",
+        "capa": "Editorial",
+        "lat": -42.6,
+        "lon": -73.9,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/chiloe/16122009-_DSC1357.webp",
+        "titulo": "[Editorial] 16122009-_DSC1357.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Chiloe620 copy.jpg",
+        "capa": "Editorial",
+        "lat": -42.6,
+        "lon": -73.9,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/chiloe/Chiloe620 copy.webp",
+        "titulo": "[Editorial] Chiloe620 copy.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Chiloe646 copy_2.jpg",
+        "capa": "Editorial",
+        "lat": -42.6,
+        "lon": -73.9,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/chiloe/Chiloe646 copy_2.webp",
+        "titulo": "[Editorial] Chiloe646 copy_2.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Chiloe Balsas 3 PWP.jpg",
+        "capa": "Editorial",
+        "lat": -42.6,
+        "lon": -73.9,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/chiloe/Chiloe Balsas 3 PWP.webp",
+        "titulo": "[Editorial] Chiloe Balsas 3 PWP.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Chiloe303 copy.jpg",
+        "capa": "Editorial",
+        "lat": -42.6,
+        "lon": -73.9,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/chiloe/Chiloe303 copy.webp",
+        "titulo": "[Editorial] Chiloe303 copy.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "libro_chiloe.jpg",
+        "capa": "Editorial",
+        "lat": -42.6,
+        "lon": -73.9,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/chiloe/libro_chiloe.webp",
+        "titulo": "[Editorial] libro_chiloe.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Arribo Esmeralda.jpg",
+        "capa": "Editorial",
+        "lat": -33.0472,
+        "lon": -71.6127,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/valparaiso/Arribo Esmeralda.webp",
+        "titulo": "[Editorial] Arribo Esmeralda.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Arribo Esmeralda 2.jpg",
+        "capa": "Editorial",
+        "lat": -33.0472,
+        "lon": -71.6127,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/valparaiso/Arribo Esmeralda 2.webp",
+        "titulo": "[Editorial] Arribo Esmeralda 2.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Arribo Esmeralda 4.jpg",
+        "capa": "Editorial",
+        "lat": -33.0472,
+        "lon": -71.6127,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/valparaiso/Arribo Esmeralda 4.webp",
+        "titulo": "[Editorial] Arribo Esmeralda 4.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "libro_esmeralda.jpg",
+        "capa": "Editorial",
+        "lat": -33.0472,
+        "lon": -71.6127,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/valparaiso/libro_esmeralda.webp",
+        "titulo": "[Editorial] libro_esmeralda.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Entrada al estrecho, faro Dungenes en la punta.jpg",
+        "capa": "Editorial",
+        "lat": -52.6,
+        "lon": -71.3,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/estrecho_magallanes/Entrada al estrecho, faro Dungenes en la punta.webp",
+        "titulo": "[Editorial] Entrada al estrecho, faro Dungenes en la punta.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Estrecho, faro Espiritu Santo.jpg",
+        "capa": "Editorial",
+        "lat": -52.6,
+        "lon": -71.3,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/estrecho_magallanes/Estrecho, faro Espiritu Santo.webp",
+        "titulo": "[Editorial] Estrecho, faro Espiritu Santo.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "estrecho_magallanes.jpg",
+        "capa": "Editorial",
+        "lat": -52.6,
+        "lon": -71.3,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/estrecho_magallanes/estrecho_magallanes.webp",
+        "titulo": "[Editorial] estrecho_magallanes.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Nicaragua -Los Arcos-.jpg",
+        "capa": "Editorial",
+        "lat": 12.1364,
+        "lon": -86.2514,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/Nicaragua -Los Arcos-.webp",
+        "titulo": "[Editorial] Nicaragua -Los Arcos-.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "En la montaña con Telcor.jpg",
+        "capa": "Editorial",
+        "lat": 12.1364,
+        "lon": -86.2514,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/En la montaña con Telcor.webp",
+        "titulo": "[Editorial] En la montaña con Telcor.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Haroldo con las brigadas de Telcor_4.jpg",
+        "capa": "Editorial",
+        "lat": 12.1364,
+        "lon": -86.2514,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/Haroldo con las brigadas de Telcor_4.webp",
+        "titulo": "[Editorial] Haroldo con las brigadas de Telcor_4.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "historica.JPG",
+        "capa": "Editorial",
+        "lat": 12.1364,
+        "lon": -86.2514,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/historica.webp",
+        "titulo": "[Editorial] historica.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "ortega.JPG",
+        "capa": "Editorial",
+        "lat": 12.1364,
+        "lon": -86.2514,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/ortega.webp",
+        "titulo": "[Editorial] ortega.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "collage_nicaragua.jpg",
+        "capa": "Editorial",
+        "lat": 12.1364,
+        "lon": -86.2514,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/collage_nicaragua.webp",
+        "titulo": "[Editorial] collage_nicaragua.jpg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "hospital_managua.jpeg",
+        "capa": "Editorial",
+        "lat": 12.1364,
+        "lon": -86.2514,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/hospital_managua.webp",
+        "titulo": "[Editorial] hospital_managua.jpeg",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "soldado_herido.JPG",
+        "capa": "Editorial",
+        "lat": 12.1364,
+        "lon": -86.2514,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/soldado_herido.webp",
+        "titulo": "[Editorial] soldado_herido.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "campesino_hija.JPG",
+        "capa": "Editorial",
+        "lat": 12.1364,
+        "lon": -86.2514,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/campesino_hija.webp",
+        "titulo": "[Editorial] campesino_hija.JPG",
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "crudeza_guerra.JPG",
+        "capa": "Editorial",
+        "lat": 12.1364,
+        "lon": -86.2514,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/crudeza_guerra.webp",
+        "titulo": "[Editorial] crudeza_guerra.JPG",
+        "relato": "Archivo SUR DAO"
+    }
+]
