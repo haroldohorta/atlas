@@ -1,12 +1,10 @@
-# No subir fotos (pesan demasiado)
-fotos/
+# Bloquear originales pesados
 haroldohorta_selecciones/
 
-# No subir la base de datos (se genera localmente)
-*.db
+# PERO PERMITIR la carpeta de salida para la web
+!fotos/
 
-# No subir archivos temporales de Python y sistema
+# Ignorar base de datos y archivos de sistema
+*.db
 __pycache__/
 .DS_Store
-puntos_mapa.json
-mapa_maestro.json
