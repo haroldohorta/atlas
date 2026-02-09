@@ -3,74 +3,64 @@ import json
 import pandas as pd
 import os
 
-# Configuración de rutas
-DB_PATH = 'data/haroldo_indice.db'
-ZONA_CSV = 'data/zona.csv'
-OUTPUT_GEOJSON = 'data/mapa_maestro.geojson'
+# CONFIGURACIÓN SUR DAO
+DB_PATH = r'F:\haroldo_archivo.db'
+ZONA_CSV = r'F:\Scripts\zonas.csv' # Asegúrate que el nombre coincida (zona o zonas)
+OUTPUT_JSON = r'F:\puntos_mapa.json'
 
-def generar_mapa():
-    # 1. Cargar el diccionario de zonas para el "chantaje" de GPS
+def unificador_pum_final():
+    print("🚀 Iniciando UNIFICADOR PUM v26.0...")
+    
+    # 1. Cargar el GPS y las descripciones del CSV
     if not os.path.exists(ZONA_CSV):
         print(f"❌ Error: No se encuentra {ZONA_CSV}")
         return
     
-    zonas = pd.read_csv(ZONA_CSV).set_index('zona').to_dict('index')
+    # Cargamos el CSV como diccionario para búsqueda rápida
+    df_zonas = pd.read_csv(ZONA_CSV)
+    zonas_dict = df_zonas.set_index('zona').to_dict('index')
     
+    # 2. Conectar al Búnker SQLite
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
     
-    # 2. Query con filtros de seguridad y origen
-    # Excluimos carpetas de recuperación y priorizamos el Drive
-    query = """
-    SELECT Nombre, RutaFull, Año, Descripcion 
-    FROM inventario 
-    WHERE RutaFull NOT LIKE '%recup_dir%' 
-    AND RutaFull LIKE '%Haroldo_Live%'
-    """
-    cursor.execute(query)
+    # Traemos todas las fotos procesadas
+    cursor.execute("SELECT filename, ruta_relativa, lat, lon, capa, titulo FROM fotos")
+    rows = cursor.fetchall()
     
-    features = []
-    print("🛰️ Procesando trayectoria de Haroldo...")
-
-    for row in cursor.fetchall():
-        nombre, ruta, anio, desc = row
-        lat, lon = None, None
+    puntos_finales = []
+    
+    for r in rows:
+        filename, ruta, lat, lon, capa, titulo = r
         
-        # Lógica de match por carpeta
-        ruta_min = ruta.lower().replace('\\', '/')
-        for ciudad_clave, gps in zonas.items():
-            if ciudad_clave.lower() in ruta_min:
-                lat, lon = gps['gps_lat'], gps['gps_lon']
+        # Buscamos si hay una descripción especial en el CSV para esta zona
+        descripcion_extra = "Archivo Histórico Haroldo Horta"
+        for zona_clave, data in zonas_dict.items():
+            if zona_clave.lower() in ruta.lower():
+                # Si el CSV tiene columna 'descripcion', la usamos
+                descripcion_extra = data.get('descripcion', descripcion_extra)
                 break
         
-        if lat and lon:
-            # Clasificación de Etapa para el color del pin
-            etapa = "Nómade"
-            if any(x in ruta_min for x in ['nicaragua', 'lota', 'embajada', 'peru', 'colombia']):
-                etapa = "Corresponsal"
-            elif any(x in ruta_min for x in ['chiloe', 'faros', 'kactus']):
-                etapa = "Patrimonio"
+        # Formateamos para el mapa y la galería
+        thumb_path = f"./fotos/{ruta}/{os.path.splitext(filename)[0]}.webp"
+        
+        puntos_finales.append({
+            "id": filename,
+            "capa": capa,
+            "lat": lat,
+            "lon": lon,
+            "thumb": thumb_path.replace("//", "/"),
+            "titulo": f"{titulo}",
+            "relato": descripcion_extra # Esto aparecerá en el popup
+        })
 
-            feature = {
-                "type": "Feature",
-                "geometry": {"type": "Point", "coordinates": [float(lon), float(lat)]},
-                "properties": {
-                    "titulo": nombre,
-                    "etapa": etapa,
-                    "anio": anio,
-                    "relato": desc or "Sin descripción",
-                    "ruta": ruta.replace('\\', '/')
-                }
-            }
-            features.append(feature)
-
-    # 3. Guardar el GeoJSON
-    os.makedirs(os.path.dirname(OUTPUT_GEOJSON), exist_ok=True)
-    with open(OUTPUT_GEOJSON, 'w', encoding='utf-8') as f:
-        json.dump({"type": "FeatureCollection", "features": features}, f, ensure_ascii=False)
+    # 3. Guardar el JSON Maestro
+    with open(OUTPUT_JSON, 'w', encoding='utf-8') as f:
+        json.dump(puntos_finales, f, indent=4, ensure_ascii=False)
     
     conn.close()
-    print(f"✨ ¡PUM! Mapa generado con {len(features)} puntos.")
+    print(f"✨ ¡PUM! Sistema sincronizado con {len(puntos_finales)} puntos.")
+    print(f"📂 Archivo generado en: {OUTPUT_JSON}")
 
 if __name__ == "__main__":
-    generar_mapa()
+    unificador_pum_final()
