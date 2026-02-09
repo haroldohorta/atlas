@@ -1,5 +1,6 @@
 #  Haroldo Horta: Atlas Digital y Soberanía Visual
-> *"Desde el corazon de la revolución Sandinista en Nicaragua al silencio infinito de Atacama. Un archivo rescatado para no olvidar el vuelo ni la dignidad humana."*
+> *"Desde el corazon de la revolución Sandinista en Nicaragua al silencio infinito de Atacama. Un archivo rescatado para no olvidar el vuelo ni la dignidad humana."
+
 > **⚠️ ATENCIÓN VISITAS:** Este es el almacén de código. Para entrar a la Experiencia Visual, haz clic aquí:
 
 [![VER MAPA VIVO](https://img.shields.io/badge/VER_MAPA_INTERACTIVO-FF0000?style=for-the-badge&logo=google-maps&logoColor=white)](https://haroldohorta.github.io/atlas/)
