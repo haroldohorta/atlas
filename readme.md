@@ -3,7 +3,7 @@
 
 ## 📜 El Manifiesto: Una Vida en Tres Actos
 
-Este repositorio constituye la columna vertebral de **SUR DAO - Haroldo Live**. No es solo un almacenamiento de archivos; es un acto de resistencia técnica y una reconexión con el valor de lo humano a través de la lente.
+Este repositorio constituye la columna vertebral de la trayectoria y legado fotográfico de Haroldo Horta. No es solo un almacenamiento de archivos; es un acto de resistencia técnica y una reconexión con el valor de lo humano a través del lente, tando desde la tierra como desde el aire.
 
 ---
 
