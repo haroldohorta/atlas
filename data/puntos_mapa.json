@@ -1,0 +1,2352 @@
+[
+    {
+        "id": "collage1.webp",
+        "zona": "europa",
+        "capa": "Publicaciones & Prensa",
+        "lat": 48.856,
+        "lon": 2.352,
+        "thumb": "./fotos/pub_europa/collage1.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Doble-Pag.-Stern.webp",
+        "zona": "alemania",
+        "capa": "Publicaciones & Prensa",
+        "lat": 51.165,
+        "lon": 10.451,
+        "thumb": "./fotos/pub_europa/pub_alemania/05052002-Doble-Pag.-Stern.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub.doble.-Marisol-y-Tino.webp",
+        "zona": "alemania",
+        "capa": "Publicaciones & Prensa",
+        "lat": 51.165,
+        "lon": 10.451,
+        "thumb": "./fotos/pub_europa/pub_alemania/05052002-Pub.doble.-Marisol-y-Tino.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub.webp",
+        "zona": "alemania",
+        "capa": "Publicaciones & Prensa",
+        "lat": 51.165,
+        "lon": 10.451,
+        "thumb": "./fotos/pub_europa/pub_alemania/05052002-Pub.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Doble-pag.pub.-sueca.webp",
+        "zona": "suecia",
+        "capa": "Publicaciones & Prensa",
+        "lat": 60.128,
+        "lon": 18.643,
+        "thumb": "./fotos/pub_europa/pub_suecia/05052002-Doble-pag.pub.-sueca.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub-Sueca-Fothh3.webp",
+        "zona": "suecia",
+        "capa": "Publicaciones & Prensa",
+        "lat": 60.128,
+        "lon": 18.643,
+        "thumb": "./fotos/pub_europa/pub_suecia/05052002-Pub-Sueca-Fothh3.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub-Sueca-Fotograf-hh2.webp",
+        "zona": "suecia",
+        "capa": "Publicaciones & Prensa",
+        "lat": 60.128,
+        "lon": 18.643,
+        "thumb": "./fotos/pub_europa/pub_suecia/05052002-Pub-Sueca-Fotograf-hh2.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub.sueca-2.webp",
+        "zona": "suecia",
+        "capa": "Publicaciones & Prensa",
+        "lat": 60.128,
+        "lon": 18.643,
+        "thumb": "./fotos/pub_europa/pub_suecia/05052002-Pub.sueca-2.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub.sueca.webp",
+        "zona": "suecia",
+        "capa": "Publicaciones & Prensa",
+        "lat": 60.128,
+        "lon": 18.643,
+        "thumb": "./fotos/pub_europa/pub_suecia/05052002-Pub.sueca.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub.sueca-fotografo-hh.webp",
+        "zona": "suecia",
+        "capa": "Publicaciones & Prensa",
+        "lat": 60.128,
+        "lon": 18.643,
+        "thumb": "./fotos/pub_europa/pub_suecia/05052002-Pub.sueca-fotografo-hh.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Abigael_Guzman.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/pub_lima/Abigael_Guzman.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Ejercito Peruano_2.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/pub_lima/Ejercito Peruano_2.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Mujeres rivera Rimac Lima Peru 1991_2.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/pub_lima/Mujeres rivera Rimac Lima Peru 1991_2.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Perú Cólera_3.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/pub_lima/Perú Cólera_3.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Perú-Coche- Bomba.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/pub_lima/Perú-Coche- Bomba.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PerúCaptura Abimael Guzman.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/pub_lima/PerúCaptura Abimael Guzman.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "campesina.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/pub_lima/campesina.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "campesino_tienda.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/pub_lima/campesino_tienda.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "afoco_bendito_desierto0.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/pub_lima/afoco_bendito_desierto0.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "afoco_bendito_desierto1.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/pub_lima/afoco_bendito_desierto1.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Portada Caretas Inundaciones.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/pub_lima/Portada Caretas Inundaciones.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Publicidad aerea copia.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/pub_lima/Publicidad aerea copia.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Verano Sangriento 1997 Lima Perú.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_latinoamerica/pub_peru/pub_lima/Verano Sangriento 1997 Lima Perú.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "ojo_ojo.webp",
+        "zona": "medellin",
+        "capa": "Publicaciones & Prensa",
+        "lat": -20.0,
+        "lon": -60.0,
+        "thumb": "./fotos/pub_latinoamerica/pub_colombia/pub_medellin/ojo_ojo.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Lota Chile 1990 anciano recolector de carbon.webp",
+        "zona": "lota",
+        "capa": "Publicaciones & Prensa",
+        "lat": -37.091,
+        "lon": -73.159,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_lota/Lota Chile 1990 anciano recolector de carbon.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Lota Chile 1990 pescando carbon.webp",
+        "zona": "lota",
+        "capa": "Publicaciones & Prensa",
+        "lat": -37.091,
+        "lon": -73.159,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_lota/Lota Chile 1990 pescando carbon.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "_MGD7164.webp",
+        "zona": "lota",
+        "capa": "Publicaciones & Prensa",
+        "lat": -37.091,
+        "lon": -73.159,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_lota/_MGD7164.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "14022012-pinguino.webp",
+        "zona": "antartica",
+        "capa": "Etapa Nómada",
+        "lat": -20.0,
+        "lon": -60.0,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/antartica/14022012-pinguino.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Hielo teatral.webp",
+        "zona": "antartica",
+        "capa": "Etapa Nómada",
+        "lat": -20.0,
+        "lon": -60.0,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/antartica/Hielo teatral.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "16122009-_DSC1357.webp",
+        "zona": "chiloe",
+        "capa": "Publicaciones & Prensa",
+        "lat": -42.612,
+        "lon": -73.928,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_chiloe/16122009-_DSC1357.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Chiloe Balsas 3 PWP.webp",
+        "zona": "chiloe",
+        "capa": "Publicaciones & Prensa",
+        "lat": -42.612,
+        "lon": -73.928,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_chiloe/Chiloe Balsas 3 PWP.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Chiloe303 copy.webp",
+        "zona": "chiloe",
+        "capa": "Publicaciones & Prensa",
+        "lat": -42.612,
+        "lon": -73.928,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_chiloe/Chiloe303 copy.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Chiloe362 copy_1.webp",
+        "zona": "chiloe",
+        "capa": "Publicaciones & Prensa",
+        "lat": -42.612,
+        "lon": -73.928,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_chiloe/Chiloe362 copy_1.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Chiloe620 copy.webp",
+        "zona": "chiloe",
+        "capa": "Publicaciones & Prensa",
+        "lat": -42.612,
+        "lon": -73.928,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_chiloe/Chiloe620 copy.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Chiloe646 copy_2.webp",
+        "zona": "chiloe",
+        "capa": "Publicaciones & Prensa",
+        "lat": -42.612,
+        "lon": -73.928,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_chiloe/Chiloe646 copy_2.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "libro_chiloe.webp",
+        "zona": "chiloe",
+        "capa": "Publicaciones & Prensa",
+        "lat": -42.612,
+        "lon": -73.928,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_chiloe/libro_chiloe.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Arribo Esmeralda 2.webp",
+        "zona": "valparaiso",
+        "capa": "Publicaciones & Prensa",
+        "lat": -33.047,
+        "lon": -71.619,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_valparaiso/Arribo Esmeralda 2.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Arribo Esmeralda 4.webp",
+        "zona": "valparaiso",
+        "capa": "Publicaciones & Prensa",
+        "lat": -33.047,
+        "lon": -71.619,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_valparaiso/Arribo Esmeralda 4.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Arribo Esmeralda.webp",
+        "zona": "valparaiso",
+        "capa": "Publicaciones & Prensa",
+        "lat": -33.047,
+        "lon": -71.619,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_valparaiso/Arribo Esmeralda.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Entrada al estrecho, faro Dungenes en la punta.webp",
+        "zona": "estrecho_magallanes",
+        "capa": "Publicaciones & Prensa",
+        "lat": -53.616,
+        "lon": -70.912,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_estrecho_magallanes/Entrada al estrecho, faro Dungenes en la punta.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Estrecho, faro Espiritu Santo.webp",
+        "zona": "estrecho_magallanes",
+        "capa": "Publicaciones & Prensa",
+        "lat": -53.616,
+        "lon": -70.912,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_estrecho_magallanes/Estrecho, faro Espiritu Santo.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "estrecho_magallanes.webp",
+        "zona": "estrecho_magallanes",
+        "capa": "Publicaciones & Prensa",
+        "lat": -53.616,
+        "lon": -70.912,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_estrecho_magallanes/estrecho_magallanes.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "DSC_4425-Editar.webp",
+        "zona": "planta_litio",
+        "capa": "Publicaciones & Prensa",
+        "lat": -23.473,
+        "lon": -68.349,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_planta_Litio/DSC_4425-Editar.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "DSC_4470.webp",
+        "zona": "planta_litio",
+        "capa": "Publicaciones & Prensa",
+        "lat": -23.473,
+        "lon": -68.349,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_planta_Litio/DSC_4470.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "DSC_5027 copia-Editar.webp",
+        "zona": "planta_litio",
+        "capa": "Publicaciones & Prensa",
+        "lat": -23.473,
+        "lon": -68.349,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_planta_Litio/DSC_5027 copia-Editar.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "G0010946 copia.webp",
+        "zona": "planta_litio",
+        "capa": "Publicaciones & Prensa",
+        "lat": -23.473,
+        "lon": -68.349,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_planta_Litio/G0010946 copia.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "libro_esmeralda.webp",
+        "zona": "planta_litio",
+        "capa": "Publicaciones & Prensa",
+        "lat": -23.473,
+        "lon": -68.349,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_planta_Litio/libro_esmeralda.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "publicaciones_souvenir1.webp",
+        "zona": "santiago",
+        "capa": "Publicaciones & Prensa",
+        "lat": -33.448,
+        "lon": -70.665,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_santiago/publicaciones_souvenir1.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "publicaciones_souvenir2.webp",
+        "zona": "santiago",
+        "capa": "Publicaciones & Prensa",
+        "lat": -33.448,
+        "lon": -70.665,
+        "thumb": "./fotos/pub_latinoamerica/pub_chile/pub_santiago/publicaciones_souvenir2.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "En la montaña con Telcor.webp",
+        "zona": "nicaragua",
+        "capa": "Publicaciones & Prensa",
+        "lat": 12.136,
+        "lon": -86.251,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/En la montaña con Telcor.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Haroldo con las brigadas de Telcor_4.webp",
+        "zona": "nicaragua",
+        "capa": "Publicaciones & Prensa",
+        "lat": 12.136,
+        "lon": -86.251,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/Haroldo con las brigadas de Telcor_4.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Nicaragua -Los Arcos-.webp",
+        "zona": "nicaragua",
+        "capa": "Publicaciones & Prensa",
+        "lat": 12.136,
+        "lon": -86.251,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/Nicaragua -Los Arcos-.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "campesino_hija.webp",
+        "zona": "nicaragua",
+        "capa": "Publicaciones & Prensa",
+        "lat": 12.136,
+        "lon": -86.251,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/campesino_hija.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "collage_nicaragua.webp",
+        "zona": "nicaragua",
+        "capa": "Publicaciones & Prensa",
+        "lat": 12.136,
+        "lon": -86.251,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/collage_nicaragua.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "crudeza_guerra.webp",
+        "zona": "nicaragua",
+        "capa": "Publicaciones & Prensa",
+        "lat": 12.136,
+        "lon": -86.251,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/crudeza_guerra.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "historica.webp",
+        "zona": "nicaragua",
+        "capa": "Publicaciones & Prensa",
+        "lat": 12.136,
+        "lon": -86.251,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/historica.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "hospital_managua.webp",
+        "zona": "nicaragua",
+        "capa": "Publicaciones & Prensa",
+        "lat": 12.136,
+        "lon": -86.251,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/hospital_managua.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "ortega.webp",
+        "zona": "nicaragua",
+        "capa": "Publicaciones & Prensa",
+        "lat": 12.136,
+        "lon": -86.251,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/ortega.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "soldado_herido.webp",
+        "zona": "nicaragua",
+        "capa": "Publicaciones & Prensa",
+        "lat": 12.136,
+        "lon": -86.251,
+        "thumb": "./fotos/pub_latinoamerica/pub_nicaragua/soldado_herido.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "JUNIN (1).webp",
+        "zona": "junin",
+        "capa": "Etapa Nómada",
+        "lat": -34.583,
+        "lon": -60.944,
+        "thumb": "./fotos/nomad_junin/JUNIN (1).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "junin (10).webp",
+        "zona": "junin",
+        "capa": "Etapa Nómada",
+        "lat": -34.583,
+        "lon": -60.944,
+        "thumb": "./fotos/nomad_junin/junin (10).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "junin (11).webp",
+        "zona": "junin",
+        "capa": "Etapa Nómada",
+        "lat": -34.583,
+        "lon": -60.944,
+        "thumb": "./fotos/nomad_junin/junin (11).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "junin (12).webp",
+        "zona": "junin",
+        "capa": "Etapa Nómada",
+        "lat": -34.583,
+        "lon": -60.944,
+        "thumb": "./fotos/nomad_junin/junin (12).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "junin (13).webp",
+        "zona": "junin",
+        "capa": "Etapa Nómada",
+        "lat": -34.583,
+        "lon": -60.944,
+        "thumb": "./fotos/nomad_junin/junin (13).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "junin (8).webp",
+        "zona": "junin",
+        "capa": "Etapa Nómada",
+        "lat": -34.583,
+        "lon": -60.944,
+        "thumb": "./fotos/nomad_junin/junin (8).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "junin (9).webp",
+        "zona": "junin",
+        "capa": "Etapa Nómada",
+        "lat": -34.583,
+        "lon": -60.944,
+        "thumb": "./fotos/nomad_junin/junin (9).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Buckeye-y-Embajada.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/05052002-Buckeye-y-Embajada.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Doble-pagina-Embajada.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/Doble-pagina-Embajada.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Embajada ala mano.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/Embajada ala mano.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Embajada-fuego.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/Embajada-fuego.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Fujimori 1991.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/Fujimori 1991.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Indigenas Cuzco copia.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/Indigenas Cuzco copia.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Mercado Lima.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/Mercado Lima.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Moto Nautica y tabla.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/Moto Nautica y tabla.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Mujeres campesinas sierra Perú.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/Mujeres campesinas sierra Perú.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Paramotor playa.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/Paramotor playa.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PeruFF11.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/PeruFF11.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PeruFFF1.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/PeruFFF1.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PeruFFF10-Editar.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/PeruFFF10-Editar.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PeruFFF10.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/PeruFFF10.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PeruFFF2.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/PeruFFF2.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PeruFFF4.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/PeruFFF4.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PeruFFF5.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/PeruFFF5.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PeruFFF8.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/PeruFFF8.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PeruFFF9.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/PeruFFF9.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Perú Cólera.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/Perú Cólera.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Perú-Coche- Bomba.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/Perú-Coche- Bomba.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Perú-Fujimori-periodistas-Chilenos.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/Perú-Fujimori-periodistas-Chilenos.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "PerúCaptura Abimael Guzman.webp",
+        "zona": "lima",
+        "capa": "Publicaciones & Prensa",
+        "lat": -12.045,
+        "lon": -77.03,
+        "thumb": "./fotos/pub_lima/PerúCaptura Abimael Guzman.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Panoramica_uyuni.webp",
+        "zona": "uyuni",
+        "capa": "Etapa Nómada",
+        "lat": -20.462,
+        "lon": -66.824,
+        "thumb": "./fotos/nomad_uyuni/Panoramica_uyuni.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fotografo_uyuni.webp",
+        "zona": "uyuni",
+        "capa": "Etapa Nómada",
+        "lat": -20.462,
+        "lon": -66.824,
+        "thumb": "./fotos/nomad_uyuni/fotografo_uyuni.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "hotel_sal.webp",
+        "zona": "uyuni",
+        "capa": "Etapa Nómada",
+        "lat": -20.462,
+        "lon": -66.824,
+        "thumb": "./fotos/nomad_uyuni/hotel_sal.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "laguna_altipano.webp",
+        "zona": "uyuni",
+        "capa": "Etapa Nómada",
+        "lat": -20.462,
+        "lon": -66.824,
+        "thumb": "./fotos/nomad_uyuni/laguna_altipano.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "reflejo_uyuni.webp",
+        "zona": "uyuni",
+        "capa": "Etapa Nómada",
+        "lat": -20.462,
+        "lon": -66.824,
+        "thumb": "./fotos/nomad_uyuni/reflejo_uyuni.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "salar_pano.webp",
+        "zona": "uyuni",
+        "capa": "Etapa Nómada",
+        "lat": -20.462,
+        "lon": -66.824,
+        "thumb": "./fotos/nomad_uyuni/salar_pano.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "saltando_uyuni.webp",
+        "zona": "uyuni",
+        "capa": "Etapa Nómada",
+        "lat": -20.462,
+        "lon": -66.824,
+        "thumb": "./fotos/nomad_uyuni/saltando_uyuni.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Doble-Pag.-Stern.webp",
+        "zona": "alemania",
+        "capa": "Publicaciones & Prensa",
+        "lat": 51.165,
+        "lon": 10.451,
+        "thumb": "./fotos/pub_alemania/05052002-Doble-Pag.-Stern.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub.doble.-Marisol-y-Tino.webp",
+        "zona": "alemania",
+        "capa": "Publicaciones & Prensa",
+        "lat": 51.165,
+        "lon": 10.451,
+        "thumb": "./fotos/pub_alemania/05052002-Pub.doble.-Marisol-y-Tino.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub.sueca-fotografo-hh.webp",
+        "zona": "alemania",
+        "capa": "Publicaciones & Prensa",
+        "lat": 51.165,
+        "lon": 10.451,
+        "thumb": "./fotos/pub_alemania/05052002-Pub.sueca-fotografo-hh.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub.webp",
+        "zona": "alemania",
+        "capa": "Publicaciones & Prensa",
+        "lat": 51.165,
+        "lon": 10.451,
+        "thumb": "./fotos/pub_alemania/05052002-Pub.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "14022012-pinguino.webp",
+        "zona": "antartida",
+        "capa": "Publicaciones & Prensa",
+        "lat": -62.2,
+        "lon": -58.964,
+        "thumb": "./fotos/pub_antartida/14022012-pinguino.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Hielo teatral.webp",
+        "zona": "antartida",
+        "capa": "Publicaciones & Prensa",
+        "lat": -62.2,
+        "lon": -58.964,
+        "thumb": "./fotos/pub_antartida/Hielo teatral.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (1).webp",
+        "zona": "cejar",
+        "capa": "Etapa Nómada",
+        "lat": -23.058,
+        "lon": -68.214,
+        "thumb": "./fotos/nomad_cejar/cejar (1).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (10).webp",
+        "zona": "cejar",
+        "capa": "Etapa Nómada",
+        "lat": -23.058,
+        "lon": -68.214,
+        "thumb": "./fotos/nomad_cejar/cejar (10).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (11).webp",
+        "zona": "cejar",
+        "capa": "Etapa Nómada",
+        "lat": -23.058,
+        "lon": -68.214,
+        "thumb": "./fotos/nomad_cejar/cejar (11).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (12).webp",
+        "zona": "cejar",
+        "capa": "Etapa Nómada",
+        "lat": -23.058,
+        "lon": -68.214,
+        "thumb": "./fotos/nomad_cejar/cejar (12).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (13).webp",
+        "zona": "cejar",
+        "capa": "Etapa Nómada",
+        "lat": -23.058,
+        "lon": -68.214,
+        "thumb": "./fotos/nomad_cejar/cejar (13).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (14).webp",
+        "zona": "cejar",
+        "capa": "Etapa Nómada",
+        "lat": -23.058,
+        "lon": -68.214,
+        "thumb": "./fotos/nomad_cejar/cejar (14).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (2).webp",
+        "zona": "cejar",
+        "capa": "Etapa Nómada",
+        "lat": -23.058,
+        "lon": -68.214,
+        "thumb": "./fotos/nomad_cejar/cejar (2).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (3).webp",
+        "zona": "cejar",
+        "capa": "Etapa Nómada",
+        "lat": -23.058,
+        "lon": -68.214,
+        "thumb": "./fotos/nomad_cejar/cejar (3).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (4).webp",
+        "zona": "cejar",
+        "capa": "Etapa Nómada",
+        "lat": -23.058,
+        "lon": -68.214,
+        "thumb": "./fotos/nomad_cejar/cejar (4).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (5).webp",
+        "zona": "cejar",
+        "capa": "Etapa Nómada",
+        "lat": -23.058,
+        "lon": -68.214,
+        "thumb": "./fotos/nomad_cejar/cejar (5).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (6).webp",
+        "zona": "cejar",
+        "capa": "Etapa Nómada",
+        "lat": -23.058,
+        "lon": -68.214,
+        "thumb": "./fotos/nomad_cejar/cejar (6).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (7).webp",
+        "zona": "cejar",
+        "capa": "Etapa Nómada",
+        "lat": -23.058,
+        "lon": -68.214,
+        "thumb": "./fotos/nomad_cejar/cejar (7).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (8).webp",
+        "zona": "cejar",
+        "capa": "Etapa Nómada",
+        "lat": -23.058,
+        "lon": -68.214,
+        "thumb": "./fotos/nomad_cejar/cejar (8).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "cejar (9).webp",
+        "zona": "cejar",
+        "capa": "Etapa Nómada",
+        "lat": -23.058,
+        "lon": -68.214,
+        "thumb": "./fotos/nomad_cejar/cejar (9).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "16122009-_DSC1357.webp",
+        "zona": "chiloe",
+        "capa": "Publicaciones & Prensa",
+        "lat": -42.612,
+        "lon": -73.928,
+        "thumb": "./fotos/pub_chiloe/16122009-_DSC1357.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Chiloe Balsas 3 PWP.webp",
+        "zona": "chiloe",
+        "capa": "Publicaciones & Prensa",
+        "lat": -42.612,
+        "lon": -73.928,
+        "thumb": "./fotos/pub_chiloe/Chiloe Balsas 3 PWP.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Chiloe303 copy.webp",
+        "zona": "chiloe",
+        "capa": "Publicaciones & Prensa",
+        "lat": -42.612,
+        "lon": -73.928,
+        "thumb": "./fotos/pub_chiloe/Chiloe303 copy.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Chiloe362 copy_1.webp",
+        "zona": "chiloe",
+        "capa": "Publicaciones & Prensa",
+        "lat": -42.612,
+        "lon": -73.928,
+        "thumb": "./fotos/pub_chiloe/Chiloe362 copy_1.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Chiloe620 copy.webp",
+        "zona": "chiloe",
+        "capa": "Publicaciones & Prensa",
+        "lat": -42.612,
+        "lon": -73.928,
+        "thumb": "./fotos/pub_chiloe/Chiloe620 copy.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Chiloe646 copy_2.webp",
+        "zona": "chiloe",
+        "capa": "Publicaciones & Prensa",
+        "lat": -42.612,
+        "lon": -73.928,
+        "thumb": "./fotos/pub_chiloe/Chiloe646 copy_2.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Entrada al estrecho, faro Dungenes en la punta.webp",
+        "zona": "estrecho_magallanes",
+        "capa": "Publicaciones & Prensa",
+        "lat": -53.616,
+        "lon": -70.912,
+        "thumb": "./fotos/pub_estrecho_magallanes/Entrada al estrecho, faro Dungenes en la punta.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Estrecho, faro Espiritu Santo.webp",
+        "zona": "estrecho_magallanes",
+        "capa": "Publicaciones & Prensa",
+        "lat": -53.616,
+        "lon": -70.912,
+        "thumb": "./fotos/pub_estrecho_magallanes/Estrecho, faro Espiritu Santo.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "estrecho_magallanes.webp",
+        "zona": "estrecho_magallanes",
+        "capa": "Publicaciones & Prensa",
+        "lat": -53.616,
+        "lon": -70.912,
+        "thumb": "./fotos/pub_estrecho_magallanes/estrecho_magallanes.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (1).webp",
+        "zona": "fordlandia",
+        "capa": "Publicaciones & Prensa",
+        "lat": -3.831,
+        "lon": -55.498,
+        "thumb": "./fotos/pub_fordlandia/fordlandia (1).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (10).webp",
+        "zona": "fordlandia",
+        "capa": "Publicaciones & Prensa",
+        "lat": -3.831,
+        "lon": -55.498,
+        "thumb": "./fotos/pub_fordlandia/fordlandia (10).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (11).webp",
+        "zona": "fordlandia",
+        "capa": "Publicaciones & Prensa",
+        "lat": -3.831,
+        "lon": -55.498,
+        "thumb": "./fotos/pub_fordlandia/fordlandia (11).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (12).webp",
+        "zona": "fordlandia",
+        "capa": "Publicaciones & Prensa",
+        "lat": -3.831,
+        "lon": -55.498,
+        "thumb": "./fotos/pub_fordlandia/fordlandia (12).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (13).webp",
+        "zona": "fordlandia",
+        "capa": "Publicaciones & Prensa",
+        "lat": -3.831,
+        "lon": -55.498,
+        "thumb": "./fotos/pub_fordlandia/fordlandia (13).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (14).webp",
+        "zona": "fordlandia",
+        "capa": "Publicaciones & Prensa",
+        "lat": -3.831,
+        "lon": -55.498,
+        "thumb": "./fotos/pub_fordlandia/fordlandia (14).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (15).webp",
+        "zona": "fordlandia",
+        "capa": "Publicaciones & Prensa",
+        "lat": -3.831,
+        "lon": -55.498,
+        "thumb": "./fotos/pub_fordlandia/fordlandia (15).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (16).webp",
+        "zona": "fordlandia",
+        "capa": "Publicaciones & Prensa",
+        "lat": -3.831,
+        "lon": -55.498,
+        "thumb": "./fotos/pub_fordlandia/fordlandia (16).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (17).webp",
+        "zona": "fordlandia",
+        "capa": "Publicaciones & Prensa",
+        "lat": -3.831,
+        "lon": -55.498,
+        "thumb": "./fotos/pub_fordlandia/fordlandia (17).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (18).webp",
+        "zona": "fordlandia",
+        "capa": "Publicaciones & Prensa",
+        "lat": -3.831,
+        "lon": -55.498,
+        "thumb": "./fotos/pub_fordlandia/fordlandia (18).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (2).webp",
+        "zona": "fordlandia",
+        "capa": "Publicaciones & Prensa",
+        "lat": -3.831,
+        "lon": -55.498,
+        "thumb": "./fotos/pub_fordlandia/fordlandia (2).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (3).webp",
+        "zona": "fordlandia",
+        "capa": "Publicaciones & Prensa",
+        "lat": -3.831,
+        "lon": -55.498,
+        "thumb": "./fotos/pub_fordlandia/fordlandia (3).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (4).webp",
+        "zona": "fordlandia",
+        "capa": "Publicaciones & Prensa",
+        "lat": -3.831,
+        "lon": -55.498,
+        "thumb": "./fotos/pub_fordlandia/fordlandia (4).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (5).webp",
+        "zona": "fordlandia",
+        "capa": "Publicaciones & Prensa",
+        "lat": -3.831,
+        "lon": -55.498,
+        "thumb": "./fotos/pub_fordlandia/fordlandia (5).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (6).webp",
+        "zona": "fordlandia",
+        "capa": "Publicaciones & Prensa",
+        "lat": -3.831,
+        "lon": -55.498,
+        "thumb": "./fotos/pub_fordlandia/fordlandia (6).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (7).webp",
+        "zona": "fordlandia",
+        "capa": "Publicaciones & Prensa",
+        "lat": -3.831,
+        "lon": -55.498,
+        "thumb": "./fotos/pub_fordlandia/fordlandia (7).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (8).webp",
+        "zona": "fordlandia",
+        "capa": "Publicaciones & Prensa",
+        "lat": -3.831,
+        "lon": -55.498,
+        "thumb": "./fotos/pub_fordlandia/fordlandia (8).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "fordlandia (9).webp",
+        "zona": "fordlandia",
+        "capa": "Publicaciones & Prensa",
+        "lat": -3.831,
+        "lon": -55.498,
+        "thumb": "./fotos/pub_fordlandia/fordlandia (9).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "lazcar (1).webp",
+        "zona": "lazcar",
+        "capa": "Etapa Nómada",
+        "lat": -23.361,
+        "lon": -67.733,
+        "thumb": "./fotos/nomad_lazcar/lazcar (1).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "lazcar (2).webp",
+        "zona": "lazcar",
+        "capa": "Etapa Nómada",
+        "lat": -23.361,
+        "lon": -67.733,
+        "thumb": "./fotos/nomad_lazcar/lazcar (2).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "lazcar (3).webp",
+        "zona": "lazcar",
+        "capa": "Etapa Nómada",
+        "lat": -23.361,
+        "lon": -67.733,
+        "thumb": "./fotos/nomad_lazcar/lazcar (3).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Lota Chile 1990 anciano recolector de carbon.webp",
+        "zona": "lota",
+        "capa": "Publicaciones & Prensa",
+        "lat": -37.091,
+        "lon": -73.159,
+        "thumb": "./fotos/pub_lota/Lota Chile 1990 anciano recolector de carbon.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Lota Chile 1990 pescando carbon.webp",
+        "zona": "lota",
+        "capa": "Publicaciones & Prensa",
+        "lat": -37.091,
+        "lon": -73.159,
+        "thumb": "./fotos/pub_lota/Lota Chile 1990 pescando carbon.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "_MGD7164.webp",
+        "zona": "lota",
+        "capa": "Publicaciones & Prensa",
+        "lat": -37.091,
+        "lon": -73.159,
+        "thumb": "./fotos/pub_lota/_MGD7164.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "AtacamaSelección HHT0136.webp",
+        "zona": "san_pedro",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.199,
+        "thumb": "./fotos/nomad_san_pedro/AtacamaSelección HHT0136.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "AtacamaSelección HHT0204.webp",
+        "zona": "san_pedro",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.199,
+        "thumb": "./fotos/nomad_san_pedro/AtacamaSelección HHT0204.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Peine-Flamencos-2007060013.webp",
+        "zona": "san_pedro",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.199,
+        "thumb": "./fotos/nomad_san_pedro/Peine-Flamencos-2007060013.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "altiplano.webp",
+        "zona": "san_pedro",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.199,
+        "thumb": "./fotos/nomad_san_pedro/altiplano.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "laguna_altiplano.webp",
+        "zona": "san_pedro",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.199,
+        "thumb": "./fotos/nomad_san_pedro/laguna_altiplano.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "peine.webp",
+        "zona": "san_pedro",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.199,
+        "thumb": "./fotos/nomad_san_pedro/peine.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "san_pedro.webp",
+        "zona": "san_pedro",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.199,
+        "thumb": "./fotos/nomad_san_pedro/san_pedro.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "tatio.webp",
+        "zona": "san_pedro",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.199,
+        "thumb": "./fotos/nomad_san_pedro/tatio.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna.webp",
+        "zona": "san_pedro",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.199,
+        "thumb": "./fotos/nomad_san_pedro/valle_luna.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Doble-pag.pub.-sueca.webp",
+        "zona": "suecia",
+        "capa": "Publicaciones & Prensa",
+        "lat": 60.128,
+        "lon": 18.643,
+        "thumb": "./fotos/pub_suecia/05052002-Doble-pag.pub.-sueca.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub-Sueca-Fothh3.webp",
+        "zona": "suecia",
+        "capa": "Publicaciones & Prensa",
+        "lat": 60.128,
+        "lon": 18.643,
+        "thumb": "./fotos/pub_suecia/05052002-Pub-Sueca-Fothh3.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub-Sueca-Fotograf-hh2.webp",
+        "zona": "suecia",
+        "capa": "Publicaciones & Prensa",
+        "lat": 60.128,
+        "lon": 18.643,
+        "thumb": "./fotos/pub_suecia/05052002-Pub-Sueca-Fotograf-hh2.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub.sueca-2.webp",
+        "zona": "suecia",
+        "capa": "Publicaciones & Prensa",
+        "lat": 60.128,
+        "lon": 18.643,
+        "thumb": "./fotos/pub_suecia/05052002-Pub.sueca-2.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "05052002-Pub.sueca.webp",
+        "zona": "suecia",
+        "capa": "Publicaciones & Prensa",
+        "lat": 60.128,
+        "lon": 18.643,
+        "thumb": "./fotos/pub_suecia/05052002-Pub.sueca.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Arribo Esmeralda 2.webp",
+        "zona": "valparaiso",
+        "capa": "Publicaciones & Prensa",
+        "lat": -33.047,
+        "lon": -71.619,
+        "thumb": "./fotos/pub_valparaiso/Arribo Esmeralda 2.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Arribo Esmeralda 4.webp",
+        "zona": "valparaiso",
+        "capa": "Publicaciones & Prensa",
+        "lat": -33.047,
+        "lon": -71.619,
+        "thumb": "./fotos/pub_valparaiso/Arribo Esmeralda 4.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "Arribo Esmeralda.webp",
+        "zona": "valparaiso",
+        "capa": "Publicaciones & Prensa",
+        "lat": -33.047,
+        "lon": -71.619,
+        "thumb": "./fotos/pub_valparaiso/Arribo Esmeralda.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "DSC_4425-Editar.webp",
+        "zona": "planta_litio",
+        "capa": "Publicaciones & Prensa",
+        "lat": -23.473,
+        "lon": -68.349,
+        "thumb": "./fotos/pub_planta_litio/DSC_4425-Editar.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "DSC_4470.webp",
+        "zona": "planta_litio",
+        "capa": "Publicaciones & Prensa",
+        "lat": -23.473,
+        "lon": -68.349,
+        "thumb": "./fotos/pub_planta_litio/DSC_4470.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "DSC_5027 copia-Editar.webp",
+        "zona": "planta_litio",
+        "capa": "Publicaciones & Prensa",
+        "lat": -23.473,
+        "lon": -68.349,
+        "thumb": "./fotos/pub_planta_litio/DSC_5027 copia-Editar.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "G0010946 copia.webp",
+        "zona": "planta_litio",
+        "capa": "Publicaciones & Prensa",
+        "lat": -23.473,
+        "lon": -68.349,
+        "thumb": "./fotos/pub_planta_litio/G0010946 copia.webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (1).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (1).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (10).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (10).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (11).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (11).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (12).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (12).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (13).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (13).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (14).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (14).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (15).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (15).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (16).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (16).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (17).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (17).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (18).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (18).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (19).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (19).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (2).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (2).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (20).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (20).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (21).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (21).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (22).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (22).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (23).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (23).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (24).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (24).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (25).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (25).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (26).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (26).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (27).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (27).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (28).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (28).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (29).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (29).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (3).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (3).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (30).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (30).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (31).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (31).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (32).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (32).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (33).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (33).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (34).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (34).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (35).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (35).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (36).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (36).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (37).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (37).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (38).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (38).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (39).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (39).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (4).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (4).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (40).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (40).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (41).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (41).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (42).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (42).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (43).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (43).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (44).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (44).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (45).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (45).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (46).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (46).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (47).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (47).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (48).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (48).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (49).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (49).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (5).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (5).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (50).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (50).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (51).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (51).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (52).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (52).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (53).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (53).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (54).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (54).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (55).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (55).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (56).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (56).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (57).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (57).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (58).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (58).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (59).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (59).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (6).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (6).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (60).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (60).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (61).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (61).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (62).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (62).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (63).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (63).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (64).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (64).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (65).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (65).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (7).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (7).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (8).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (8).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    },
+    {
+        "id": "valle_luna (9).webp",
+        "zona": "valle_luna",
+        "capa": "Etapa Nómada",
+        "lat": -22.911,
+        "lon": -68.323,
+        "thumb": "./fotos/nomad_valle_luna/valle_luna (9).webp",
+        "estrellas": 0,
+        "relato": "Archivo SUR DAO"
+    }
+]
