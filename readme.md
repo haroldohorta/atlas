@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<div align="center">
+
  🗺️ SUR DAO: El Atlas de Haroldo Horta
 ### *Archivo de Memoria Visual, Cartografía Social y Libertad Creativa*
 ### *Visual Memory Archive, Social Cartography & Creative Freedom*
@@ -67,28 +67,17 @@ Este archivo incluye crónicas de lo que no debió ser visto.
 
 ---
 
-## 🚩 Compromiso y Lealtad
-Este Atlas es la continuación técnica de un trabajo que empezó en las trincheras del **Frente Sur Benjamín Zeledón**. Cada coordenada y cada byte de este sistema están a disposición de la verdad histórica de Nicaragua y su pueblo soberano.
-
-*Patria Libre o Morir.*
+###  Memoria y Raíces
+Este proyecto se organiza y custodia desde **Junín, Argentina**. Es un puente tendido entre el pasado combatiente y el presente en la pampa. 
+*Dedicado a quienes nos dieron la raíz para volar, permitiendo que hoy este legado sea preservado con la dignidad que merece.*
 
 ---
-
 ## 📬 Contacto / Contact
 Si eres investigador, autoridad o coleccionista y deseas acceder al archivo de alta resolución (TIFF) o conocer más sobre las crónicas:
 
 - **Haroldo Horta:** [haroldohorta.com](http://haroldohorta.com) | [haroldohorta@gmail.com](mailto:haroldohorta@gmail.com)
 - **Desarrollo & Curaduría:** [Tu Nombre/GitHub]
 - **Ubicación Actual:** Junín, Argentina (Club de Paramotores Laguna de Gómez).
-
----
-
-###  Memoria y Raíces
-Este proyecto se organiza y custodia desde **Junín, Argentina**. Es un puente tendido entre el pasado combatiente y el presente en la pampa. 
-
-*Dedicado a quienes nos dieron la raíz para volar, permitiendo que hoy este legado sea preservado con la dignidad que merece.*
-
----
-
+<p align="center">
 ### 🌍 [EXPLORAR EL ATLAS INTERACTIVO AQUÍ](https://haroldohorta.github.io/atlas/)
 > **Desarrollado consentido en medio de una tormenta en Junín, 2026.**
