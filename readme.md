@@ -1,5 +1,5 @@
 <header style="width: 100%; background: #1a1a1a; text-align: center; border-bottom: 2px solid #333;">
-    <img src="fotos/banner_principal.webp" alt="Haroldo Horta - Atlas" style="max-width: 100%; height: auto; max-height: 100px; object-fit: cover; display: block; margin: 0 auto;">
+    <img src="fotos/banner_principal.webp" alt="Haroldo Horta - Atlas" style="max-width: 100%; height: auto; max-height: 200px; object-fit: cover; display: block; margin: 0 auto;">
     <div style="padding: 10px; color: white; font-family: 'Arial', sans-serif;">
         <h1 style="margin: 0; font-size: 1.5rem; letter-spacing: 2px;">SUR DAO: ATLAS DE MEMORIA</h1>
         <p style="margin: 5px 0 0; font-size: 0.9rem; color: #aaa;">Archivo Visual de Haroldo Horta</p>
