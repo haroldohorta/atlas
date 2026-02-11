@@ -1,8 +1,8 @@
 zona,lat,lon,descripcion
 nicaragua,12.136,-86.251,Etapa Corresponsalía Guerra
-managua,12.132,-86.250,Base Revolución
+managua,12.132,-86.25,Base Revolución
 peru,-12.046,-77.042,Etapa Corresponsalía 90s
-lima,-12.045,-77.030,Embajada Japonesa / Prensa
+lima,-12.045,-77.03,Embajada Japonesa / Prensa
 chile,-33.448,-70.665,Patrimonio Nacional
 lota,-37.091,-73.159,Realismo Social Carbón
 santiago,-33.448,-70.665,Capital Chile
@@ -21,7 +21,7 @@ valle_muerte,-22.888,-68.204,Cordillera de la Sal
 junin,-34.583,-60.944,Base Junín Argentina
 uyuni,-20.462,-66.824,Salar de Uyuni / Bolivia
 valle_luna,-22.911,-68.323,Valle de la Luna / Atacama
-antartida,-62.200,-58.964,Base Frei / Territorio Antártico
+antartida,-62.2,-58.964,Base Frei / Territorio Antártico
 valparaiso,-33.047,-71.619,Puerto de Valparaíso
 latinoamerica,-20.0,-60.0,Archivo General Latinoamérica
 alemania,51.165,10.451,Publicaciones Europa
@@ -30,3 +30,16 @@ europa,48.856,2.352,Archivo General Europa
 chiloe,-42.612,-73.928,Mitología y Paisaje
 estrecho_magallanes,-53.616,-70.912,Navegación Austral
 fordlandia,-3.831,-55.498,Proyecto Ford / Amazonía
+medellin,6.2442,-75.5812,Crónica urbana y transformación en Medellín.
+base_prat,-62.478,-59.663,Base Antártica Arturo Prat (Chile) - Travesía Esmeralda
+base_esperanza,-63.397,-56.996,Base Antártica Esperanza (Argentina) - Travesía Esmeralda
+port_lockroy,-64.825,-63.494,Base Inglesa Port Lockroy - Travesía Esmeralda
+tahiti,-17.65,-149.426,Polinesia Francesa: Papeete - Ruta del Buque Escuela
+isla_de_pascua,-27.112,-109.349,Rapa Nui: El ombligo del mundo - Travesía Esmeralda
+miami,25.761,-80.191,Miami Florida - Encuentros navales internacionales
+espana,40.416,-3.703,España: Escala europea de la Esmeralda
+ecuador,-0.18,-78.467,Ecuador: Travesía por el Pacífico
+faro_evangelistas,-52.389,-75.105,Faro Evangelistas: El centinela del Estrecho de Magallanes
+faro_corona,-41.783,-73.88,Faro Corona: Entrada al Canal de Chacao Chiloé
+faro_diego_ramirez,-56.511,-68.73,Faro Diego Ramírez: El punto más austral del continente
+faro_punta_angamos,-23.083,-70.516,Faro Punta Angamos: Vigilante de la Bahía de Mejillones

@@ -2008,5 +2008,15 @@
         "lon": -70.665,
         "thumb": "fotos/pub_santiago/libro_esmeralda.webp",
         "descripcion": "Capital Chile"
+    },
+    {
+        "id": "ojo_ojo.webp",
+        "zona": "medellin",
+        "titulo": "medellin",
+        "capa": "Crónica & Etnografía",
+        "lat": 6.2442,
+        "lon": -75.5812,
+        "thumb": "fotos/pub_medellin/ojo_ojo.webp",
+        "descripcion": "Crónica urbana y transformación en Medellín."
     }
 ]
