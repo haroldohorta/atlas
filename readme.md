@@ -68,5 +68,9 @@ Si eres investigador, autoridad o coleccionista y deseas acceder al archivo de a
 
 ---
 
-> *"Las mejores tomas no fueron encargos; fueron actos de libertad."*
-> **Desarrollado con conciencia y posicionamiento en medio de una tormenta en Junín, 2026.**
+---
+
+### 🕊️ Memoria y Raíces
+Este archivo se organiza y custodia desde **Junín, Argentina**. Es un puente tendido entre el pasado combatiente en Nicaragua y el presente en la pampa. 
+
+*Dedicado a quienes nos dieron la raíz para volar, permitiendo que hoy este legado sea preservado con la dignidad que merece.*
