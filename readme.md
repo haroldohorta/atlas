@@ -60,13 +60,11 @@ El sistema está diseñado para la **soberanía de datos**.
 - **Metadata:** Sincronización directa con los campos de "Descripción" y "Rating" de Adobe Bridge/Lightroom.
 
 ---
-
 ## 📖 El "No-Registro" y la Expulsión / The "Non-Record" & Expulsion
 Este archivo incluye crónicas de lo que no debió ser visto. 
 > *"A los 10 días, llegó la autoridad. El 'huinca' debía irse. Los registros del dirigente molesto son el testimonio de la barrera entre el forastero y la comunidad que lo había acogido con humanidad."*
 
 ---
-
 ###  Memoria y Raíces
 Este proyecto se organiza y custodia desde **Junín, Argentina**. Es un puente tendido entre el pasado combatiente y el presente en la pampa. 
 *Dedicado a quienes nos dieron la raíz para volar, permitiendo que hoy este legado sea preservado con la dignidad que merece.*
@@ -78,10 +76,4 @@ Si eres investigador, autoridad o coleccionista y deseas acceder al archivo de a
 - **Haroldo Horta:** https://haroldohorta.github.io/atlas/| [haroldohorta@gmail.com](mailto:haroldohorta@gmail.com)
 - **Desarrollo & Curaduría:** [TIANHH77/GitHub]
 - **Ubicación Actual:** Junín, Argentina (Club de Paramotores Laguna de Gómez).
-
-
-  <a href="https://haroldohorta.github.io/atlas/">
-    <b>[ 🌍 ACCEDER AL ATLAS 🌍/ 🌍 ACCESS THE ATLAS 🌍 ]</b>
-  </a>
-</p
 > **Desarrollado consentido en medio de una tormenta en Junín, 2026.**
