@@ -75,9 +75,13 @@ Este proyecto se organiza y custodia desde **Junín, Argentina**. Es un puente t
 ## 📬 Contacto / Contact
 Si eres investigador, autoridad o coleccionista y deseas acceder al archivo de alta resolución (TIFF) o conocer más sobre las crónicas:
 
-- **Haroldo Horta:** [haroldohorta.com](http://haroldohorta.com) | [haroldohorta@gmail.com](mailto:haroldohorta@gmail.com)
-- **Desarrollo & Curaduría:** [Tu Nombre/GitHub]
+- **Haroldo Horta:** https://haroldohorta.github.io/atlas/| [haroldohorta@gmail.com](mailto:haroldohorta@gmail.com)
+- **Desarrollo & Curaduría:** [TIANHH77/GitHub]
 - **Ubicación Actual:** Junín, Argentina (Club de Paramotores Laguna de Gómez).
-<p align="center">
-### 🌍 [EXPLORAR EL ATLAS INTERACTIVO AQUÍ](https://haroldohorta.github.io/atlas/)
+
+### <p align="center">
+  <a href="https://haroldohorta.github.io/atlas/">
+    <b>[ 🌍 ACCEDER AL ATLAS 🌍/ 🌍 ACCESS THE ATLAS 🌍 ]</b>
+  </a>
+</p
 > **Desarrollado consentido en medio de una tormenta en Junín, 2026.**
