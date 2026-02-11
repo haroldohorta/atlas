@@ -10,13 +10,13 @@
   [![Format](https://img.shields.io/badge/Archivo-TIFF_Master-orange.svg)]()
 </div>
 
----
+---### 🌍
 <p align="center">
   <a href="https://haroldohorta.github.io/atlas/">
     <b>[ ACCEDER AL ATLAS / ACCESS THE ATLAS ]</b>
   </a>
 </p>
-### 🌍 [EXPLORAR EL ATLAS INTERACTIVO AQUÍ](https://haroldohorta.github.io/atlas/)
+
 
 
 # 🗺️ SUR DAO: El Atlas de Haroldo Horta
