@@ -8,6 +8,7 @@ RUTA_FOTOS = os.path.join(BASE_DIR, "fotos")
 RUTA_CSV = os.path.join(BASE_DIR, "data", "zonas.csv")
 ARCHIVO_SALIDA = os.path.join(BASE_DIR, "data", "puntos_mapa.json")
 
+# Diccionario de categorías
 CATEGORIAS = {
     "pub_": "Crónica & Etnografía",
     "nomad_": "Bitácora Nómada",
@@ -15,20 +16,22 @@ CATEGORIAS = {
     "nav_": "Registro Naval"
 }
 
-# Extensiones permitidas
+# Extensiones válidas (Ignoramos archivos basura)
 EXTS = ('.jpg', '.jpeg', '.png', '.webp', '.gif')
 
 def escanear_todo():
-    print("🚀 Iniciando Escaneo Profundo del Atlas...")
+    print("🚀 Iniciando Protocolo de Rescate y Sincronización...")
 
     if not os.path.exists(RUTA_CSV):
-        print("❌ Faltan datos maestros (zonas.csv)")
+        print("❌ ERROR: No encuentro data/zonas.csv")
         return
 
+    # Cargar CSV
     df_zonas = pd.read_csv(RUTA_CSV)
-    df_zonas['zona'] = df_zonas['zona'].astype(str).str.strip().str.lower()
+    # Convertimos a string y quitamos espacios para evitar errores tontos
+    df_zonas['zona'] = df_zonas['zona'].astype(str).str.strip().lower()
     
-    # Convertimos el DF a un diccionario para búsqueda rápida
+    # Mapa de coordenadas en memoria
     info_zonas = {}
     for _, row in df_zonas.iterrows():
         info_zonas[row['zona']] = {
@@ -39,49 +42,57 @@ def escanear_todo():
 
     todos_los_puntos = []
 
-    # Recorrer TODAS las carpetas y subcarpetas
+    # Recorrer el disco
     for root, dirs, files in os.walk(RUTA_FOTOS):
-        # Detectar zona basada en el nombre de la carpeta actual
-        nombre_carpeta = os.path.basename(root).lower()
+        # Nombre real de la carpeta en el disco (puede tener mayúsculas)
+        carpeta_real = os.path.basename(root)
+        nombre_lower = carpeta_real.lower()
         
-        # Limpieza de prefijos para hallar la zona
-        zona_detectada = nombre_carpeta
+        # Detectar Zona
+        zona_detectada = nombre_lower
         categoria_detectada = "Archivo General"
         
         for pre, cat in CATEGORIAS.items():
-            if nombre_carpeta.startswith(pre):
+            if nombre_lower.startswith(pre):
                 categoria_detectada = cat
-                zona_detectada = nombre_carpeta.replace(pre, "")
+                zona_detectada = nombre_lower.replace(pre, "")
                 break
         
-        # Si esta carpeta es una "Zona Conocida" (está en el CSV)
+        # ¿Esta carpeta es una zona válida del CSV?
         if zona_detectada in info_zonas:
-            datos_zona = info_zonas[zona_detectada]
+            datos = info_zonas[zona_detectada]
             
-            # Agregamos CADA foto como un punto
-            fotos_encontradas = [f for f in files if f.lower().endswith(EXTS)]
+            # Filtrar fotos válidas (ignorando basura)
+            fotos_validas = [f for f in files if f.lower().endswith(EXTS)]
             
-            if fotos_encontradas:
-                print(f"  📸 Zona {zona_detectada}: {len(fotos_encontradas)} fotos.")
+            if fotos_validas:
+                print(f"  ✅ Zona Detectada: {zona_detectada.upper()} ({len(fotos_validas)} fotos)")
             
-            for foto in fotos_encontradas:
-                ruta_relativa = os.path.relpath(os.path.join(root, foto), BASE_DIR).replace("\\", "/")
+            for foto in fotos_validas:
+                # TRUCO: Construimos la ruta RELATIVA exacta tal cual está en el disco
+                # Esto arregla el problema de Linux vs Windows
+                ruta_completa = os.path.join(root, foto)
+                ruta_relativa = os.path.relpath(ruta_completa, BASE_DIR).replace("\\", "/")
                 
+                # Excluir archivos que empiecen con punto (ocultos) o '._' (mac/linux trash)
+                if foto.startswith(".") or foto.startswith("._"):
+                    continue
+
                 todos_los_puntos.append({
                     "id": foto,
                     "zona": zona_detectada,
                     "capa": categoria_detectada,
-                    "lat": datos_zona['lat'],   # Todas las fotos de la zona comparten coordenada
-                    "lon": datos_zona['lon'],
-                    "thumb": ruta_relativa,     # Ruta directa a la imagen
-                    "descripcion": datos_zona['desc']
+                    "lat": datos['lat'],
+                    "lon": datos['lon'],
+                    "thumb": ruta_relativa, # Ruta exacta para GitHub
+                    "descripcion": datos['desc']
                 })
 
-    # Guardar
+    # Guardar JSON
     with open(ARCHIVO_SALIDA, 'w', encoding='utf-8') as f:
         json.dump(todos_los_puntos, f, indent=4, ensure_ascii=False)
 
-    print(f"\n✨ ESCANEO COMPLETO: {len(todos_los_puntos)} imágenes indexadas.")
+    print(f"\n✨ BASE DE DATOS REPARADA: {len(todos_los_puntos)} imágenes listas para despegue.")
 
 if __name__ == "__main__":
     escanear_todo()
