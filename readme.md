@@ -11,7 +11,11 @@
 </div>
 
 ---
-
+<p align="center">
+  <a href="https://haroldohorta.github.io/atlas/">
+    <b>[ ACCEDER AL ATLAS / ACCESS THE ATLAS ]</b>
+  </a>
+</p>
 ### 🌍 [EXPLORAR EL ATLAS INTERACTIVO AQUÍ](https://haroldohorta.github.io/atlas/)
 
 
