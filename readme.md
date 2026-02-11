@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/haroldohorta/atlas/main/fotos/banner_principal.webp" width="33%" alt="Haroldo Horta - Archivo Visual">
   
    📷 "Memoria viva, al rescate de lo humano" 📷
-  
+  <div align="center">
   *Registro histórico capturado por Haroldo Horta durante sus años de servicio a la Revolución Sandinista y su labor como corresponsal internacional.*
 
   [![Status](https://img.shields.io/badge/Status-Activo-success.svg)]()
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-
+<div align="center">
  🗺️ SUR DAO: El Atlas de Haroldo Horta
 ### *Archivo de Memoria Visual, Cartografía Social y Libertad Creativa*
 ### *Visual Memory Archive, Social Cartography & Creative Freedom*
