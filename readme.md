@@ -19,7 +19,7 @@
 
 
 
-# 🗺️ SUR DAO: El Atlas de Haroldo Horta
+                                                        # 🗺️ SUR DAO: El Atlas de Haroldo Horta
 ### *Archivo de Memoria Visual, Cartografía Social y Libertad Creativa*
 ### *Visual Memory Archive, Social Cartography & Creative Freedom*
 
