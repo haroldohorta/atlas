@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/haroldohorta/atlas/main/fotos/banner_principal.webp" width="33%" alt="Haroldo Horta - Archivo Visual">
   
-  ## 📷 "Memoria de una lucha inalterable"
+  ## 📷 "Memoria viva, Legado Histórico" 📷
   
   *Registro histórico capturado por Haroldo Horta durante sus años de servicio a la Revolución Sandinista y su labor como corresponsal internacional.*
 
@@ -13,7 +13,7 @@
  
 <p align="center">
   <a href="https://haroldohorta.github.io/atlas/">
-    <b>[ 🌍ACCEDER AL ATLAS 🌍/ 🌍ACCESS THE ATLAS🌍 ]</b>
+    <b>[ 🌍 ACCEDER AL ATLAS 🌍/ 🌍 ACCESS THE ATLAS 🌍 ]</b>
   </a>
 </p>
 
