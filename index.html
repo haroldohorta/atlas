@@ -3,10 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Atlas SUR DAO | Cluster Edition</title>
+    <title>Atlas Haroldo Horta | 50 Años de Memoria Viva</title>
+    
+    <!-- Open Graph para Facebook/WhatsApp -->
+    <meta property="og:title" content="Atlas Haroldo Horta | 50 Años de Memoria Viva">
+    <meta property="og:description" content="28TB de memoria fotográfica: desde Nicaragua Sandinista hasta la Patagonia">
+    <meta property="og:image" content="https://haroldohorta.github.io/atlas/fotos/panos/01_portada.webp">
+    <meta property="og:url" content="https://haroldohorta.github.io/atlas/">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Atlas Haroldo Horta">
+    <meta name="twitter:description" content="50 años de fotografía documental latinoamericana">
+    <meta name="twitter:image" content="https://haroldohorta.github.io/atlas/fotos/panos/01_portada.webp">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
     
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
 
@@ -29,24 +43,54 @@
         .btn-portafolio:hover { background: #ff9f1c; color: #000; }
 
         /* --- PERSONALIZACIÓN DE LAS BURBUJAS (CLUSTERS) --- */
-        /* Hacemos que los círculos de números sean Naranjas y Negros */
         .marker-cluster-small, .marker-cluster-medium, .marker-cluster-large {
-            background-color: rgba(255, 159, 28, 0.2) !important; /* Aureola Naranja */
+            background-color: rgba(255, 159, 28, 0.2) !important;
         }
         .marker-cluster div {
-            background-color: #000 !important; /* Centro Negro */
-            color: #ff9f1c !important; /* Texto Naranja */
+            background-color: #000 !important;
+            color: #ff9f1c !important;
             border: 1px solid #ff9f1c;
             font-family: 'Courier New', monospace;
             font-weight: bold;
         }
         
         /* Leyenda */
-        .legend { position: absolute; bottom: 30px; left: 30px; background: rgba(0,0,0,0.8); border: 1px solid #444; padding: 10px; z-index: 1000; font-size: 11px; }
+        .legend { 
+            position: absolute; bottom: 30px; left: 30px; 
+            background: rgba(0,0,0,0.8); border: 1px solid #444; 
+            padding: 10px; z-index: 1000; font-size: 11px; 
+            border-radius: 4px;
+        }
         .dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 5px; }
+
+        /* Loading Screen */
+        #loading {
+            position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+            background: #0f0f0f; z-index: 9999;
+            display: flex; align-items: center; justify-content: center;
+            flex-direction: column;
+        }
+        #loading .spinner {
+            font-size: 50px; margin-bottom: 20px;
+            animation: spin 2s linear infinite;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        #loading .text {
+            color: #ff9f1c; font-size: 14px; text-transform: uppercase;
+            letter-spacing: 2px;
+        }
     </style>
 </head>
 <body>
+
+<!-- Loading Screen -->
+<div id="loading">
+    <div class="spinner">📷</div>
+    <div class="text">Cargando Atlas...</div>
+</div>
 
 <div id="map"></div>
 
@@ -64,12 +108,13 @@
     // 1. Mapa Base
     const map = L.map('map').setView([-22, -68], 4);
     L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-        attribution: 'SUR DAO | Haroldo Horta', maxZoom: 19
+        attribution: 'SUR DAO | Haroldo Horta', 
+        maxZoom: 19
     }).addTo(map);
 
-    // 2. Grupo de Clusters (Aquí ocurre la magia)
+    // 2. Grupo de Clusters
     const markers = L.markerClusterGroup({
-        spiderfyOnMaxZoom: true,  // ESTO HACE LA ESPIRAL
+        spiderfyOnMaxZoom: true,
         showCoverageOnHover: false,
         zoomToBoundsOnClick: true,
         animate: true
@@ -83,15 +128,19 @@
         return "#ffffff";
     };
 
+    // 3. Cargar datos
     fetch('data/puntos_mapa.json')
         .then(res => res.json())
         .then(data => {
             console.log("Cargando puntos:", data.length);
             
+            // Remover loading screen
+            const loadingEl = document.getElementById('loading');
+            if(loadingEl) loadingEl.remove();
+            
             data.forEach(punto => {
                 if (!punto.lat || !punto.lon) return;
 
-                // Creamos un marcador circular simple
                 const color = getStyle(punto.capa);
                 
                 const marker = L.circleMarker([punto.lat, punto.lon], {
@@ -103,29 +152,39 @@
                     fillOpacity: 0.9
                 });
 
-                // Contenido del Popup
                 const zonaTitulo = punto.zona ? punto.zona.toUpperCase() : 'ZONA';
                 marker.bindPopup(`
                     <div style="min-width: 180px; text-align: center;">
                         <div style="font-size:9px; color:#888; margin-bottom:5px; text-transform:uppercase;">
-                            ${punto.capa}
+                            ${punto.capa || 'ARCHIVO'}
                         </div>
                         <h3 style="margin: 5px 0; color: #ff9f1c;">${zonaTitulo}</h3>
                         <img src="${punto.thumb}" class="popup-img" onerror="this.style.display='none'">
-                        <div style="font-size:9px; color:#666; margin:8px 0;">${punto.id}</div>
+                        <div style="font-size:9px; color:#666; margin:8px 0;">${punto.id || ''}</div>
                         <a href="galeria.html?zona=${punto.zona}" class="btn-portafolio">ABRIR EXPEDIENTE 📂</a>
                     </div>
                 `);
 
-                // IMPORTANTE: Agregamos el marcador al GRUPO (markers), no directo al mapa
                 markers.addLayer(marker);
             });
 
-            // Al final, agregamos el grupo al mapa
             map.addLayer(markers);
         })
-        .catch(err => console.error("Error:", err));
+        .catch(err => {
+            console.error("Error cargando datos:", err);
+            const loadingEl = document.getElementById('loading');
+            if(loadingEl) {
+                loadingEl.innerHTML = `
+                    <div class="spinner">⚠️</div>
+                    <div class="text" style="color:#ff4d4d;">Error al cargar el Atlas</div>
+                    <div style="color:#666; font-size:10px; margin-top:10px;">
+                        Verifica que existe: data/puntos_mapa.json
+                    </div>
+                `;
+            }
+        });
 </script>
 
 </body>
 </html>
+
