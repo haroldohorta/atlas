@@ -107,7 +107,7 @@ Este archivo representa la **Trayectoria #00** de la iniciativa de rescate de me
 
 <br>
 <div align="center">
-  <h3>Desarrollado en Laguna de Gomez, Junín, Provincia de Buenos Aires, AR, Consentido, bajo la compañia de un temporal .</h3>
+  <h3>Desarrollado en Laguna de Gomez, Junín, Provincia de Buenos Aires, AR, afuera rayos, viento y agua, adentro una sonrisa .</h3>
   
   <img src="fotos/panos/07_cierre.webp" width="100%" alt="Fin del Mundo">
 </div>
