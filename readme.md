@@ -31,9 +31,9 @@
 
 <a name="-español"></a>
 ## 🇪🇸 Español
-### 🗺️ El Atlas de Haroldo Horta
+### 🗺️ El Archivo de Haroldo Horta
 
-Este repositorio aloja el archivo digital de **Haroldo Horta**. Un recorrido documental que abarca desde la resistencia en Centroamérica hasta los confines de la Antártida, pasando por la vida nómada en los Andes y la historia de los Faros de Chile.
+Este repositorio aloja el legado visual de **Haroldo Horta**. Un recorrido documental que abarca desde la resistencia en Centroamérica hasta los confines de la Antártida, pasando por la vida nómada en los Andes y la historia de los Faros de Chile.
 
 <img src="fotos/panos/02_espanol.webp" width="100%" alt="Faro - Guía">
 
@@ -47,9 +47,9 @@ Este repositorio aloja el archivo digital de **Haroldo Horta**. Un recorrido doc
 
 <a name="-english"></a>
 ## 🇺🇸 English
-### 🗺️ Haroldo Horta's Atlas
+### 🗺️ Haroldo Horta's Archive
 
-This repository hosts the digital archive of **Haroldo Horta**. A documentary journey spanning from the resistance in Central America to the edges of Antarctica, capturing the nomadic life in the Andes and the history of Chilean Lighthouses.
+This repository hosts the visual legacy of **Haroldo Horta**. A documentary journey spanning from the resistance in Central America to the edges of Antarctica, capturing the nomadic life in the Andes and the history of Chilean Lighthouses.
 
 <img src="fotos/panos/03_english.webp" width="100%" alt="Nicaragua Internationalist">
 
@@ -63,9 +63,9 @@ This repository hosts the digital archive of **Haroldo Horta**. A documentary jo
 
 <a name="-português"></a>
 ## 🇧🇷 Português
-### 🗺️ O Atlas de Haroldo Horta
+### 🗺️ O Arquivo de Haroldo Horta
 
-Este repositório abriga o arquivo digital de **Haroldo Horta**. Uma jornada documental que vai da resistência na América Central aos confins da Antártida, passando pela vida nômade nos Andes e a história dos Faróis do Chile.
+Este repositório abriga o legado visual de **Haroldo Horta**. Uma jornada documental que vai da resistência na América Central aos confins da Antártida, passando pela vida nômade nos Andes e a história dos Faróis do Chile.
 
 <img src="fotos/panos/04_portugues.webp" width="100%" alt="San Pedro Atacama">
 
@@ -90,13 +90,16 @@ This work is licensed under a **Creative Commons Attribution-NonCommercial-NoDer
 
 ---
 
-## 🛡️ Créditos de Rescate / Rescue Credits
+## 🛡️ Rescate Patrimonial / Heritage Rescue
 
-Este archivo es la **Trayectoria #00** de la iniciativa de rescate patrimonial impulsada por **SUR DAO**.
-*This archive is **Trajectory #00** of the heritage rescue initiative powered by **SUR DAO**.*
+Este archivo representa la **Trayectoria #00** de la iniciativa de rescate de memoria impulsada por **SUR DAO**.
+*This archive represents **Trajectory #00** of the memory rescue initiative powered by **SUR DAO**.*
 
 > **SUR DAO:** Tecnología descentralizada al servicio de la Memoria Histórica.
-> [🔗 Visitar Repositorio Oficial SUR DAO](https://github.com/tu-usuario-o-surdao) ---
+> <br>
+> [**🔗 Visitar Repositorio Oficial SUR DAO (Nave Madre)**](https://github.com/TIANHH77/Sur-DAO)
+
+---
 
 ## 📬 Contacto / Contact
 - **Email:** [haroldohorta@gmail.com](mailto:haroldohorta@gmail.com)
@@ -104,7 +107,7 @@ Este archivo es la **Trayectoria #00** de la iniciativa de rescate patrimonial i
 
 <br>
 <div align="center">
-  <h3>Desarrollado con sentido y amor en medio de una tormenta en Junín, 2026.</h3>
+  <h3>Desarrollado en Laguna de Gomez, Junín, Provincia de Buenos Aires, AR, Consentido, bajo la compañia de un temporal .</h3>
   
   <img src="fotos/panos/07_cierre.webp" width="100%" alt="Fin del Mundo">
 </div>
