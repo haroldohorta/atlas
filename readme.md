@@ -15,19 +15,21 @@
     <a href="#-português">🇧🇷 Português</a>
   </p>
 
-  [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-  [![Archive Size](https://img.shields.io/badge/Archivo-28TB-orange.svg)]()
-  [![Region](https://img.shields.io/badge/Región-Latinoamérica-blue.svg)]()
-
-
-<br>
-  <a href="https://haroldohorta.github.io/atlas/">
-    <h1>🌍 [ ACCEDER AL ATLAS / ACCESS THE ATLAS ] 🌍</h1>
-  </a>
-  <br>
+  <p align="center">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg" alt="License: CC BY-NC-ND 4.0"></a>
+    <img src="https://img.shields.io/badge/Archivo-28TB-orange.svg" alt="Archive Size">
+    <img src="https://img.shields.io/badge/Región-Latinoamérica-blue.svg" alt="Region">
   </p>
 
-
+  <br>
+  
+  <a href="https://haroldohorta.github.io/atlas/">
+    <h1>🌍 ACCEDER AL ATLAS / ACCESS THE ATLAS 🌍</h1>
+  </a>
+  
+  <p><i>Explora medio siglo de memoria visual georreferenciada</i></p>
+  <br>
+</div>
 
 ---
 
