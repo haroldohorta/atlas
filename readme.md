@@ -25,7 +25,7 @@
     <h1>🌍 [ ACCEDER AL ATLAS / ACCESS THE ATLAS ] 🌍</h1>
   </a>
   <br>
-  
+  </p>
 
 
 
