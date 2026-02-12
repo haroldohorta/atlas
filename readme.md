@@ -92,6 +92,10 @@ El estudio confirma que numerosos chilenos exiliados, incluyendo excombatientes 
 **Referencia académica:**
 - Camacho Padilla, F. (2020). "Las relaciones interamericanas durante la última década de la guerra fría. La reacción del régimen de Pinochet a la revolución sandinista (1978-1985)". *Secuencia* (108), e1841. [DOI: 10.18234/secuencia.v0i108.1841](https://doi.org/10.18234/secuencia.v0i108.1841)
 
+[📖 Leer Documento de Investigación (PDF)](docs/investigacion/Dialnet-RelacionesInteramericanas-Horta.pdf)
+---
+  
+
 [↑ Volver al inicio](#-español)
 
 ---
