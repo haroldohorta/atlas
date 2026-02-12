@@ -61,5 +61,98 @@ Tras jubilar, Haroldo habita el territorio en su casa-estudio rodante. Como **re
 > ### *"Horta no es un fotógrafo común; es un testigo que ha aprendido a mirar el mundo desde el ángulo que solo los pájaros y los pilotos conocen. Su archivo es el mapa de una vida que se ha negado a quedarse en el suelo."*
 > — **Diario La Tercera, Chile.**
 
-### 🏛️ Validación Internaci
+### 🏛️ Validación Internacional y Respaldo de Prensa
+
+| Bloque Editorial | Medios Destacados | Validación Documental (Links) |
+| :--- | :--- | :--- |
+| **Prensa Europea** | *Stern* (DE), *Folket i Bild* (SE) | [📁 Archivo Suecia](fotos/pub_suecia) / [📁 Archivo Alemania](fotos/pub_alemania) |
+| **Perú y Conflictos** | *Caretas* (Lima): Abimael Guzmán, Embajada | [🇵🇪 Archivo Lima](fotos/pub_lima) |
+| **Latinoamérica** | *Página/12*, *La Tercera* | [🇦🇷 Página/12](https://www.pagina12.com.ar/diario/suplementos/turismo/9-3082-2015-05-10.html) / [🇨🇱 La Tercera](https://www.latercera.com/diario-impreso/una-vida-de-alto-vuelo/) |
+| **Patrimonio** | *Kactus*, *Armada de Chile* | [⛪ Chiloé](fotos/pub_chiloe) / [📚 Kactus Stgo.](fotos/pub_santiago) |
+
+> ### *"En el visor de Horta, los faros del fin del mundo dejan de ser puntos en un mapa para convertirse en estrellas fijas de nuestra memoria colectiva. Su trabajo es, ante todo, un acto de amor por los confines."*
+> — **Suplemento Turismo, Página/12.**
+
+---
+
+### 📚 Validación Académica e Histórica
+
+La trayectoria de Haroldo Horta como combatiente internacionalista y fotógrafo de guerra ha sido objeto de análisis en investigaciones académicas sobre la Guerra Fría latinoamericana. El historiador **Fernando Camacho Padilla** (Universidad Autónoma de Madrid) documenta su participación en la Revolución Sandinista:
+
+> *"Haroldo Horta Tricallotis, elemento integrante del Frente Sandinista de Liberación Nacional, quien fuera capturado recientemente en un enfrentamiento que los guerrilleros sostuvieran con la Guardia Nacional de Nicaragua."*
+
+**Contexto de su captura (1979):**
+- Según documentos diplomáticos chilenos desclasificados, Haroldo no fue ejecutado debido a su origen chileno
+- El régimen de Somoza utilizó su detención como evidencia de "injerencia extranjera" ante organismos internacionales
+- Fue liberado tras la caída de Somoza el 19 de julio de 1979
+
+**Rol post-revolucionario:**
+El estudio confirma que numerosos chilenos exiliados, incluyendo excombatientes como Haroldo, ocuparon cargos de importancia en el gobierno sandinista, contribuyendo a la reconstrucción nacional en áreas estratégicas.
+
+**Referencia académica:**
+- Camacho Padilla, F. (2020). "Las relaciones interamericanas durante la última década de la guerra fría. La reacción del régimen de Pinochet a la revolución sandinista (1978-1985)". *Secuencia* (108), e1841. [DOI: 10.18234/secuencia.v0i108.1841](https://doi.org/10.18234/secuencia.v0i108.1841)
+
+[↑ Volver al inicio](#-español)
+
+---
+
+<a name="-english"></a>
+## 🇺🇸 English: The Nomadic Eye
+
+This repository hosts the **Digital Atlas** of Haroldo Horta: 28TB of photographic memory documenting five decades of Latin American history. From war trenches in Central America to the high-altitude silence of the Andes, Haroldo now embraces his role as a **Nomadic Ethnographic Recorder**.
+
+<img src="fotos/panos/03_english.webp" width="100%" alt="Nicaragua Internationalist">
+
+[↑ Back to top](#-english)
+
+---
+
+<a name="-português"></a>
+## 🇧🇷 Português: Memória Viva
+
+Este repositório abriga o **Atlas Digital** de Haroldo Horta. Das trincheiras da Nicarágua à liberdade do voo em paramotor, Haroldo registra a essência humana percorrendo a América do Sul.
+
+<img src="fotos/panos/04_portugues.webp" width="100%" alt="San Pedro Atacama">
+
+[↑ Voltar ao topo](#-português)
+
+---
+
+## 🛡️ Rescate Patrimonial: SUR DAO
+
+Este archivo representa la **Trayectoria #00** de la iniciativa de rescate de memoria impulsada por **SUR DAO**.  
+[**🔗 Visitar Repositorio Oficial SUR DAO (Nave Madre)**](https://github.com/TIANHH77/Sur-DAO)
+
+---
+
+## 👤 Sobre el Fotógrafo / About the Photographer
+
+**Haroldo Horta** (Chile, 1954) es fotógrafo documental, piloto de paramotor y archivista de memoria histórica. Su trabajo abarca desde el fotoperiodismo de guerra en Centroamérica hasta la documentación patrimonial de territorios australes. Actualmente vive de forma nómade recorriendo Sudamérica en su motor home, combinando fotografía aérea y registro etnográfico.
+
+---
+
+## 📬 Contacto / Contact
+- **Email:** [haroldohorta@gmail.com](mailto:haroldohorta@gmail.com)
+- **Web:** [haroldohorta.github.io/atlas](https://haroldohorta.github.io/atlas/)
+
+---
+
+<a name="-apoyo"></a>
+## 💝 Apoya este Proyecto / Support this Project
+
+<div align="center">
+
+Este archivo vive gracias al esfuerzo independiente de preservar 50 años de memoria histórica. Cada aporte ayuda a mantener vivos estos 28TB y a continuar documentando Sudamérica.
+
+**💙 PayPal:** [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Vivevolandonomade)
+
+</div>
+
+---
+
+<div align="center">
+  <h3>Desarrollado con sentido y amor en medio de una tormenta en Junín, Argentina, 2026.</h3>
+  <img src="fotos/panos/07_cierre.webp" width="100%" alt="Fin del Mundo">
+</div>
+
 
