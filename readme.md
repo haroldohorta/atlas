@@ -226,35 +226,6 @@ Cada fotografia do atlas está vinculada a coordenadas geográficas precisas qua
 
 <img src="fotos/panos/06_licencia_post.webp" width="100%" alt="El Viaje Continúa">
 
----
-
-## 🛡️ Rescate Patrimonial / Heritage Rescue / Resgate Patrimonial
-
-<div align="center">
-
-### 🇪🇸 Español
-Este archivo representa la **Trayectoria #00** de la iniciativa de rescate de memoria impulsada por **SUR DAO**.  
-Registrar la belleza y el dolor es el último acto de libertad.
-
-### 🇺🇸 English
-This archive represents **Trajectory #00** of the memory rescue initiative driven by **SUR DAO**.  
-Recording beauty and pain is the ultimate act of freedom.
-
-### 🇧🇷 Português
-Este arquivo representa a **Trajetória #00** da iniciativa de resgate de memória impulsionada pela **SUR DAO**.  
-Registrar a beleza e a dor é o último ato de liberdade.
-
----
-
-**SUR DAO:** Tecnología descentralizada al servicio de la Memoria Histórica  
-*Decentralized technology serving Historical Memory*  
-*Tecnologia descentralizada a serviço da Memória Histórica*
-
-[**🔗 Visitar Repositorio Oficial SUR DAO (Nave Madre)**](https://github.com/TIANHH77/Sur-DAO)
-
-</div>
-
----
 
 ## 👤 Sobre el Fotógrafo / About the Photographer / Sobre o Fotógrafo
 
@@ -282,4 +253,30 @@ Registrar a beleza e a dor é o último ato de liberdade.
   
   <img src="fotos/panos/07_cierre.webp" width="100%" alt="Fin del Mundo">
 </div>
+## 🛡️ Rescate Patrimonial / Heritage Rescue / Resgate Patrimonial
 
+<div align="center">
+
+### 🇪🇸 Español
+Este archivo representa la **Trayectoria #00** de la iniciativa de rescate de memoria impulsada por **SUR DAO**.  
+Registrar la belleza y el dolor es el último acto de libertad.
+
+### 🇺🇸 English
+This archive represents **Trajectory #00** of the memory rescue initiative driven by **SUR DAO**.  
+Recording beauty and pain is the ultimate act of freedom.
+
+### 🇧🇷 Português
+Este arquivo representa a **Trajetória #00** da iniciativa de resgate de memória impulsionada pela **SUR DAO**.  
+Registrar a beleza e a dor é o último ato de liberdade.
+
+---
+
+**SUR DAO:** Tecnología descentralizada al servicio de la Memoria Histórica  
+*Decentralized technology serving Historical Memory*  
+*Tecnologia descentralizada a serviço da Memória Histórica*
+
+[**🔗 Visitar Repositorio Oficial SUR DAO (Nave Madre)**](https://github.com/TIANHH77/Sur-DAO)
+
+</div>
+
+---
