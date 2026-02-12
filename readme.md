@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/haroldohorta/atlas/main/fotos/banner_principal.webp" width="33%" alt="Haroldo Horta - Archivo Visual">
+  <img src="https://raw.githubusercontent.com/haroldohorta/atlas/main/fotos/panos/01_portada.webp" width="100%" alt="SUR DAO - Memoria Viva">
   
   <br>
-  
   📷 **"Memoria viva, al rescate de lo humano"** 📷
+  <br>
+  📷 **"Living memory, to the rescue of the human essence"** 📷
   <br>
   📷 **"Memória viva, ao resgate do humano"** 📷
 
@@ -18,9 +19,8 @@
   [![Format](https://img.shields.io/badge/Archivo-TIFF_Master-orange.svg)]()
 
   <br>
-
   <a href="https://haroldohorta.github.io/atlas/">
-    <b>[ 🌍 ACCEDER AL ATLAS 🌍 / 🌍 ACCESS THE ATLAS 🌍 / 🌍 ACESSAR O ATLAS 🌍 ]</b>
+    <h1>🌍 [ ACCEDER AL ATLAS / ACCESS THE ATLAS ] 🌍</h1>
   </a>
 </div>
 
@@ -28,22 +28,15 @@
 
 <a name="-español"></a>
 ## 🇪🇸 Español
-
 ### 🗺️ SUR DAO: El Atlas de Haroldo Horta
-**Archivo de Memoria Visual, Cartografía Social y Libertad Creativa**
 
-**Perspectiva Editorial:** Este atlas documenta puntos de inflexión histórica en América Latina, capturando la tensión entre el poder y la realidad comunitaria.
+Este repositorio aloja el **Atlas de Memoria Visual** de Haroldo Horta. Un recorrido documental que abarca desde la resistencia en Centroamérica hasta los confines de la Antártida, pasando por la vida nómada en los Andes.
 
-**📜 Respeto al Valor Histórico:**
-Este archivo contiene registros de conflictos armados, resistencias indígenas y procesos sociales profundos. Se solicita a los usuarios tratar este material con el respeto que merece la dignidad de las personas retratadas y la gravedad de los hechos históricos.
+<img src="https://raw.githubusercontent.com/haroldohorta/atlas/main/fotos/panos/02_espanol.webp" width="100%" alt="Faro - Guía">
 
-**📸 Uso en Redes Sociales (Instagram, etc.):**
-Se permite compartir estas imágenes bajo la licencia **CC BY-NC-ND 4.0**, cumpliendo estrictamente:
-1. **Atribución:** Mencionar claramente a **Haroldo Horta / SUR DAO**.
-2. **No Alterar:** Prohibido el uso de filtros, recortes o textos superpuestos que alteren la composición original.
-3. **No Comercial:** Prohibido el uso en cuentas de empresas, marcas o publicidad sin autorización expresa.
-
-**📬 Contacto:** [haroldohorta@gmail.com](mailto:haroldohorta@gmail.com)
+* **Misión:** Preservar, digitalizar y geolocalizar 50 años de fotografía documental.
+* **Tecnología:** Imágenes procesadas en alta fidelidad (WebP + Metadatos) y servidas a través de un mapa interactivo descentralizado.
+* **Colecciones:** Nicaragua, El Salvador, Pueblos Originarios, Antártida, Faros de Chile.
 
 [↑ Volver al inicio](#-español)
 
@@ -51,50 +44,58 @@ Se permite compartir estas imágenes bajo la licencia **CC BY-NC-ND 4.0**, cumpl
 
 <a name="-english"></a>
 ## 🇺🇸 English
-
 ### 🗺️ SUR DAO: Haroldo Horta's Atlas
-**Visual Memory Archive, Social Cartography & Creative Freedom**
 
-**Editorial Perspective:** This atlas documents historical turning points in Latin America, capturing the tension between power and communal reality.
+This repository hosts the **Visual Memory Atlas** by Haroldo Horta. A documentary journey spanning from the resistance in Central America to the edges of Antarctica, capturing the nomadic life in the Andes.
 
-**📜 Respect for Historical Value:**
-This archive contains records of armed conflicts, indigenous resistance, and profound social processes. Users are requested to treat this material with the respect deserved by the dignity of the people portrayed and the gravity of the historical events.
+<img src="https://raw.githubusercontent.com/haroldohorta/atlas/main/fotos/panos/03_english.webp" width="100%" alt="Nicaragua Internationalist">
 
-**📸 Social Media Usage (Instagram, etc.):**
-Sharing these images is permitted under the **CC BY-NC-ND 4.0** license, provided you strictly follow:
-1. **Attribution:** Clearly credit **Haroldo Horta / SUR DAO**.
-2. **No Derivatives:** Use of filters, cropping, or text overlays that alter the original composition is prohibited.
-3. **Non-Commercial:** Use by corporate accounts, brands, or for advertising is prohibited without express authorization.
+* **Mission:** To preserve, digitize, and geolocate 50 years of documentary photography.
+* **Technology:** High-fidelity imagery (WebP + Metadata) served through a decentralized interactive map.
+* **Collections:** Nicaragua, El Salvador, Indigenous Peoples, Antarctica, Lighthouses of Chile.
 
-**📬 Contact:** [haroldohorta@gmail.com](mailto:haroldohorta@gmail.com)
-
-[↑ Back to top](#-english)
+[↑ Back to top](#-español)
 
 ---
 
 <a name="-português"></a>
 ## 🇧🇷 Português
-
 ### 🗺️ SUR DAO: O Atlas de Haroldo Horta
-**Arquivo de Memória Visual, Cartografia Social e Liberdade Criativa**
 
-**Perspectiva Editorial:** Este atlas documenta pontos de inflexão histórica na América Latina, capturando a tensão entre o poder e a realidade comunitária.
+Este repositório abriga o **Atlas de Memória Visual** de Haroldo Horta. Uma jornada documental que vai da resistência na América Central aos confins da Antártida, passando pela vida nômade nos Andes.
 
-**📜 Respeito ao Valor Histórico:**
-Este arquivo contém registros de conflitos armados, resistências indígenas e processos sociais profundos. Solicita-se aos usuários tratar este material com o respeito que a dignidade das pessoas retratadas e a gravidade dos fatos históricos exigem.
+<img src="https://raw.githubusercontent.com/haroldohorta/atlas/main/fotos/panos/04_portugues.webp" width="100%" alt="San Pedro Atacama">
 
-**📸 Uso em Redes Sociais (Instagram, etc.):**
-É permitido compartilhar estas imagens sob a licença **CC BY-NC-ND 4.0**, cumprindo rigorosamente:
-1. **Atribuição:** Mencionar claramente **Haroldo Horta / SUR DAO**.
-2. **Não Alterar:** Proibido o uso de filtros, recortes ou textos sobrepostos que alterem a composição original.
-3. **Não Comercial:** Proibido o uso em contas de empresas, marcas ou publicidade sem autorização expressa.
+* **Missão:** Preservar, digitalizar e geolocalizar 50 anos de fotografia documental.
+* **Tecnologia:** Imagens processadas em alta fidelidade (WebP + Metadados) e servidas através de um mapa interativo descentralizado.
 
-**📬 Contato:** [haroldohorta@gmail.com](mailto:haroldohorta@gmail.com)
-
-[↑ Voltar ao topo](#-português)
+[↑ Voltar ao topo](#-español)
 
 ---
 
-> **Desarrollado con sentido en medio de una tormenta en Junín, 2026.**
+<img src="https://raw.githubusercontent.com/haroldohorta/atlas/main/fotos/panos/05_licencia_pre.webp" width="100%" alt="Industria y Recurso">
+
+## ⚖️ Licencia / License / Licença
+
+Este trabajo está licenciado bajo una **Licencia Internacional Creative Commons Atribución-NoComercial-SinDerivadas 4.0**.
+This work is licensed under a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.
+
+> **Usted es libre de:** Compartir, copiar y redistribuir el material en cualquier medio o formato.
+> **Bajo las siguientes condiciones:** Atribución requerida, No Comercial, No Derivadas.
+
+<img src="https://raw.githubusercontent.com/haroldohorta/atlas/main/fotos/panos/06_licencia_post.webp" width="100%" alt="El Viaje Continúa">
+
+---
+
+## 📬 Contacto / Contact
+- **Email:** [haroldohorta@gmail.com](mailto:haroldohorta@gmail.com)
+- **Web:** [haroldohorta.github.io/atlas/](https://haroldohorta.github.io/atlas/)
+
+<br>
+<div align="center">
+  <h3>Desarrollado con sentido y amor en medio de una tormenta en Junín, 2026.</h3>
+  
+  <img src="https://raw.githubusercontent.com/haroldohorta/atlas/main/fotos/panos/07_cierre.webp" width="100%" alt="Fin del Mundo">
+</div>
 
 
