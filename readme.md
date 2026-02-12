@@ -89,8 +89,13 @@ La trayectoria de Haroldo Horta como combatiente internacionalista y fotógrafo 
 **Rol post-revolucionario:**
 El estudio confirma que numerosos chilenos exiliados, incluyendo excombatientes como Haroldo, ocuparon cargos de importancia en el gobierno sandinista, contribuyendo a la reconstrucción nacional en áreas estratégicas.
 
-**Referencia académica:**
-- Camacho Padilla, F. (2020). "Las relaciones interamericanas durante la última década de la guerra fría. La reacción del régimen de Pinochet a la revolución sandinista (1978-1985)". *Secuencia* (108), e1841. [DOI: 10.18234/secuencia.v0i108.1841](https://doi.org/10.18234/secuencia.v0i108.1841)
+* **Investigación:** *"La reacción del régimen de Pinochet a la revolución sandinista (1978-1985)"*.
+* **Autor:** Fernando Camacho Padilla (Universidad Autónoma de Madrid).
+* **Referencia:** Publicado en *Secuencia* (108) y alojado en **Dialnet**.
+* **Contexto:** El documento cita a Haroldo Horta como una figura clave cuya captura y testimonios fueron utilizados por la inteligencia y cancillería de la época para documentar la presencia de combatientes chilenos en el Frente Sandinista.
+
+[📖 Leer Documento de Investigación (PDF)](docs/investigacion/Dialnet-RelacionesInteramericanas-Horta.pdf)
+---
 
 ---
 
