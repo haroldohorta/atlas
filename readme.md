@@ -23,19 +23,15 @@
 
   <br>
 
-  <table>
-    <tr>
-      <td bgcolor="#f0f0f0" align="center">
-        <a href="https://haroldohorta.github.io/atlas/">
-          <h2>&nbsp;&nbsp;&nbsp; 🌍 ACCEDER AL ATLAS / ACCESS THE ATLAS 🌍 &nbsp;&nbsp;&nbsp;</h2>
-        </a>
-      </td>
-    </tr>
-  </table>
+<br>
+
+  <h1><a href="https://haroldohorta.github.io/atlas/">🌍 ACCEDER AL ATLAS / ACCESS THE ATLAS 🌍</a></h1>
 
 </div>
 
 ---
+
+
 
 <a name="-español"></a>
 ## 🇪🇸 Español: El Manifiesto de una Vida
