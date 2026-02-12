@@ -12,16 +12,10 @@
   <p align="center">
     <a href="#-español">🇪🇸 Español</a> | 
     <a href="#-english">🇺🇸 English</a> | 
-    <a href="#-português">🇧🇷 Português</a>
+    <a href="#-português">🇧🇷 Português</a> |
+    <a href="#-apoya-este-proyecto--support-this-project--apoie-este-projeto">💝 Apoyar / Support</a>
   </p>
 
-  <p align="center">
-    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg" alt="License: CC BY-NC-ND 4.0"></a>
-    <img src="https://img.shields.io/badge/Archivo-28TB-orange.svg" alt="Archive Size">
-    <img src="https://img.shields.io/badge/Región-Latinoamérica-blue.svg" alt="Region">
-  </p>
-
-  <br>
 
 <br>
 
@@ -236,6 +230,45 @@ Cada fotografia do atlas está vinculada a coordenadas geográficas precisas qua
 **Haroldo Horta** (Chile, 1954) é fotógrafo documental, piloto de paramotor e arquivista de memória histórica. Seu trabalho abrange desde o fotojornalismo de guerra na América Central até a documentação patrimonial de territórios austrais. Atualmente vive de forma nômade percorrendo a América do Sul em seu motor home, combinando fotografia aérea e registro etnográfico.
 
 ---
+---
+
+<a name="-apoya-este-proyecto--support-this-project--apoie-este-projeto"></a>
+## 💝 Apoya este Proyecto / Support this Project / Apoie este Projeto
+
+<div align="center">
+
+### 🇪🇸 Español
+Este archivo vive gracias al esfuerzo independiente de preservar la memoria histórica.  
+Si este trabajo te ha inspirado o resultado útil, considera apoyar su continuidad.
+
+### 🇺🇸 English
+This archive lives thanks to the independent effort of preserving historical memory.  
+If this work has inspired you or been useful, consider supporting its continuity.
+
+### 🇧🇷 Português
+Este arquivo vive graças ao esforço independente de preservar a memória histórica.  
+Se este trabalho te inspirou ou foi útil, considere apoiar sua continuidade.
+
+---
+
+### Formas de Apoyo / Ways to Support / Formas de Apoio
+
+**💙 PayPal:**  
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Vivevolandonomade)
+
+**📧 Otras formas de apoyo / Other ways to support:**  
+[haroldohorta@gmail.com](mailto:haroldohorta@gmail.com)
+
+<br>
+
+*Cada aporte ayuda a mantener vivo este archivo de 28TB y continuar documentando Sudamérica desde el aire y la tierra.*  
+*Every contribution helps keep this 28TB archive alive and continue documenting South America from air and land.*  
+*Cada contribuição ajuda a manter vivo este arquivo de 28TB e continuar documentando a América do Sul do ar e da terra.*
+
+</div>
+
+---
+
 
 ## 📬 Contacto / Contact / Contato
 
