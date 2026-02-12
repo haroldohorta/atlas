@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="fotos/panos/01_portada.webp" width="100%" alt="SUR DAO - Memoria Viva">
+  <img src="fotos/panos/01_portada.webp" width="100%" alt="Haroldo Horta - Fotografía Documental">
   
   <br>
-  📷 **"Memoria viva, al rescate de lo humano"** 📷
-  <br>
-  📷 **"Living memory, to the rescue of the human essence"** 📷
-  <br>
-  📷 **"Memória viva, ao resgate do humano"** 📷
+  <h1>📷 HAROLDO HORTA 📷</h1>
+  <h3>50 Años de Memoria Visual / 50 Years of Visual Memory</h3>
+  
+  <p>
+    <i>"Memoria viva, al rescate de lo humano"</i><br>
+    <i>"Living memory, to the rescue of the human essence"</i>
+  </p>
 
   <p align="center">
     <a href="#-español">🇪🇸 Español</a> | 
@@ -29,15 +31,15 @@
 
 <a name="-español"></a>
 ## 🇪🇸 Español
-### 🗺️ SUR DAO: El Atlas de Haroldo Horta
+### 🗺️ El Atlas de Haroldo Horta
 
-Este repositorio aloja el **Atlas de Memoria Visual** de Haroldo Horta. Un recorrido documental que abarca desde la resistencia en Centroamérica hasta los confines de la Antártida, pasando por la vida nómada en los Andes.
+Este repositorio aloja el archivo digital de **Haroldo Horta**. Un recorrido documental que abarca desde la resistencia en Centroamérica hasta los confines de la Antártida, pasando por la vida nómada en los Andes y la historia de los Faros de Chile.
 
 <img src="fotos/panos/02_espanol.webp" width="100%" alt="Faro - Guía">
 
-* **Misión:** Preservar, digitalizar y geolocalizar 50 años de fotografía documental.
-* **Tecnología:** Imágenes procesadas en alta fidelidad (WebP + Metadatos) y servidas a través de un mapa interactivo descentralizado.
-* **Colecciones:** Nicaragua, El Salvador, Pueblos Originarios, Antártida, Faros de Chile.
+* **Misión:** Preservar, digitalizar y geolocalizar medio siglo de fotografía analógica y digital.
+* **Tecnología:** Imágenes procesadas en alta fidelidad y servidas a través de un mapa interactivo descentralizado.
+* **Colecciones:** Nicaragua Sandinista, El Salvador, Pueblos Originarios, Antártida, Faros.
 
 [↑ Volver al inicio](#-español)
 
@@ -45,15 +47,15 @@ Este repositorio aloja el **Atlas de Memoria Visual** de Haroldo Horta. Un recor
 
 <a name="-english"></a>
 ## 🇺🇸 English
-### 🗺️ SUR DAO: Haroldo Horta's Atlas
+### 🗺️ Haroldo Horta's Atlas
 
-This repository hosts the **Visual Memory Atlas** by Haroldo Horta. A documentary journey spanning from the resistance in Central America to the edges of Antarctica, capturing the nomadic life in the Andes.
+This repository hosts the digital archive of **Haroldo Horta**. A documentary journey spanning from the resistance in Central America to the edges of Antarctica, capturing the nomadic life in the Andes and the history of Chilean Lighthouses.
 
 <img src="fotos/panos/03_english.webp" width="100%" alt="Nicaragua Internationalist">
 
-* **Mission:** To preserve, digitize, and geolocate 50 years of documentary photography.
-* **Technology:** High-fidelity imagery (WebP + Metadata) served through a decentralized interactive map.
-* **Collections:** Nicaragua, El Salvador, Indigenous Peoples, Antarctica, Lighthouses of Chile.
+* **Mission:** To preserve, digitize, and geolocate half a century of analog and digital photography.
+* **Technology:** High-fidelity imagery served through a decentralized interactive map.
+* **Collections:** Sandinista Nicaragua, El Salvador, Indigenous Peoples, Antarctica, Lighthouses.
 
 [↑ Back to top](#-español)
 
@@ -61,14 +63,14 @@ This repository hosts the **Visual Memory Atlas** by Haroldo Horta. A documentar
 
 <a name="-português"></a>
 ## 🇧🇷 Português
-### 🗺️ SUR DAO: O Atlas de Haroldo Horta
+### 🗺️ O Atlas de Haroldo Horta
 
-Este repositório abriga o **Atlas de Memória Visual** de Haroldo Horta. Uma jornada documental que vai da resistência na América Central aos confins da Antártida, passando pela vida nômade nos Andes.
+Este repositório abriga o arquivo digital de **Haroldo Horta**. Uma jornada documental que vai da resistência na América Central aos confins da Antártida, passando pela vida nômade nos Andes e a história dos Faróis do Chile.
 
 <img src="fotos/panos/04_portugues.webp" width="100%" alt="San Pedro Atacama">
 
-* **Missão:** Preservar, digitalizar e geolocalizar 50 anos de fotografia documental.
-* **Tecnologia:** Imagens processadas em alta fidelidade (WebP + Metadados) e servidas através de um mapa interativo descentralizado.
+* **Missão:** Preservar, digitalizar e geolocalizar meio século de fotografia documental.
+* **Tecnologia:** Imagens processadas em alta fidelidade e servidas através de um mapa interativo descentralizado.
 
 [↑ Voltar ao topo](#-español)
 
@@ -88,6 +90,14 @@ This work is licensed under a **Creative Commons Attribution-NonCommercial-NoDer
 
 ---
 
+## 🛡️ Créditos de Rescate / Rescue Credits
+
+Este archivo es la **Trayectoria #00** de la iniciativa de rescate patrimonial impulsada por **SUR DAO**.
+*This archive is **Trajectory #00** of the heritage rescue initiative powered by **SUR DAO**.*
+
+> **SUR DAO:** Tecnología descentralizada al servicio de la Memoria Histórica.
+> [🔗 Visitar Repositorio Oficial SUR DAO](https://github.com/tu-usuario-o-surdao) ---
+
 ## 📬 Contacto / Contact
 - **Email:** [haroldohorta@gmail.com](mailto:haroldohorta@gmail.com)
 - **Web:** [haroldohorta.github.io/atlas/](https://haroldohorta.github.io/atlas/)
@@ -98,4 +108,3 @@ This work is licensed under a **Creative Commons Attribution-NonCommercial-NoDer
   
   <img src="fotos/panos/07_cierre.webp" width="100%" alt="Fin del Mundo">
 </div>
-
