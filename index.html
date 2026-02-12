@@ -1,56 +1,131 @@
-<div align="center">
-  <img src="fotos/panos/01_portada.webp" width="100%" alt="Haroldo Horta - Fotografía Documental">
-  
-  <br>
-  <h1>📷 HAROLDO HORTA 📷</h1>
-  <h3>50 Años de Memoria Viva / 50 Years of Living Memory / 50 Anos de Memória Viva</h3>
-  
-  <p>
-    <i>"Desde el corazón de la revolución Sandinista en Nicaragua al silencio infinito de Atacama. Un legado vivo que nos recuerda el no olvidar la dignidad humana, tanto desde el cielo como desde la tierra."</i>
-  </p>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atlas SUR DAO | Cluster Edition</title>
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
 
-  <p align="center">
-    <a href="#-español">🇪🇸 Español</a> | 
-    <a href="#-english">🇺🇸 English</a> | 
-    <a href="#-português">🇧🇷 Português</a> |
-    <a href="#-apoyo">💝 Apoyar / Support</a>
-  </p>
+    <style>
+        /* --- ESTILO DARKROOM --- */
+        body, html { margin: 0; padding: 0; height: 100%; background: #0f0f0f; font-family: 'Courier New', monospace; color: #ccc; }
+        #map { height: 100%; width: 100%; background: #0f0f0f; }
 
-  <p align="center">
-    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg" alt="License: CC BY-NC-ND 4.0"></a>
-    <img src="https://img.shields.io/badge/Archivo-28TB-orange.svg" alt="Archive Size">
-    <img src="https://img.shields.io/badge/Status-Trajectoria%2000-blue.svg" alt="Status">
-  </p>
+        /* Estilos del Popup */
+        .leaflet-popup-content-wrapper { background: #1a1a1a; color: #eee; border: 1px solid #ff9f1c; border-radius: 0; padding: 0; }
+        .leaflet-popup-tip { background: #1a1a1a; border-top: 1px solid #ff9f1c; }
+        .popup-img { width: 100%; height: 140px; object-fit: cover; border-bottom: 1px solid #ff9f1c; display: block; background: #000; }
+        
+        /* Botón del Popup */
+        .btn-portafolio {
+            width: 100%; background: #222; color: #ff9f1c; padding: 10px; cursor: pointer;
+            text-transform: uppercase; font-weight: bold; font-size: 11px; text-decoration: none;
+            display: block; text-align: center; box-sizing: border-box; transition: 0.3s;
+        }
+        .btn-portafolio:hover { background: #ff9f1c; color: #000; }
 
-  <br>
+        /* --- PERSONALIZACIÓN DE LAS BURBUJAS (CLUSTERS) --- */
+        /* Hacemos que los círculos de números sean Naranjas y Negros */
+        .marker-cluster-small, .marker-cluster-medium, .marker-cluster-large {
+            background-color: rgba(255, 159, 28, 0.2) !important; /* Aureola Naranja */
+        }
+        .marker-cluster div {
+            background-color: #000 !important; /* Centro Negro */
+            color: #ff9f1c !important; /* Texto Naranja */
+            border: 1px solid #ff9f1c;
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+        }
+        
+        /* Leyenda */
+        .legend { position: absolute; bottom: 30px; left: 30px; background: rgba(0,0,0,0.8); border: 1px solid #444; padding: 10px; z-index: 1000; font-size: 11px; }
+        .dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 5px; }
+    </style>
+</head>
+<body>
 
-  <h1><a href="https://haroldohorta.github.io/atlas/">🌍 ACCEDER AL ATLAS / ACCESS THE ATLAS 🌍</a></h1>
+<div id="map"></div>
 
+<div class="legend">
+    <div><span class="dot" style="background:#ff4d4d;"></span> CRÓNICA</div>
+    <div><span class="dot" style="background:#4d94ff;"></span> AÉREO</div>
+    <div><span class="dot" style="background:#ffdb4d;"></span> NÓMADA</div>
+    <div style="margin-top:5px; color:#777;">* Haz clic en los números para desplegar</div>
 </div>
 
----
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
 
-<a name="-español"></a>
-## 🇪🇸 Español: El Manifiesto de una Vida
+<script>
+    // 1. Mapa Base
+    const map = L.map('map').setView([-22, -68], 4);
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+        attribution: 'SUR DAO | Haroldo Horta', maxZoom: 19
+    }).addTo(map);
 
-Este repositorio constituye el **Atlas Digital** de Haroldo Horta: 28TB de memoria fotográfica que documentan cinco décadas de historia latinoamericana. No es solo un archivo técnico; es un acto de resistencia y una reconexión con el valor de lo humano a través de la lente, desde el cielo y la tierra.
+    // 2. Grupo de Clusters (Aquí ocurre la magia)
+    const markers = L.markerClusterGroup({
+        spiderfyOnMaxZoom: true,  // ESTO HACE LA ESPIRAL
+        showCoverageOnHover: false,
+        zoomToBoundsOnClick: true,
+        animate: true
+    });
 
-### Una Trayectoria en Tres Actos
+    const getStyle = (capa) => {
+        if(!capa) return "#fff";
+        if(capa.includes('Crónica')) return "#ff4d4d";
+        if(capa.includes('Aéreo') || capa.includes('fly')) return "#4d94ff";
+        if(capa.includes('Nómada')) return "#ffdb4d";
+        return "#ffffff";
+    };
 
-#### I. El Corresponsal (1979 - 1998) | *El Barro y la Trinchera*
-Haroldo capturó el grano de la historia donde la cámara fue testigo de transformaciones geopolíticas críticas:
+    fetch('data/puntos_mapa.json')
+        .then(res => res.json())
+        .then(data => {
+            console.log("Cargando puntos:", data.length);
+            
+            data.forEach(punto => {
+                if (!punto.lat || !punto.lon) return;
 
-- **Nicaragua Sandinista (1979-1985):** Más que un testigo, fue protagonista del "duelo en el acantilado" contra la Guardia Nacional. Su captura fue reportada por la inteligencia chilena de la época, que lo describía con "desagrado" en informes consulares, viéndolo como una evidencia viva de la injerencia extranjera en la región.
+                // Creamos un marcador circular simple
+                const color = getStyle(punto.capa);
+                
+                const marker = L.circleMarker([punto.lat, punto.lon], {
+                    radius: 8,
+                    fillColor: color,
+                    color: "#000",
+                    weight: 1,
+                    opacity: 1,
+                    fillOpacity: 0.9
+                });
 
-- **Perú y la Crisis de los Rehenes:** Cobertura exclusiva de la toma de la Embajada de Japón en Lima. Utilizando su ultraligero, retrató momentos de máxima tensión desde el aire, marcando un hito
----
-### 📚 Respaldo Académico e Histórico
-La trayectoria de Haroldo Horta en Centroamérica ha sido objeto de estudio en investigaciones sobre la Guerra Fría en Latinoamérica. Para un análisis profundo sobre el impacto geopolítico de este archivo, consultar:
+                // Contenido del Popup
+                const zonaTitulo = punto.zona ? punto.zona.toUpperCase() : 'ZONA';
+                marker.bindPopup(`
+                    <div style="min-width: 180px; text-align: center;">
+                        <div style="font-size:9px; color:#888; margin-bottom:5px; text-transform:uppercase;">
+                            ${punto.capa}
+                        </div>
+                        <h3 style="margin: 5px 0; color: #ff9f1c;">${zonaTitulo}</h3>
+                        <img src="${punto.thumb}" class="popup-img" onerror="this.style.display='none'">
+                        <div style="font-size:9px; color:#666; margin:8px 0;">${punto.id}</div>
+                        <a href="galeria.html?zona=${punto.zona}" class="btn-portafolio">ABRIR EXPEDIENTE 📂</a>
+                    </div>
+                `);
 
-* **Investigación:** *"La reacción del régimen de Pinochet a la revolución sandinista (1978-1985)"*.
-* **Autor:** Fernando Camacho Padilla (Universidad Autónoma de Madrid).
-* **Referencia:** Publicado en *Secuencia* (108) y alojado en **Dialnet**.
-* **Contexto:** El documento cita a Haroldo Horta como una figura clave cuya captura y testimonios fueron utilizados por la inteligencia y cancillería de la época para documentar la presencia de combatientes chilenos en el Frente Sandinista.
+                // IMPORTANTE: Agregamos el marcador al GRUPO (markers), no directo al mapa
+                markers.addLayer(marker);
+            });
 
-[📖 Leer Documento de Investigación (PDF)](docs/investigacion/Dialnet-RelacionesInteramericanas-Horta.pdf)
----
+            // Al final, agregamos el grupo al mapa
+            map.addLayer(markers);
+        })
+        .catch(err => console.error("Error:", err));
+</script>
+
+</body>
+</html>
