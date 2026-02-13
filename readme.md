@@ -1,5 +1,5 @@
 
- <div align="center"
+ <div align="center">
 # 🗺️ ATLAS: 50 Años de Memoria Viva
 ### El Archivo Fotográfico de Haroldo Horta
   <div align="center">
