@@ -51,6 +51,7 @@ Una etapa de consolidación editorial donde la técnica se puso al servicio del 
 - **Antártida Chilena** (expediciones científicas y patrimoniales)
 - **Rapa Nui** (registro cultural y arqueológico)
 - **Patagonia y Zona Austral** (documentación geográfica y ambiental)
+- **San Pedro de atacama y altiplano (Inicio de etapa nomade, rescatando desde tierra y aire, con total libertad creativa)
 
 #### III. Memoria Viva y Libertad (2023 - Presente)
 Tras jubilar, Haroldo decidió transformar su vida en una "casa estudio rodante". Hoy habita el territorio en un Motor Home junto a sus perros, explorando Sudamérica en libertad absoluta. En esta etapa, actúa como un **registrador etnográfico libre**, capturando historias desde el aire en Paramotor y desde la ruta, compartiendo la mística de quien vive haciendo lo que le apasiona.
