@@ -79,9 +79,11 @@ El historiador **Fernando Camacho Padilla** (UAM) documenta su captura en 1979 p
 * 👉 [**📖 Leer Documento de Investigación (PDF)**](docs/investigacion/Dialnet-RelacionesInteramericanas-Horta.pdf)
 
 ---
-👉 [**📖 Leer Documento de Investigación (PDF)**](https://github.com/haroldohorta/atlas/blob/main/docs/investigacion/Dialnet-RelacionesInteramericanas-Horta.pdf)
+📂 El Expediente del Abandono: Oficio Reservado 1979
+Documento original del Consulado de Chile en Managua que oficializa el abandono estatal de Haroldo Horta mientras era prisionero de guerra.
 
----
----
+* Cómplices por Omisión: El Cónsul Jorge Carretón Iturra confirma que el Estado chileno se abstuvo de intervenir en su defensa.
+* Sentencia de Exilio: El informe recalca la negativa de Haroldo a ser repatriado, citando su temor al horror de la dictadura de Pinochet: "sería horrible lo que me espera en Chile".
+* Memoria de Guerra: El oficio documenta su traslado a la ciudad de Rivas para el inicio de su proceso judicial tras ser herido en combate.
 
 
