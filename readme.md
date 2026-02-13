@@ -1,19 +1,49 @@
-
- 
 # 🗺️ ATLAS: 50 Años de Memoria Viva
-### El Archivo Fotográfico de Haroldo Horta
-  <div align="center">
-  <img src="fotos/panos/01_portada.webp" width="100%" alt="Haroldo Horta - Fotografía Documental">
-  <p>
-   
-<i>"Desde el corazón de la revolución Sandinista en Nicaragua al silencio infinito de Atacama. Un legado vivo que nos recuerda el no olvidar la dignidad humana, tanto desde el cielo como desde la tierra"".</i>
-   
-<i>ES: Un atlas visual y cartográfico que recorre cinco décadas de historia, desde la guerra en Nicaragua hasta la Antártida y el vuelo libre.<i>
+## El Archivo Fotográfico de Haroldo Horta
 
-<i>EN: A cartographic visual archive spanning five decades, from the Nicaraguan revolution to Antarctica and aerial photography.<i>
+> *"Desde el corazón de la revolución Sandinista en Nicaragua al silencio infinito de Atacama. Un legado vivo que nos recuerda el no olvidar la dignidad humana, tanto desde el cielo como desde la tierra."*
 
-<i>PT: Um atlas visual e cartográfico que percorre cinco décadas de história, da guerra na Nicarágua à Antártida e ao voo livre."</i>
-  </p>
+---
+
+### 🌐 Navegación / Navigation / Navegação
+[🇪🇸 Español](#-español) | [🇺🇸 English](#-english) | [🇧🇷 Português](#-português) | [💝 Apoyar / Support](https://link-a-tu-apoyo.com)
+
+---
+
+### 🇪🇸 Español
+**Un atlas visual y cartográfico que recorre cinco décadas de historia, desde la guerra en Nicaragua hasta la Antártida y el vuelo libre.**
+
+Este proyecto busca rescatar y democratizar el archivo de más de 55,000 fotografías de Haroldo Horta. Es una herramienta de memoria histórica que conecta coordenadas geográficas con la narrativa humana, permitiendo explorar crónicas periodísticas, paisajes antárticos y perspectivas aéreas únicas.
+
+<details>
+<summary>📖 Leer manifiesto completo</summary>
+
+Aquí puedes poner toda la parte extendida que tenías antes: la importancia de los negativos, el trabajo de digitalización y la visión de "Surdao". Esto mantiene el inicio limpio pero deja la información disponible para quien quiera profundizar.
+</details>
+
+---
+
+### 🇺🇸 English
+**A cartographic visual archive spanning five decades, from the Nicaraguan revolution to Antarctica and aerial photography.**
+
+<details>
+<summary>🔍 Learn more</summary>
+
+This project aims to preserve and share Haroldo Horta's photographic legacy. A journey through history, documenting human dignity through the lens of a war correspondent and aerial photographer.
+</details>
+
+---
+
+### 🇧🇷 Português
+**Um atlas visual e cartográfico que percorre cinco décadas de história, da guerra na Nicarágua à Antártida e ao voo livre.**
+
+<details>
+<summary>🔍 Saiba mais</summary>
+
+Este projeto busca resgatar e democratizar o arquivo de Haroldo Horta. Uma ferramenta de memória histórica que conecta geografia e humanidade.
+</details>
+
+--->
 
 
 
