@@ -58,13 +58,45 @@ Tras jubilar, Haroldo decidió transformar su vida en una "casa estudio rodante"
 <img src="fotos/panos/02_espanol.webp" width="100%" alt="Faro - Guía">
 
 ### 🏛️ Validación Internacional y Respaldo de Prensa
-La mirada de Haroldo ha sido el lente de medios globales, validando una vida dedicada al registro de calidad:
+### 📰 Haroldo en la Prensa / Press & Media
 
-| Bloque Editorial | Medios Destacados | Validación Documental |
-| :--- | :--- | :--- |
-| **Prensa Europea** | *Stern*, *Folket i Bild*, *Zeitenspiegel* | [Evidencia: Reportajes Suecia/Alemania](https://drive.google.com/drive/folders/1RQokGcrZrStpAMnyHUbsdlw8y3tECjOq) |
-| **Prensa Latinoamérica** | *Paula*, *Página/12*, *La Tercera* | [Entrevista: Una vida de alto vuelo](https://www.latercera.com/diario-impreso/una-vida-de-alto-vuelo/) |
-| **Patrimonio** | *Kactus*, *UNESCO*, *Armada de Chile* | [Catálogo: Faros de Chile (Amazon)](https://www.amazon.com/-/es/Lighthouses-Direccion-Territorio-Maritime-Mercante/dp/9567136246) |
+> *"La vida de Haroldo Horta es un negativo revelado entre conflictos armados y cielos infinitos. Aquí algunos hitos documentados por la prensa internacional."*
+---
 
+#### 🚁 **Una vida de alto vuelo** (La Tercera, Chile)
+*"Exiliado de Pinochet, Fujimori y de los comunistas húngaros... Haroldo llegó a Nicaragua como fotógrafo de guerra, pero terminó combatiendo."*
+Un recorrido profundo por la biografía de Haroldo: desde las trincheras de Centroamérica hasta su renacimiento como pionero del vuelo libre en San Pedro de Atacama.
+👉 [**Leer artículo online**](https://www.latercera.com/diario-impreso/una-vida-de-alto-vuelo)
+
+#### 🦸 **"Superhéroes" contra la exploración en El Tatío** (La Tercera, Chile)
+*"Superman, Batman y El Zorro en el campo geotérmico: una campaña para proteger el patrimonio natural."*
+Haroldo no solo usa la cámara para registrar, sino como herramienta de activismo ambiental, liderando campañas creativas para proteger la mística de los Géiseres del Tatío.
+👉 [**Leer artículo online**](https://www.latercera.com/diario-impreso/superheroes-en-campana-contra-exploracion-en-el-tatio/)
+
+#### 🇦🇷 **Vuelo sobre el desierto** (Página/12, Argentina)
+*"Haroldo Horta es un hombre que vuela y hace volar... 5000 horas surcando el cielo del Valle de la Luna."*
+La crónica argentina sobre la experiencia de observar el desierto más seco del mundo bajo la maestría técnica y narrativa de un fotoperiodista que convirtió el aire en su estudio.
+👉 [**Leer artículo online**](https://www.pagina12.com.ar/diario/suplementos/turismo/9-3082-2015-05-10.html)
+
+### 📚 Validación Académica e Histórica / Academic Research
+
+> *"La historia de Haroldo no solo se cuenta en imágenes, sino en los folios de la diplomacia y la investigación académica sobre la Guerra Fría latinoamericana."*
+
+El historiador **Fernando Camacho Padilla** (Universidad Autónoma de Madrid) documenta su participación activa en la Revolución Sandinista, rescatando su figura del archivo diplomático chileno:
+
+> *"Haroldo Horta Tricallotis, elemento integrante del Frente Sandinista de Liberación Nacional, quien fuera capturado recientemente en un enfrentamiento que los guerrilleros sostuvieran con la Guardia Nacional de Nicaragua."*
+
+#### 📂 **Expediente de Captura (1979)**
+* **Supervivencia:** Según documentos desclasificados, su origen chileno fue lo que impidió su ejecución inmediata, siendo utilizado por el régimen de Somoza como evidencia de "injerencia extranjera".
+* **Liberación:** Recuperó su libertad con la caída de la dictadura somocista el 19 de julio de 1979.
+* **Reconstrucción:** Tras la victoria, Haroldo formó parte de la generación de exiliados que asumió roles estratégicos en el nuevo gobierno nacional.
+
+#### 🎓 **Referencia Bibliográfica**
+*Camacho Padilla, F. (2020). "Las relaciones interamericanas durante la última década de la guerra fría. La reacción del régimen de Pinochet a la revolución sandinista (1978-1985)". Secuencia (108), e1841.*
+
+👉 [**📖 Leer Documento de Investigación (PDF)**](https://github.com/haroldohorta/atlas/blob/main/docs/investigacion/Dialnet-RelacionesInteramericanas-Horta.pdf)
+
+---
+---
 
 
