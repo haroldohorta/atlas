@@ -34,7 +34,7 @@ Este repositorio constituye el **Atlas Digital** de Haroldo Horta: 28TB de memor
 
 <i>fly_* → Vuelo Aéreo (Visión desde el paramotor)<i>
 
-<i>narra_* → Narrativa Sonora (Historias contadas en voz de Haroldo)<i>
+<i>narra_* → Narrativa Sonora (Historias contadas en voz de Haroldo) + en construcción<i>
 
 ## 🇪🇸 Español: El Manifiesto de una Vida
 
