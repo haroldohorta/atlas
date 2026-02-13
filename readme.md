@@ -6,11 +6,7 @@
   <h3>50 Años de Memoria Viva / 50 Years of Living Memory / 50 Anos de Memória Viva</h3>
   
   <p>
-<<<<<<< HEAD
     <i>"Desde el corazón de la revolución Sandinista en Nicaragua al silencio infinito de Atacama. Un legado vivo que nos recuerda el no olvidar la dignidad humana, tanto desde el cielo como desde la tierra."</i>
-=======
-    <i>"Desde el corazon de la revolución Sandinista en Nicaragua al silencio infinito de Atacama. Un legado vivo que nos recuerda el no olvidar la dignidad humana, tanto desde el cielo como desde la tierra."</i>
->>>>>>> ed1ae67 (fix: corrección de extensión doble en pdf de Dialnet)
   </p>
 
   <p align="center">
@@ -23,27 +19,16 @@
   <p align="center">
     <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg" alt="License: CC BY-NC-ND 4.0"></a>
     <img src="https://img.shields.io/badge/Archivo-28TB-orange.svg" alt="Archive Size">
-<<<<<<< HEAD
     <img src="https://img.shields.io/badge/Status-Trajectoria%2000-blue.svg" alt="Status">
-=======
-    <img src="https://img.shields.io/badge/Región-Latinoamérica-blue.svg" alt="Region">
->>>>>>> ed1ae67 (fix: corrección de extensión doble en pdf de Dialnet)
   </p>
 
   <br>
 
-<<<<<<< HEAD
-=======
-<br>
-
->>>>>>> ed1ae67 (fix: corrección de extensión doble en pdf de Dialnet)
   <h1><a href="https://haroldohorta.github.io/atlas/">🌍 ACCEDER AL ATLAS / ACCESS THE ATLAS 🌍</a></h1>
 
 </div>
 
 ---
-
-
 
 <a name="-español"></a>
 ## 🇪🇸 Español: El Manifiesto de una Vida
@@ -53,7 +38,6 @@ Este repositorio constituye el **Atlas Digital** de Haroldo Horta: 28TB de memor
 ### Una Trayectoria en Tres Actos
 
 #### I. El Corresponsal (1979 - 1998) | *El Barro y la Trinchera*
-<<<<<<< HEAD
 Haroldo capturó el grano de la historia donde la cámara fue testigo de transformaciones geopolíticas críticas:
 
 - **Nicaragua Sandinista (1979-1985):** Más que un testigo, fue protagonista del "duelo en el acantilado" contra la Guardia Nacional. Su captura fue reportada por la inteligencia chilena de la época, que lo describía con "desagrado" en informes consulares, viéndolo como una evidencia viva de la injerencia extranjera en la región.
@@ -98,9 +82,9 @@ La trayectoria de Haroldo Horta como combatiente internacionalista y fotógrafo 
 > *"Haroldo Horta Tricallotis, elemento integrante del Frente Sandinista de Liberación Nacional, quien fuera capturado recientemente en un enfrentamiento que los guerrilleros sostuvieran con la Guardia Nacional de Nicaragua."*
 
 **Contexto de su captura (1979):**
-- Según documentos diplomáticos chilenos desclasificados, Haroldo no fue ejecutado debido a su origen chileno
-- El régimen de Somoza utilizó su detención como evidencia de "injerencia extranjera" ante organismos internacionales
-- Fue liberado tras la caída de Somoza el 19 de julio de 1979
+- Según documentos diplomáticos chilenos desclasificados, Haroldo no fue ejecutado debido a su origen chileno.
+- El régimen de Somoza utilizó su detención como evidencia de "injerencia extranjera" ante organismos internacionales.
+- Fue liberado tras la caída de Somoza el 19 de julio de 1979.
 
 **Rol post-revolucionario:**
 El estudio confirma que numerosos chilenos exiliados, incluyendo excombatientes como Haroldo, ocuparon cargos de importancia en el gobierno sandinista, contribuyendo a la reconstrucción nacional en áreas estratégicas.
@@ -109,47 +93,6 @@ El estudio confirma que numerosos chilenos exiliados, incluyendo excombatientes 
 - Camacho Padilla, F. (2020). "Las relaciones interamericanas durante la última década de la guerra fría. La reacción del régimen de Pinochet a la revolución sandinista (1978-1985)". *Secuencia* (108), e1841. [DOI: 10.18234/secuencia.v0i108.1841](https://doi.org/10.18234/secuencia.v0i108.1841)
 
 [📖 Leer Documento de Investigación (PDF)](docs/investigacion/Dialnet-RelacionesInteramericanas-Horta.pdf)
----
-  
-=======
-Documentación de la crudeza y esperanza del continente. Haroldo capturó el grano de la historia en la **Nicaragua Sandinista** (1979-1985), los conflictos armados de **Perú** y la resistencia obrera en **Lota**, Chile. Fotografía de guerra, fotoperiodismo social y registro de movimientos populares definen esta etapa donde la cámara fue testigo de transformaciones históricas.
-
-#### II. La Luz del Fin del Mundo (1999 - 2022) | *Patrimonio y Perspectiva*
-Una etapa de consolidación editorial donde la técnica se puso al servicio del patrimonio nacional y la soberanía territorial. Proyectos emblemáticos incluyen:
-- **Faros de Chile** (Dirección del Territorio Marítimo)
-- **Antártida Chilena** (expediciones científicas y patrimoniales)
-- **Rapa Nui** (registro cultural y arqueológico)
-- **Patagonia y Zona Austral** (documentación geográfica y ambiental)
-
-#### III. Memoria Viva y Libertad (2023 - Presente)
-Tras jubilar, Haroldo decidió transformar su vida en una "casa estudio rodante". Hoy habita el territorio en un Motor Home junto a sus perros, explorando Sudamérica en libertad absoluta. En esta etapa, actúa como un **registrador etnográfico libre**, capturando historias desde el aire en Paramotor y desde la ruta, compartiendo la mística de quien vive haciendo lo que le apasiona.
-
-<img src="fotos/panos/02_espanol.webp" width="100%" alt="Faro - Guía">
-
-### 🏛️ Validación Internacional y Respaldo de Prensa
-La mirada de Haroldo ha sido el lente de medios globales, validando una vida dedicada al registro de calidad:
-
-| Bloque Editorial | Medios Destacados | Validación Documental |
-| :--- | :--- | :--- |
-| **Prensa Europea** | *Stern*, *Folket i Bild*, *Zeitenspiegel* | [Evidencia: Reportajes Suecia/Alemania](https://drive.google.com/drive/folders/1RQokGcrZrStpAMnyHUbsdlw8y3tECjOq) |
-| **Prensa Latinoamérica** | *Paula*, *Página/12*, *La Tercera* | [Entrevista: Una vida de alto vuelo](https://www.latercera.com/diario-impreso/una-vida-de-alto-vuelo/) |
-| **Patrimonio** | *Kactus*, *UNESCO*, *Armada de Chile* | [Catálogo: Faros de Chile (Amazon)](https://www.amazon.com/-/es/Lighthouses-Direccion-Territorio-Maritime-Mercante/dp/9567136246) |
-
-### 📂 Estructura del Archivo
-
-- **`fotos/`**: Archivo maestro en formato TIFF sin compresión con metadatos EXIF completos
-- **`data/`**: Bases de datos georreferenciadas, metadatos JSON y CSV de catalogación
-- **`scripts/`**: Herramientas de procesamiento, geolocalización y exportación
-- **`public/`**: Versiones web optimizadas para visualización online
-
-### 🗺️ Metodología de Georreferenciación
-
-Cada fotografía del atlas está vinculada a coordenadas geográficas precisas cuando el contexto histórico lo permite. El sistema de metadatos incluye:
-- Coordenadas GPS (latitud/longitud)
-- Fecha y contexto histórico
-- Categorización temática
-- Derechos y atribuciones
->>>>>>> ed1ae67 (fix: corrección de extensión doble en pdf de Dialnet)
 
 [↑ Volver al inicio](#-español)
 
@@ -158,12 +101,6 @@ Cada fotografía del atlas está vinculada a coordenadas geográficas precisas c
 <a name="-english"></a>
 ## 🇺🇸 English: The Nomadic Eye
 
-<<<<<<< HEAD
-This repository hosts the **Digital Atlas** of Haroldo Horta: 28TB of photographic memory documenting five decades of Latin American history. From war trenches in Central America to the high-altitude silence of the Andes, Haroldo now embraces his role as a **Nomadic Ethnographic Recorder**.
-
-<img src="fotos/panos/03_english.webp" width="100%" alt="Nicaragua Internationalist">
-
-=======
 This repository hosts the **Digital Atlas** of Haroldo Horta: 28TB of photographic memory documenting five decades of Latin American history. It's not merely a technical archive—it's an act of resistance and a reconnection with human value through the lens, from sky and earth.
 
 ### A Journey in Three Acts
@@ -194,20 +131,19 @@ Haroldo's vision has served as the lens for global media outlets, validating a l
 
 ### 📂 Archive Structure
 
-- **`fotos/`**: Master archive in uncompressed TIFF format with complete EXIF metadata
-- **`data/`**: Georeferenced databases, JSON metadata, and cataloging CSVs
-- **`scripts/`**: Processing, geolocation, and export tools
-- **`public/`**: Web-optimized versions for online viewing
+- **`fotos/`**: Master archive in uncompressed TIFF format with complete EXIF metadata.  
+- **`data/`**: Georeferenced databases, JSON metadata, and cataloging CSVs.  
+- **`scripts/`**: Processing, geolocation, and export tools.  
+- **`public/`**: Web-optimized versions for online viewing.  
 
 ### 🗺️ Georeferencing Methodology
 
 Each photograph in the atlas is linked to precise geographic coordinates when historical context permits. The metadata system includes:
-- GPS coordinates (latitude/longitude)
-- Date and historical context
-- Thematic categorization
-- Rights and attributions
+- GPS coordinates (latitude/longitude).
+- Date and historical context.
+- Thematic categorization.
+- Rights and attributions.
 
->>>>>>> ed1ae67 (fix: corrección de extensión doble en pdf de Dialnet)
 [↑ Back to top](#-english)
 
 ---
@@ -215,12 +151,6 @@ Each photograph in the atlas is linked to precise geographic coordinates when hi
 <a name="-português"></a>
 ## 🇧🇷 Português: Memória Viva
 
-<<<<<<< HEAD
-Este repositório abriga o **Atlas Digital** de Haroldo Horta. Das trincheiras da Nicarágua à liberdade do voo em paramotor, Haroldo registra a essência humana percorrendo a América do Sul.
-
-<img src="fotos/panos/04_portugues.webp" width="100%" alt="San Pedro Atacama">
-
-=======
 Este repositório abriga o **Atlas Digital** de Haroldo Horta: 28TB de memória fotográfica que documentam cinco décadas de história latino-americana. Não é apenas um arquivo técnico; é um ato de resistência e uma reconexão com o valor humano através das lentes, do céu e da terra.
 
 ### Uma Jornada em Três Atos
@@ -251,40 +181,25 @@ A visão de Haroldo serviu como lente para veículos de comunicação globais, v
 
 ### 📂 Estrutura do Arquivo
 
-- **`fotos/`**: Arquivo mestre em formato TIFF sem compressão com metadados EXIF completos
-- **`data/`**: Bases de dados georreferenciadas, metadados JSON e CSVs de catalogação
-- **`scripts/`**: Ferramentas de processamento, geolocalização e exportação
-- **`public/`**: Versões otimizadas para web para visualização online
+- **`fotos/`**: Arquivo mestre em formato TIFF sem compressão com metadados EXIF completos.  
+- **`data/`**: Bases de dados georreferenciadas, metadados JSON e CSVs de catalogação.  
+- **`scripts/`**: Ferramentas de processamento, geolocalização e exportação.  
+- **`public/`**: Versões otimizadas para web para visualização online.  
 
 ### 🗺️ Metodologia de Georreferenciamento
 
 Cada fotografia do atlas está vinculada a coordenadas geográficas precisas quando o contexto histórico permite. O sistema de metadados inclui:
-- Coordenadas GPS (latitude/longitude)
-- Data e contexto histórico
-- Categorização temática
-- Direitos e atribuições
+- Coordenadas GPS (latitude/longitude).
+- Data e contexto histórico.
+- Categorização temática.
+- Direitos e atribuições.
 
->>>>>>> ed1ae67 (fix: corrección de extensión doble en pdf de Dialnet)
 [↑ Voltar ao topo](#-português)
 
 ---
 
-<<<<<<< HEAD
-## 🛡️ Rescate Patrimonial: SUR DAO
-=======
 <img src="fotos/panos/05_licencia_pre.webp" width="100%" alt="Industria y Recurso">
->>>>>>> ed1ae67 (fix: corrección de extensión doble en pdf de Dialnet)
 
-Este archivo representa la **Trayectoria #00** de la iniciativa de rescate de memoria impulsada por **SUR DAO**.  
-[**🔗 Visitar Repositorio Oficial SUR DAO (Nave Madre)**](https://github.com/TIANHH77/Sur-DAO)
-
-<<<<<<< HEAD
----
-
-## 👤 Sobre el Fotógrafo / About the Photographer
-
-**Haroldo Horta** (Chile, 1954) es fotógrafo documental, piloto de paramotor y archivista de memoria histórica. Su trabajo abarca desde el fotoperiodismo de guerra en Centroamérica hasta la documentación patrimonial de territorios australes. Actualmente vive de forma nómade recorriendo Sudamérica en su motor home, combinando fotografía aérea y registro etnográfico.
-=======
 <div align="center">
 
 [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
@@ -297,82 +212,35 @@ Este archivo representa la **Trayectoria #00** de la iniciativa de rescate de me
 
 ### 🇪🇸 Español
 **Usted es libre de:**
-- **Compartir:** Copiar y redistribuir el material en cualquier medio o formato
+- **Compartir:** Copiar y redistribuir el material en cualquier medio o formato.
 
 **Bajo los siguientes términos:**
-- **Atribución:** Debe dar crédito apropiado a Haroldo Horta
-- **No Comercial:** No puede utilizar el material con fines comerciales
-- **Sin Derivadas:** Si remezcla, transforma o crea a partir del material, no puede distribuir el material modificado
+- **Atribución:** Debe dar crédito apropiado a Haroldo Horta.
+- **No Comercial:** No puede utilizar el material con fines comerciales.
+- **Sin Derivadas:** Si remezcla, transforma o crea a partir del material, no puede distribuir el material modificado.
 
 ### 🇺🇸 English
 **You are free to:**
-- **Share:** Copy and redistribute the material in any medium or format
+- **Share:** Copy and redistribute the material in any medium or format.
 
 **Under the following terms:**
-- **Attribution:** You must give appropriate credit to Haroldo Horta
-- **NonCommercial:** You may not use the material for commercial purposes
-- **NoDerivatives:** If you remix, transform, or build upon the material, you may not distribute the modified material
+- **Attribution:** You must give appropriate credit to Haroldo Horta.
+- **NonCommercial:** You may not use the material for commercial purposes.
+- **NoDerivatives:** If you remix, transform, or build upon the material, you may not distribute the modified material.
 
 ### 🇧🇷 Português
 **Você é livre para:**
-- **Compartilhar:** Copiar e redistribuir o material em qualquer meio ou formato
+- **Compartilhar:** Copiar e redistribuir o material em qualquer meio ou formato.
 
 **Sob os seguintes termos:**
-- **Atribuição:** Você deve dar crédito apropriado a Haroldo Horta
-- **NãoComercial:** Você não pode usar o material para fins comerciais
-- **SemDerivações:** Se você remixar, transformar ou criar a partir do material, não pode distribuir o material modificado
+- **Atribuição:** Você deve dar crédito apropriado a Haroldo Horta.
+- **NãoComercial:** Você não pode usar o material para fins comerciais.
+- **SemDerivações:** Se você remixar, transformar ou criar a partir do material, não pode distribuir o material modificado.
 
 <img src="fotos/panos/06_licencia_post.webp" width="100%" alt="El Viaje Continúa">
 
-
-## 👤 Sobre el Fotógrafo / About the Photographer / Sobre o Fotógrafo
-
-**Haroldo Horta** (Chile, 1954) es fotógrafo documental, piloto de paramotor y archivista de memoria histórica. Su trabajo abarca desde el fotoperiodismo de guerra en Centroamérica hasta la documentación patrimonial de territorios australes. Actualmente vive de forma nómade recorriendo Sudamérica en su motor home, combinando fotografía aérea y registro etnográfico.
-
-**Haroldo Horta** (Chile, 1954) is a documentary photographer, paramotor pilot, and historical memory archivist. His work spans from war photojournalism in Central America to heritage documentation of southern territories. He currently lives nomadically traveling through South America in his motor home, combining aerial photography and ethnographic documentation.
-
-**Haroldo Horta** (Chile, 1954) é fotógrafo documental, piloto de paramotor e arquivista de memória histórica. Seu trabalho abrange desde o fotojornalismo de guerra na América Central até a documentação patrimonial de territórios austrais. Atualmente vive de forma nômade percorrendo a América do Sul em seu motor home, combinando fotografia aérea e registro etnográfico.
->>>>>>> ed1ae67 (fix: corrección de extensión doble en pdf de Dialnet)
-
 ---
 
-## 📬 Contacto / Contact / Contato
-
-- **Email:** [haroldohorta@gmail.com](mailto:haroldohorta@gmail.com)
-- **Web:** [haroldohorta.github.io/atlas](https://haroldohorta.github.io/atlas/)
-<<<<<<< HEAD
-
----
-
-<a name="-apoyo"></a>
-## 💝 Apoya este Proyecto / Support this Project
-=======
-- **GitHub:** [@haroldohorta](https://github.com/haroldohorta)
-
----
->>>>>>> ed1ae67 (fix: corrección de extensión doble en pdf de Dialnet)
-
-<div align="center">
-<<<<<<< HEAD
-
-Este archivo vive gracias al esfuerzo independiente de preservar 50 años de memoria histórica. Cada aporte ayuda a mantener vivos estos 28TB y a continuar documentando Sudamérica.
-
-**💙 PayPal:** [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Vivevolandonomade)
-
-</div>
-
----
-
-<div align="center">
-  <h3>Desarrollado con sentido y amor en medio de una tormenta en Junín, Argentina, 2026.</h3>
-  <img src="fotos/panos/07_cierre.webp" width="100%" alt="Fin del Mundo">
-=======
-  <h3>Desarrollado con sentido y amor en medio de una tormenta en Junín, Argentina, 2026.</h3>
-  <p><i>Developed with purpose and love during a storm in Junín, Argentina, 2026.</i></p>
-  <p><i>Desenvolvido com propósito e amor durante uma tempestade em Junín, Argentina, 2026.</i></p>
-  
-  <img src="fotos/panos/07_cierre.webp" width="100%" alt="Fin del Mundo">
-</div>
 ## 🛡️ Rescate Patrimonial / Heritage Rescue / Resgate Patrimonial
 
 <div align="center">
@@ -391,13 +259,51 @@ Registrar a beleza e a dor é o último ato de liberdade.
 
 ---
 
-**SUR DAO:** Tecnología descentralizada al servicio de la Memoria Histórica  
-*Decentralized technology serving Historical Memory*  
-*Tecnologia descentralizada a serviço da Memória Histórica*
+**SUR DAO:** Tecnología descentralizada al servicio de la Memoria Histórica.  
+*Decentralized technology serving Historical Memory.*  
+*Tecnologia descentralizada a serviço da Memória Histórica.*
 
 [**🔗 Visitar Repositorio Oficial SUR DAO (Nave Madre)**](https://github.com/TIANHH77/Sur-DAO)
 
->>>>>>> ed1ae67 (fix: corrección de extensión doble en pdf de Dialnet)
 </div>
 
 ---
+
+## 👤 Sobre el Fotógrafo / About the Photographer / Sobre o Fotógrafo
+
+**Haroldo Horta** (Chile, 1954) es fotógrafo documental, piloto de paramotor y archivista de memoria histórica. Su trabajo abarca desde el fotoperiodismo de guerra en Centroamérica hasta la documentación patrimonial de territorios australes. Actualmente vive de forma nómade recorriendo Sudamérica en su motor home, combinando fotografía aérea y registro etnográfico.
+
+**Haroldo Horta** (Chile, 1954) is a documentary photographer, paramotor pilot, and historical memory archivist. His work spans from war photojournalism in Central America to heritage documentation of southern territories. He currently lives nomadically traveling through South America in his motor home, combining aerial photography and ethnographic documentation.
+
+**Haroldo Horta** (Chile, 1954) é fotógrafo documental, piloto de paramotor e arquivista de memória histórica. Seu trabalho abrange desde o fotojornalismo de guerra na América Central até a documentação patrimonial de territórios austrais. Atualmente vive de forma nômade percorrendo a América do Sul em seu motor home, combinando fotografia aérea e registro etnográfico.
+
+---
+
+## 📬 Contacto / Contact / Contato
+
+- **Email:** [haroldohorta@gmail.com](mailto:haroldohorta@gmail.com)  
+- **Web:** [haroldohorta.github.io/atlas](https://haroldohorta.github.io/atlas/)  
+- **GitHub:** [@haroldohorta](https://github.com/haroldohorta)
+
+---
+
+<a name="-apoyo"></a>
+## 💝 Apoya este Proyecto / Support this Project
+
+<div align="center">
+
+Este archivo vive gracias al esfuerzo independiente de preservar 50 años de memoria histórica. Cada aporte ayuda a mantener vivos estos 28TB y a continuar documentando Sudamérica.
+
+**💙 PayPal:** [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Vivevolandonomade)
+
+</div>
+
+---
+
+<div align="center">
+  <h3>Desarrollado con sentido y amor en medio de una tormenta en Junín, Argentina, 2026.</h3>
+  <p><i>Developed with purpose and love during a storm in Junín, Argentina, 2026.</i></p>
+  <p><i>Desenvolvido com propósito e amor durante uma tempestade em Junín, Argentina, 2026.</i></p>
+  
+  <img src="fotos/panos/07_cierre.webp" width="100%" alt="Fin del Mundo">
+</div>
