@@ -26,7 +26,7 @@
 
 Este repositorio constituye el **Atlas Digital** de Haroldo Horta: 28TB de memoria fotográfica que documentan cinco décadas de historia latinoamericana. No es solo un archivo técnico; es un acto de resistencia y una reconexión con el valor de lo humano a través de la lente, desde el cielo y la tierra.
 
-🗂️ Estructura de Carpetas y Categorías Principales del disco maestro de 28TB
+🗂️ Estructura de Carpetas y Categorías Principales del disco Maestro de 28TB, que alimentan al atlas de su Trayectoria Fotográfica.
 
 <i>pub_* → Crónica / Etnografía (Editorial, libros, entrevistas, reportajes)<i>
 
