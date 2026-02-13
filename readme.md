@@ -5,9 +5,13 @@
   <div align="center">
   <img src="fotos/panos/01_portada.webp" width="100%" alt="Haroldo Horta - Fotografía Documental">
   <p>
-    <i>"Desde el corazón de la revolución Sandinista en Nicaragua al silencio infinito de Atacama. Un legado vivo que nos recuerda el no olvidar la dignidad humana, tanto desde el cielo como desde la tierra"".</i>
- <i>ES: Un atlas visual y cartográfico que recorre cinco décadas de historia, desde la guerra en Nicaragua hasta la Antártida y el vuelo libre.<i>    
+   
+<i>"Desde el corazón de la revolución Sandinista en Nicaragua al silencio infinito de Atacama. Un legado vivo que nos recuerda el no olvidar la dignidad humana, tanto desde el cielo como desde la tierra"".</i>
+   
+<i>ES: Un atlas visual y cartográfico que recorre cinco décadas de historia, desde la guerra en Nicaragua hasta la Antártida y el vuelo libre.<i>
+
 <i>EN: A cartographic visual archive spanning five decades, from the Nicaraguan revolution to Antarctica and aerial photography.<i>
+
 <i>PT: Um atlas visual e cartográfico que percorre cinco décadas de história, da guerra na Nicarágua à Antártida e ao voo livre."</i>
   </p>
 
