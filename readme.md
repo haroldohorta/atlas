@@ -1,8 +1,7 @@
 
  
-  <br>
-  <h1>📷 HAROLDO HORTA 📷</h1>
-  <h3>50 Años de Memoria Viva / 50 Years of Living Memory / 50 Anos de Memória Viva</h3>
+# 🗺️ ATLAS: 50 Años de Memoria Viva
+### El Archivo Fotográfico de Haroldo Horta
   <div align="center">
   <img src="fotos/panos/01_portada.webp" width="100%" alt="Haroldo Horta - Fotografía Documental">
   <p>
