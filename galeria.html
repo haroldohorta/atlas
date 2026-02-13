@@ -3,169 +3,96 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Archivo Haroldo Horta | Expediente Visual</title>
-    
+    <title>Expediente | Atlas Haroldo Horta</title>
     <link rel="icon" type="image/x-icon" href="favicon.ico">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"/>
-    
     <style>
-        body { 
-            background: #0b0b0b; color: #fff; 
-            font-family: 'Helvetica Neue', sans-serif; 
-            margin: 0; padding: 20px; 
-        }
-        
-        header {
-            display: flex; justify-content: space-between; align-items: center;
-            border-bottom: 1px solid #ff9f1c; padding-bottom: 15px; margin-bottom: 30px;
-        }
-        h1 { 
-            margin: 0; color: #ff9f1c; letter-spacing: 2px; 
-            text-transform: uppercase; font-size: 24px; 
-        }
-        
-        .btn-volver {
-            text-decoration: none; color: #aaa; border: 1px solid #444; 
-            padding: 8px 16px; transition: 0.3s; font-size: 12px; 
-            text-transform: uppercase; border-radius: 4px;
-        }
-        .btn-volver:hover { color: #fff; border-color: #ff9f1c; background: #222; }
-
-        .stats-bar {
-            background: #1a1a1a; border: 1px solid #333; 
-            padding: 15px; margin-bottom: 30px; border-radius: 4px;
-            display: flex; justify-content: space-around; align-items: center;
-            flex-wrap: wrap;
-        }
-        .stat-item { text-align: center; padding: 10px; }
-        .stat-number { font-size: 28px; color: #ff9f1c; font-weight: bold; }
-        .stat-label { font-size: 10px; color: #888; text-transform: uppercase; }
-
-        /* MASONRY GRID */
-        .gallery-container {
-            column-count: 4;
-            column-gap: 15px;
-        }
-        @media (max-width: 1200px) { .gallery-container { column-count: 3; } }
-        @media (max-width: 768px) { .gallery-container { column-count: 2; } }
-        @media (max-width: 480px) { .gallery-container { column-count: 1; } }
-
-        .gallery-item {
-            break-inside: avoid; margin-bottom: 15px;
-            position: relative; transition: transform 0.3s ease;
-            cursor: zoom-in; background: #1a1a1a;
-            border: 1px solid #333; border-radius: 4px;
-            overflow: hidden; display: block;
-        }
-        .gallery-item:hover { transform: scale(1.02); border-color: #ff9f1c; z-index: 10; }
-        .gallery-item img { width: 100%; height: auto; display: block; }
-
-        .info-overlay {
-            padding: 10px;
-            background: linear-gradient(to top, rgba(0,0,0,0.9), transparent);
-            position: absolute; bottom: 0; left: 0; right: 0;
-            opacity: 0; transition: 0.3s;
-        }
-        .gallery-item:hover .info-overlay { opacity: 1; }
-        
-        .foto-titulo { font-size: 12px; color: #ff9f1c; font-weight: bold; }
-        .foto-rating { font-size: 14px; margin-top: 5px; }
-
-        /* Botón Flotante */
-        .btn-flotante {
-            position: fixed; bottom: 30px; right: 30px; 
-            background: #ff9f1c; color: #000; padding: 12px 24px; 
-            border-radius: 30px; text-decoration: none; font-weight: bold; 
-            z-index: 1000; box-shadow: 0 4px 15px rgba(255,159,28,0.4);
-            text-transform: uppercase; font-size: 12px;
-        }
-
-        #loading { text-align: center; padding: 50px; }
-        .spinner { font-size: 40px; animation: spin 2s linear infinite; }
-        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: 'Courier New', monospace; background: #0f0f0f; color: #ccc; padding: 20px; line-height: 1.5; }
+        header { text-align: center; margin-bottom: 40px; border-bottom: 1px solid #ff9f1c; padding-bottom: 20px; }
+        h1 { color: #ff9f1c; font-size: 2em; text-transform: uppercase; letter-spacing: 2px; }
+        #back { position: absolute; top: 20px; left: 20px; background: #222; color: #ff9f1c; padding: 10px 15px; text-decoration: none; border: 1px solid #ff9f1c; transition: 0.3s; }
+        #back:hover { background: #ff9f1c; color: #000; }
+        .stats { display: flex; justify-content: center; gap: 30px; margin: 20px 0; font-size: 14px; }
+        .stat { text-align: center; }
+        .stat-num { font-size: 2em; color: #ff9f1c; font-weight: bold; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; max-width: 1400px; margin: 0 auto; }
+        .card { background: #1a1a1a; border: 1px solid #333; border-radius: 4px; overflow: hidden; transition: 0.3s; }
+        .card:hover { border-color: #ff9f1c; transform: translateY(-5px); }
+        .card-img { width: 100%; height: 200px; object-fit: cover; }
+        .card-header { padding: 15px; background: #000; }
+        .capa { font-size: 11px; text-transform: uppercase; opacity: 0.7; margin-bottom: 5px; }
+        .titulo { color: #ff9f1c; font-weight: bold; font-size: 16px; }
+        .rating { color: #ffdb4d; font-size: 12px; margin-top: 5px; }
+        .desc { padding: 15px; font-size: 13px; }
+        .narrativa { border-left: 4px solid #b366ff !important; }
+        .aereo { border-left: 4px solid #4d94ff !important; }
+        .cronica { border-left: 4px solid #ff4d4d !important; }
+        #loading { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: #0f0f0f; z-index: 9999; display: flex; align-items: center; justify-content: center; flex-direction: column; }
+        @media (max-width: 768px) { .grid { grid-template-columns: 1fr; } .stats { flex-direction: column; gap: 10px; } }
     </style>
 </head>
 <body>
-
+    <div id="loading">Cargando expediente... 📂</div>
+    <a id="back" href="index.html">← ATLAS</a>
     <header>
-        <h1 id="titulo-zona">ARCHIVO GLOBAL</h1>
-        <a href="index.html" class="btn-volver">← Volver al Mapa</a>
+        <h1 id="zona-titulo">CARGANDO...</h1>
+        <div class="stats">
+            <div class="stat"><div class="stat-num" id="total">0</div>Fotos</div>
+            <div class="stat"><div class="stat-num" id="narrativa">0</div>Narrativa</div>
+            <div class="stat"><div class="stat-num" id="aereo">0</div>Aéreo</div>
+        </div>
     </header>
+    <div id="grid" class="grid"></div>
 
-    <div class="stats-bar" id="stats">
-        <div class="stat-item">
-            <div class="stat-number" id="total-fotos">0</div>
-            <div class="stat-label">Fotografías</div>
-        </div>
-        <div class="stat-item">
-            <div class="stat-number" id="periodo">—</div>
-            <div class="stat-label">Período</div>
-        </div>
-        <div class="stat-item">
-            <div class="stat-number" id="rating-promedio">—</div>
-            <div class="stat-label">Rating Promedio</div>
-        </div>
-    </div>
-
-    <div id="loading">
-        <div class="spinner">📷</div>
-        <div style="color:#ff9f1c; margin-top:10px;">CARGANDO EXPEDIENTE...</div>
-    </div>
-
-    <div class="gallery-container" id="galeria"></div>
-
-    <a href="index.html" class="btn-flotante">🗺️ Mapa</a>
-
-    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
     <script>
-        function generarEstrellas(rating) {
-            return rating ? '⭐'.repeat(rating) : '';
-        }
-
-        const params = new URLSearchParams(window.location.search);
-        const zona = params.get('zona');
+        const urlParams = new URLSearchParams(window.location.search);
+        const zona = urlParams.get('zona') || 'fordlandia';  // Default ford para test
+        document.getElementById('zona-titulo').textContent = zona.toUpperCase();
+        
+        let data = [], filtered = [];
+        const stats = { total: 0, narrativa: 0, aereo: 0, cronica: 0 };
         
         fetch('data/puntos_mapa.json')
             .then(res => res.json())
-            .then(data => {
-                document.getElementById('loading').remove();
-                const contenedor = document.getElementById('galeria');
-                const fotos = data.filter(item => !zona || item.zona === zona);
-
-                document.getElementById('titulo-zona').innerText = zona ? `EXPEDIENTE: ${zona.toUpperCase()}` : 'ARCHIVO GLOBAL';
-                document.getElementById('total-fotos').innerText = fotos.length;
-
-                // Stats de Período
-                const fechas = fotos.filter(f => f.fecha).map(f => new Date(f.fecha).getFullYear());
-                if (fechas.length > 0) {
-                    const min = Math.min(...fechas);
-                    const max = Math.max(...fechas);
-                    document.getElementById('periodo').innerText = min === max ? min : `${min}-${max}`;
-                }
-
-                // Render
-                fotos.forEach(foto => {
-                    const link = document.createElement('a');
-                    link.className = 'gallery-item';
-                    link.href = foto.full || foto.thumb;
-                    link.setAttribute('data-fancybox', 'gallery');
-                    link.setAttribute('data-caption', `<b>${foto.titulo || foto.zona}</b><br>${foto.descripcion || ''}`);
-                    
-                    link.innerHTML = `
-                        <img src="${foto.thumb}" loading="lazy" onerror="this.src='https://via.placeholder.com/300x200?text=Error+Foto'">
-                        <div class="info-overlay">
-                            <div class="foto-titulo">${foto.titulo || foto.zona}</div>
-                            <div class="foto-rating">${generarEstrellas(foto.rating)}</div>
-                        </div>
-                    `;
-                    contenedor.appendChild(link);
+            .then(allData => {
+                data = allData.filter(p => p.zona === zona);
+                filtered = data.sort((a,b) => (b.rating || 0) - (a.rating || 0));  // Top rating first
+                
+                // Stats
+                filtered.forEach(p => {
+                    stats.total++;
+                    if (p.capa?.includes('Narrativa')) stats.narrativa++;
+                    else if (p.capa?.includes('Aéreo')) stats.aereo++;
+                    else stats.cronica++;
                 });
-
-                Fancybox.bind("[data-fancybox]");
-            })
-            .catch(err => {
-                document.getElementById('loading').innerHTML = `<div style="color:#ff4d4d;">⚠️ Error al cargar datos</div>`;
+                
+                document.getElementById('total').textContent = stats.total;
+                document.getElementById('narrativa').textContent = stats.narrativa;
+                document.getElementById('aereo').textContent = stats.aereo;
+                
+                document.getElementById('loading').remove();
+                renderGrid();
             });
+        
+        function renderGrid() {
+            const grid = document.getElementById('grid');
+            grid.innerHTML = '';
+            filtered.forEach(p => {
+                const card = document.createElement('div');
+                card.className = `card ${p.capa?.includes('Narrativa') ? 'narrativa' : 
+                                p.capa?.includes('Aéreo') ? 'aereo' : 'cronica'}`;
+                card.innerHTML = `
+                    <img src="${p.thumb}" class="card-img" alt="${p.titulo}" loading="lazy">
+                    <div class="card-header">
+                        <div class="capa">${p.capa || 'ARCHIVO'}</div>
+                        <div class="titulo">${p.titulo || p.id}</div>
+                        ${p.rating ? `<div class="rating">★ ${p.rating}</div>` : ''}
+                    </div>
+                    <div class="desc">${p.descripcion || 'Expediente fotográfico'}</div>
+                `;
+                grid.appendChild(card);
+            });
+        }
     </script>
 </body>
 </html>
