@@ -1,66 +1,60 @@
-import pandas as pd
-import json
 import os
+import json
+import pandas as pd
 
-# --- CONFIGURACIÓN ---
-CSV_METADATOS = "metadata_haroldo.csv"  # El archivo que te pasa Haroldo
-CSV_ZONAS = "zonas.csv"                # Tu base de datos de coordenadas
-JSON_SALIDA = "data/puntos_mapa.json"
-CARPETA_FOTOS = "fotos/"               # Donde están las subcarpetas (managua, leon, etc)
+# --- RUTAS ---
+DIRECTORIO_FOTOS = r"F:\fotos"
+ARCHIVO_ZONAS = r"F:\data\zonas.csv"
+ARCHIVO_SALIDA = r"F:\data\puntos_mapa.json"
 
 def generar_json():
-    print("🚀 Iniciando construcción automática del Atlas...")
+    # 1. Cargar las coordenadas de las zonas
+    df_zonas = pd.read_csv(ARCHIVO_ZONAS)
+    zonas_dict = df_zonas.set_index('zona').to_dict('index')
     
-    # 1. Cargar base de datos de coordenadas
-    df_zonas = pd.read_csv(CSV_ZONAS).set_index('zona')
-    
-    # 2. Cargar metadatos de Haroldo
-    try:
-        df_fotos = pd.read_csv(CSV_METADATOS)
-    except FileNotFoundError:
-        print(f"❌ Error: No se encontró el archivo {CSV_METADATOS}")
-        return
+    puntos_mapa = []
 
-    lista_puntos = []
+    print("🛰️ Escaneando carpetas de fotos...")
 
-    for _, row in df_fotos.iterrows():
-        zona_id = str(row['zona']).lower().strip()
+    # 2. Recorrer las subcarpetas en F:\fotos
+    for carpeta in os.listdir(DIRECTORIO_FOTOS):
+        ruta_carpeta = os.path.join(DIRECTORIO_FOTOS, carpeta)
         
-        # Buscar coordenadas en la base de datos de zonas
-        if zona_id in df_zonas.index:
-            lat = df_zonas.loc[zona_id, 'lat']
-            lon = df_zonas.loc[zona_id, 'lon']
-        else:
-            print(f"⚠️ Advertencia: Zona '{zona_id}' no encontrada en zonas.csv. Saltando...")
-            continue
+        if os.path.isdir(ruta_carpeta) and carpeta.startswith("pub_") or carpeta.startswith("fly_"):
+            # Identificar la zona (quitando el prefijo pub_ o fly_)
+            zona_key = carpeta.replace("pub_", "").replace("fly_", "")
+            
+            if zona_key in zonas_dict:
+                info_zona = zonas_dict[zona_key]
+                
+                # Buscar archivos .webp en la carpeta
+                for archivo in os.listdir(ruta_carpeta):
+                    if archivo.lower().endswith(".webp"):
+                        nombre_base = os.path.splitext(archivo)[0]
+                        
+                        punto = {
+                            "id": nombre_base,
+                            "lat": info_zona['lat'],
+                            "lon": info_zona['lon'],
+                            "zona": zona_key,
+                            "capa": "Narrativa" if "pub" in carpeta else "Aéreo",
+                            "titulo": nombre_base.replace("_", " ").capitalize(),
+                            "thumb": f"fotos/{carpeta}/{archivo}",
+                            "full": f"fotos/{carpeta}/{archivo}",
+                            "rating": 5,
+                            "descripcion": f"Registro en {info_zona['descripcion']}",
+                            "relato": "Pendiente de relato..."
+                        }
+                        puntos_mapa.append(punto)
+                        print(f"📍 Agregado: {archivo}")
+            else:
+                print(f"⚠️ Advertencia: La zona '{zona_key}' no está en zonas.csv")
 
-        # Construir la ruta del archivo (asumiendo que están en carpetas por zona)
-        # Ejemplo: fotos/managua/NIC_001.webp
-        nombre_archivo = f"{row['id']}.webp"
-        ruta_foto = f"fotos/{zona_id}/{nombre_archivo}"
-
-        # Crear el objeto para el JSON
-        punto = {
-            "id": row['id'],
-            "lat": float(lat),
-            "lon": float(lon),
-            "zona": zona_id,
-            "capa": row['capa'],
-            "titulo": row['titulo'],
-            "thumb": ruta_foto,
-            "full": ruta_foto,
-            "rating": int(row['rating']),
-            "descripcion": row.get('descripcion', ''), # Opcional
-            "relato": row['relato']
-        }
-        lista_puntos.append(punto)
-
-    # 3. Guardar el JSON final
-    with open(JSON_SALIDA, 'w', encoding='utf-8') as f:
-        json.dump(lista_puntos, f, indent=2, ensure_ascii=False)
-
-    print(f"✅ ¡Atlas actualizado! Se procesaron {len(lista_puntos)} fotos.")
-    print(f"📂 Archivo generado: {JSON_SALIDA}")
+    # 3. Guardar el archivo JSON final
+    with open(ARCHIVO_SALIDA, 'w', encoding='utf-8') as f:
+        json.dump(puntos_mapa, f, indent=2, ensure_ascii=False)
+    
+    print(f"\n✨ ¡ÉXITO! Se generaron {len(puntos_mapa)} puntos en {ARCHIVO_SALIDA}")
 
 if __name__ == "__main__":
     generar_json()
