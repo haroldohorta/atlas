@@ -51,8 +51,8 @@ Etapa de consolidación editorial. Haroldo aplicó su maestría técnica al resc
 * **Expediciones Antárticas y Rutas Oceánicas:** Bases Chilenas (Prat), Argentinas e Inglesas, Rapa Nui, Tahití y España.
 * **Revista Vigía & Faros de Chile:** Fotografía oficial y patrimonial (DIRECTEMAR).
 
-III. El Vuelo Esencial y el Legado (2023 - Presente) | El Cambio de Altitud
-Tras años empujando los límites del registro nómade y el vuelo libre (fly_ y nomad_), Haroldo ha decidido que esta etapa ha cumplido su ciclo natural. Fiel a esa misma brújula que siempre le exigió ser absolutamente libre, hoy toma la decisión consciente de soltar el lastre material y el equipo pesado para asumir un compromiso total con su legado histórico.
+#### III. El Vuelo Esencial y el Legado (2023 - Presente) | *El Cambio de Altitud*
+Tras años empujando los límites del registro nómade y el vuelo libre (`fly_` y `nomad_`), Haroldo ha decidido que esta etapa ha cumplido su ciclo natural. Fiel a esa misma brújula que siempre le exigió ser absolutamente libre, hoy toma la decisión consciente de soltar el lastre material y el equipo pesado para asumir un compromiso total con su legado histórico.
 
 Este archivo digital no es un retiro, es una evolución. Es la herramienta diseñada para aligerar la carga, cerrar un capítulo físico y permitirle volver a la fotografía en su forma más pura y esencial. Como un Ícaro que elige su propia pista de aterrizaje, Haroldo no deja de volar, sino que decide hacerlo de otra forma: asegurando que sus 50 años de memoria viva queden blindados para siempre y a disposición del mundo.
 
@@ -101,23 +101,4 @@ Investigación de **Fernando Camacho Padilla** (UAM) sobre la supervivencia de l
 
 This repository hosts the **Digital Atlas** of Haroldo Horta: 28TB of photographic memory documenting five decades of Latin American history. It is an archive of survival and unyielding ethics, validated by the world's most prestigious media.
 
-* **The War Correspondent (1979 - 1997):** Captured by Somoza’s forces in Nicaragua and abandoned by the Chilean dictatorship, Haroldo survived to become a top photojournalist for European agencies (*Zeitenspiegel*). His work was published in **The New York Times**, **Der Spiegel**, and the **Stern Yearbook (1991)**. He documented the Sandinista revolution, the Cholera epidemic in Peru, and urban violence in Colombia before choosing to stop photographing death.
-* **The Aerial Pioneer (1996 - 1997):** He pioneered independent aerial photography using an ultralight aircraft ("Mosquito") to cover the Japanese Embassy hostage crisis in Lima, operating under the sights of state snipers.
-* **Patrimony and The Final Flight (1998 - Present):** Returning to Chile, he used his aerial mastery to document national heritage with *Editorial Kactus* and the *Chilean Navy*. Today, this Atlas seeks to preserve his monumental legacy, allowing a lifetime of resistance and art to find its rightful place in history.
-
----
-
-## 🇧🇷 Português: Resumo do Arquivo
-
-Este repositório abriga o **Atlas Digital** de Haroldo Horta: 28TB de memória fotográfica documentando cinco décadas de história latino-americana. É um arquivo de sobrevivência e ética inabalável, validado pela imprensa global.
-
-* **O Correspondente (1979 - 1997):** Capturado na Nicarágua e abandonado pela ditadura chilena, Haroldo sobreviveu para se tornar um fotógrafo de elite para agências europeias (*Zeitenspiegel*). Seu trabalho foi publicado no **The New York Times**, **Der Spiegel** e no prestigiado **Anuário da Stern (1991)**. Documentou a revolução Sandinista, a epidemia de cólera no Peru e a violência na Colômbia.
-* **O Pioneiro Aéreo (1996 - 1997):** Revolucionou a fotografia aérea usando um ultraleve ("Mosquito") para cobrir a crise dos reféns na Embaixada do Japão em Lima, voando sob a mira de atiradores de elite.
-* **Patrimônio e o Voo Final (1998 - Presente):** De volta ao Chile, usou sua maestria aérea para registrar o patrimônio nacional. Hoje, este Atlas busca preservar seu legado monumental, garantindo que uma vida inteira de resistência e arte encontre seu lugar definitivo na história.
-
----
-
-<div align="center">
-  <p><i>Este archivo es mantenido por la familia Horta y el proyecto Surdao.</i></p>
-  <p><b>Contacto:</b> <a href="mailto:haroldohorta@gmail.com">haroldohorta@gmail.com</a></p>
-</div>
+* **The War Correspondent (1979 - 1997):** Captured by Somoza’s forces in Nicaragua and abandoned by the Chilean dictatorship, Haroldo
