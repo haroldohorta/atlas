@@ -2,7 +2,7 @@
   <h1>📷 HAROLDO HORTA 📷</h1>
   <h3>50 Años de Memoria Viva / 50 Years of Living Memory</h3>
   
-  <img src="assets_web/horta-certificacion-propiedad-cejar.webp" width="100%" alt="Haroldo Horta - Certificación Cejar">
+  <img src="assets_web/horta-certificacion-propiedad-cejar.webp" width="75%" alt="Haroldo Horta - Certificación Cejar">
   
   <p>
     <i>"Desde la trinchera sandinista y el asedio en Lima, hasta el silencio de la Antártida y el vuelo libre en Atacama. Un legado que documenta la dignidad humana desde el cielo y la tierra."</i>
