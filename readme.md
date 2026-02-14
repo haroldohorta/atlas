@@ -37,25 +37,28 @@ Este repositorio constituye el **Atlas Digital** de Haroldo Horta: 28TB de memor
 ### 📜 Una Trayectoria en Tres Actos
 
 * **I. El Corresponsal (1979 - 1997):** Documentó la Nicaragua Sandinista, sobrevivió a la prisión política en 1979 y se consolidó en la prensa europea (*Stern, Spiegel, FAZ*).
-* **II. La Luz del Fin del Mundo (1998 - 2022):** Trabajo editorial en Chile con Editorial Kactus y registro de soberanía para la Armada de Chile en la Antártida y faros remotos.
-* **III. El Vuelo Esencial y el Legado (Presente):** Proceso de digitalización y preservación del patrimonio visual acumulado.
-
 <div align="center">
-  <img src="fotos/recortes/assets_web/horta-new-york-times-nicaragua-1987.webp" width="75%" alt="NYT 1987">
+  <img src="fotos/recortes/assets_web/horta-new-york-times-nicaragua-1987.webp" width="60%" alt="NYT 1987">
   <p><i>Retrato del Coronel Uriel Vanegas (Nicaragua), New York Times, 1987.</i></p>
   
-  <img src="fotos/recortes/assets_web/horta-el-comercio-peru-embajada-1997.webp" width="75%" alt="Embajada Japón 1997">
+* **II. La Luz del Fin del Mundo (1998 - 2022):** Trabajo editorial en Chile con Editorial Kactus y registro de soberanía para la Armada de Chile en la Antártida y faros remotos.
+
+ <img src="fotos/recortes/assets_web/horta-el-comercio-peru-embajada-1997.webp" width="60%" alt="Embajada Japón 1997">
   <p><i>Operación Chavín de Huántar, Lima, 1997.</i></p>
 </div>
+
+* **III. El Vuelo Esencial y el Legado (Presente):** Proceso de digitalización y preservación del patrimonio visual acumulado.
+<div align="center">
+  <img src="fotos/recortes/assets_web/horta-preservacion-digital-proyecto-surdao.webp" width="60%" alt="Digital Preservation Surdao">
+</div>
+
+  
+ 
 
 ---
 
 <a name="-english"></a>
 ## 🇺🇸 ENGLISH: Archive Summary
-
-<div align="center">
-  <img src="fotos/recortes/assets_web/horta-preservacion-digital-proyecto-surdao.webp" width="60%" alt="Digital Preservation Surdao">
-</div>
 
 This repository hosts the digital legacy of international photojournalist **Haroldo Horta**. From the frontlines of the Sandinista Revolution to the remote Antarctic bases of the Chilean Navy, this archive documents 50 years of global history through the lens of one of Latin America's most prolific photographers.
 
@@ -65,7 +68,7 @@ This repository hosts the digital legacy of international photojournalist **Haro
 ## 🇧🇷 PORTUGUÊS: Resumo do Arquivo
 
 <div align="center">
-  <img src="fotos/recortes/assets_web/horta-propiedad-uyuni-panoramica.webp" width="80%" alt="Salar de Uyuni Panorâmica">
+  <img src="fotos/recortes/assets_web/horta-propiedad-uyuni-panoramica.webp" width="100%" alt="Salar de Uyuni Panorâmica">
 </div>
 
 Este repositório contém o legado digital de **Haroldo Horta**. Como correspondente internacional e fotógrafo editorial, Horta registrou momentos cruciais da história e geografia latino-americana para os principais veículos de comunicação do mundo.
@@ -80,7 +83,7 @@ La obra de Haroldo Horta es objeto de estudio por su valor en la reconstrucción
 * **Documento:** [👉 Leer investigación académica completa aquí (PDF)](https://rephip.unr.edu.ar/bitstream/handle/2133/21434/Camacho%20Padilla_Aletheia.pdf)
 
 <div align="center">
-  <img src="fotos/recortes/assets_web/horta-exposicion-suecia-fotograficentrum-4.webp" width="75%" alt="Fotograficentrum Estocolmo 1984">
+  <img src="fotos/recortes/assets_web/horta-exposicion-suecia-fotograficentrum-4.webp" width="45%" alt="Fotograficentrum Estocolmo 1984">
   <p><i>Exposición histórica en el Fotograficentrum de Estocolmo (1984).</i></p>
 </div>
 
@@ -91,9 +94,9 @@ La obra de Haroldo Horta es objeto de estudio por su valor en la reconstrucción
 Como parte del **Proyecto Surdao**, cada pieza de este archivo ha pasado por un proceso de validación técnica y legal para asegurar su permanencia, autoría y correcta gestión de derechos de propiedad intelectual.
 
 <div align="center">
-  <img src="fotos/recortes/assets_web/horta-certificacion-propiedad-intelectual.webp" width="50%" alt="Certificación">
+  <img src="fotos/recortes/assets_web/horta-certificacion-propiedad-intelectual.webp" width="45%" alt="Certificación">
   <br><br>
-  <img src="fotos/recortes/assets_web/horta-agencia-zeitenspiegel-alemania-equipo.webp" width="80%" alt="Equipo Zeitenspiegel">
+  <img src="fotos/recortes/assets_web/horta-agencia-zeitenspiegel-alemania-equipo.webp" width="45%" alt="Equipo Zeitenspiegel">
   <p><i>Haroldo Horta junto al equipo central de la agencia Zeitenspiegel en Alemania.</i></p>
 </div>
 
