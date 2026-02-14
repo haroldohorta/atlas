@@ -3,7 +3,8 @@
   <h3>50 Años de Memoria Viva / 50 Years of Living Memory</h3>
   
   <img src="assets_web/horta-stern-jahrbuch-portada-1991.webp" width="100%" alt="Haroldo Horta - Stern Jahrbuch 1991">
-  
+  > *"¿Pueden las pastillas curar la pobreza? Imágenes de la enfermedad de la miseria en Perú a fines del siglo XX."*
+> — **Prensa Alemana** (Reportaje sobre la epidemia del Cólera, Comas, Lima)
   <p>
     <i>"Desde la trinchera sandinista y el asedio en Lima, hasta el silencio de la Antártida y el vuelo libre en Atacama. Un legado que documenta la dignidad humana desde el cielo y la tierra."</i>
   </p>
@@ -36,9 +37,6 @@ Este repositorio constituye el **Atlas Digital** de Haroldo Horta: 28TB de memor
 #### I. El Corresponsal (1979 - 1997) | *El Barro y la Trinchera*
 Documentó la **Nicaragua Sandinista**, sobrevivió a la prisión política en 1979 y se consolidó en la plana mayor de la prensa europea (*Stern, Spiegel, FAZ*).
 Documentó la crudeza del continente capturando la **Nicaragua Sandinista**, sobreviviendo a la prisión (1979), y trabajando para las grandes agencias europeas. Su mirada no era la de un turista del dolor, sino la de alguien inmerso en la realidad social:
-
-> *"¿Pueden las pastillas curar la pobreza? Imágenes de la enfermedad de la miseria en Perú a fines del siglo XX."*
-> — **Prensa Alemana** (Reportaje sobre la epidemia del Cólera, Comas, Lima)
 
 <img src="assets_web/horta-new-york-times-nicaragua-1987.webp" width="100%" alt="NYT 1987 Haroldo Horta">
 <p align="center"><i>Retrato del Coronel Uriel Vanegas (Nicaragua), publicado por el New York Times en 1987.</i></p>
