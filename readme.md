@@ -2,7 +2,7 @@
   <h1>📷 HAROLDO HORTA 📷</h1>
   <h3>50 Años de Memoria Viva / 50 Years of Living Memory</h3>
   
-  <img src="assets_web/horta-atlas-portada-stern-1991.webp" width="75%" alt="Haroldo Horta - Stern Jahrbuch 1991">
+  <img src="assets_web/horta-atlas-portada-stern-1991.webp" width="100%" alt="Haroldo Horta - Stern Jahrbuch 1991">
   
   <p>
     <i>"Desde la trinchera sandinista y el asedio en Lima, hasta el silencio de la Antártida y el vuelo libre en Atacama. Un legado que documenta la dignidad humana desde el cielo y la tierra."</i>
@@ -36,7 +36,7 @@ Este repositorio constituye el **Atlas Digital** de Haroldo Horta: 28TB de memor
 #### I. El Corresponsal (1979 - 1997) | *El Barro y la Trinchera*
 Haroldo documentó la **Nicaragua Sandinista**, sobrevivió a la prisión política en 1979 y se consolidó en la plana mayor de la prensa europea (*Stern, Spiegel, FAZ*). Su mirada registró desde el horror del narcotráfico en Colombia hasta las crisis sanitarias y sociales en Perú.
 
-<img src="assets_web/horta-new-york-times-nicaragua-1987.webp" width="75%" alt="NYT 1987 Haroldo Horta">
+<img src="assets_web/horta-new-york-times-nicaragua-1987.webp" width="100%" alt="NYT 1987 Haroldo Horta">
 <p align="center"><i>Retrato del Coronel Uriel Vanegas (Nicaragua), publicado por el New York Times en 1987.</i></p>
 
 #### II. La Luz del Fin del Mundo (1998 - 2022) | *Patrimonio y Soberanía*
@@ -44,7 +44,7 @@ Un período de consolidación como referente editorial y documental en Chile, un
 * **Editorial Kactus:** Colaboración fundamental en la creación de obras iconográficas sobre la geografía chilena, estableciendo un estándar visual para la identidad del país.
 * **La Armada de Chile:** Registro exhaustivo de la soberanía nacional, documentando desde las bases antárticas hasta los faros más remotos del Pacífico.
 
-<img src="assets_web/horta-el-comercio-peru-embajada-1997.webp" width="75%" alt="Asedio Embajada de Japón Lima 1997">
+<img src="assets_web/horta-el-comercio-peru-embajada-1997.webp" width="100%" alt="Asedio Embajada de Japón Lima 1997">
 <p align="center"><i><b>Operación Chavín de Huántar:</b> Registro aéreo del asedio a la Embajada de Japón en Lima (1997).</i></p>
 
 #### III. El Vuelo Esencial y el Legado (Presente)
@@ -61,7 +61,7 @@ Hoy, Haroldo asume el compromiso ético de digitalizar su vida. Este archivo es 
 | **La Nación (Arg)** | [Haroldo Horta: El fotógrafo que vuela](https://www.lanacion.com.ar/turismo/haroldo-horta-el-fotografo-que-vuela-nid1789782/) |
 | **La Tercera (Chile)** | [Una vida de alto vuelo](https://www.latercera.com/diario-impreso/una-vida-de-alto-vuelo) |
 
-<img src="assets_web/horta-folket-i-bild-portada-nicaragua.webp" width="75%" alt="Folket i Bild Portada Nicaragua">
+<img src="assets_web/horta-folket-i-bild-portada-nicaragua.webp" width="100%" alt="Folket i Bild Portada Nicaragua">
 <p align="center"><i>Portada de la revista sueca "Folket i Bild" (1987).</i></p>
 
 ---
@@ -71,7 +71,7 @@ La obra de Haroldo Horta ha sido objeto de estudio por su valor en la reconstruc
 * **Investigación:** *"Fotógrafos suecos y la Revolución Sandinista"* por el historiador **Fernando Camacho Padilla** (UAM).
 * **Artículo:** [Leer investigación académica completa aquí](https://rephip.unr.edu.ar/bitstream/handle/2133/21434/Camacho%20Padilla_Aletheia.pdf)
 
-<img src="assets_web/horta-exposicion-suecia-fotograficentrum-1.webp" width="75%" alt="Exposición Suecia 1984">
+<img src="assets_web/horta-exposicion-suecia-fotograficentrum-1.webp" width="100%" alt="Exposición Suecia 1984">
 <p align="center"><i>Registros de la exposición histórica en el Fotograficentrum de Estocolmo (1984).</i></p>
 
 ---
@@ -86,7 +86,7 @@ Como parte del **Proyecto Surdao**, cada pieza de este archivo ha pasado por un 
   <p><i>Documentación de derechos de autor y procesos de restauración digital.</i></p>
 </div>
 
-<img src="assets_web/horta-agencia-zeitenspiegel-equipo-alemania.webp" width="45%" alt="Equipo Zeitenspiegel Alemania">
+<img src="assets_web/horta-agencia-zeitenspiegel-equipo-alemania.webp" width="100%" alt="Equipo Zeitenspiegel Alemania">
 <p align="center"><i>Haroldo Horta junto al equipo central de la agencia Zeitenspiegel en Alemania.</i></p>
 
 **© 2026 Haroldo Horta / Proyecto Surdao. Todos los derechos reservados.**
