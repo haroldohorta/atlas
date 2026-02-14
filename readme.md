@@ -71,6 +71,49 @@ El legado se digitaliza mientras la mirada evoluciona hacia el "vuelo libre" sob
 
 ---
 
+## 🎞️ Dossiers Especiales: Memoria y Conflicto
+
+Esta sección destaca coberturas específicas que marcaron la agenda informativa internacional y que hoy forman parte del patrimonio visual del **Proyecto Surdao**.
+
+### 📰 I. El Ojo de la Prensa Europea
+Registro de las publicaciones que validan la trayectoria de Haroldo en los medios más influyentes del siglo XX.
+
+| Publicación | Contenido del Dossier |
+| :--- | :--- |
+| **Der Spiegel** | Crónica visual "Das War 1991" y reportajes sobre la Pampa. |
+| **Stern / Jahrbuch** | Selección de las mejores imágenes del año (1991). |
+| **El Comercio (Perú)** | Cobertura histórica del asedio a la Embajada de Japón (1997). |
+| **Revistas Suecas** | Monografías sobre la Revolución Sandinista y crisis sociales. |
+
+<div align="center">
+  <img src="fotos/recortes/spiegel_das_war_1991.jpeg" width="45%" alt="Spiegel 1991">
+  <img src="fotos/recortes/new_york_times_1987.jpeg" width="45%" alt="NYT 1987">
+  <p><i>Documentación de prensa: Der Spiegel y New York Times.</i></p>
+</div>
+
+---
+
+### 🇨🇴 II. Medellín: El Pulso de la Violencia
+Un registro crudo y necesario sobre la crisis institucional en Colombia, capturando la despedida de los agentes caídos y el impacto en la sociedad civil.
+
+<div align="center">
+  <img src="fotos/pub_medellin/Colombia Policia Asesinado.webp" width="75%" alt="Medellín Conflicto">
+  <p><i>Escenas de la crisis en Medellín: El costo humano del conflicto.</i></p>
+</div>
+
+---
+
+### 🇳🇮 III. Nicaragua: El Sueño y la Caída
+Desde la efervescencia de la Revolución Sandinista hasta el impacto de la derrota electoral de 1989. Un archivo único sobre el poder y la resistencia en Centroamérica.
+
+<div align="center">
+  <img src="fotos/pub_nicaragua/comandante_daniel_ortega.webp" width="48%" alt="Daniel Ortega">
+  <img src="fotos/pub_nicaragua/derrota_electoral_1989.webp" width="48%" alt="Derrota 1989">
+  <p><i>Personajes y momentos clave de la historia política nicaragüense.</i></p>
+</div>
+
+
+
 ## 🎓 Respaldo Académico e Investigación
 
 * **Investigación:** *"Fotógrafos suecos y la Revolución Sandinista"* por Fernando Camacho Padilla (UAM).
