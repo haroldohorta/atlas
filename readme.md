@@ -57,28 +57,66 @@ Hoy, Haroldo asume el compromiso ético de digitalizar su vida. El aterrizaje fi
 
 ---
 
-## 🏛️ Validación y Prensa Internacional
 
-| Medio / Agencia | Hito Histórico / Referencia |
-| :--- | :--- |
-| **Stern (Alemania)** | "Imágenes del Año" en el Anuario 1991. |
-| **The New York Times** | Conflicto Miskito, Nicaragua (1987). |
-| **La Nación (Arg)** | [Haroldo Horta: El fotógrafo que vuela](https://www.lanacion.com.ar/turismo/haroldo-horta-el-fotografo-que-vuela-nid1789782/) |
-| **La Tercera (Chile)** | [Una vida de alto vuelo](https://www.latercera.com/diario-impreso/una-vida-de-alto-vuelo) |
+### 🏛️ Validación Histórica y Académica
 
-<img src="assets_web/horta-folket-i-bild-portada-nicaragua.webp" width="100%" alt="Folket i Bild Portada Nicaragua">
-<p align="center"><i>Portada de la revista sueca "Folket i Bild" (1987).</i></p>
+> *"Nació en Chile... Su camino a Nicaragua fue a través de la cooperación... No con consignas ni discursos, sino con acciones prácticas."*
+> — **Revista Folket i Bild** (Suecia, Perfil del autor, 1987).
+
+#### 📂 El Expediente del Abandono (1979)
+El Cónsul de Chile en Managua informa (Oficio Reservado 1/100) su decisión de **"abstenerse de intervenir"** ante la captura de Haroldo, justificando el abandono porque el prisionero *"desprestigia al país"* al criticar la dictadura de Pinochet.
+
+#### 🗽 El Ojo del New York Times (1987)
+Mientras Chile lo ignoraba, el *New York Times* (Oct. 1987) publicaba su retrato exclusivo del **Coronel Uriel Vanegas** (Comandante Miskito), marcando el proceso de paz en Nicaragua.
+
+#### 🇩🇪 El Núcleo Europeo: Agencia Zeitenspiegel
+Haroldo Horta y Cristina Hurtado integraron la plana mayor de la agencia alemana **Zeitenspiegel**, siendo el núcleo que explicaba la realidad de Latinoamérica a Europa.
+
+---
+
+### 🌍 Matriz de Colaboraciones Internacionales (Series `pub_*`)
+
+| Región / País | Medio / Agencia | Prefijo Repo | Temática / Hito |
+| :--- | :--- | :--- | :--- |
+| **Alemania** | **Stern (Jahrbuch)** | `pub_europa` | Anuario Histórico: "Das war 1991" (Las imágenes del año). |
+| **Alemania** | **Der Spiegel** | `pub_pampa` | Etnografía y sociedad: "Hausse in der Pampa" (1992). |
+| **Alemania** | **Frankfurter Allgemeine** | `pub_europa` | Memoria: Estadio Nacional y Dictadura chilena. |
+| **Alemania** | **Prensa Europea (Dossier)** | `pub_europa` | Derechos Humanos: Fosas comunes en Chile (1990). |
+| **Alemania** | **Prensa Alemana** | `pub_europa` | **Epidemia del Cólera en Perú** (Reportaje social). |
+| **Alemania** | **Zeitenspiegel** | `pub_europa` | Agencia Matriz: Conflictos Centroamérica y Cono Sur. |
+| **EE.UU.** | **The New York Times** | `pub_nicaragua`| Paz Indígena Miskita (1987). |
+| **Suecia** | **Dagens Nyheter / FiB** | `pub_europa` | Crónica de Guerra y Perfil de Autor. |
+| **Perú** | **Diario El Comercio** | `pub_peru` | Especial Aéreo: Embajada de Japón. |
 
 ---
 
-## 🎓 Respaldo Académico e Investigación
-* **Investigación:** *"Fotógrafos suecos y la Revolución Sandinista"* por **Fernando Camacho Padilla** (UAM).
-* **Artículo:** [Leer investigación académica completa aquí](https://rephip.unr.edu.ar/bitstream/handle/2133/21434/Camacho%20Padilla_Aletheia.pdf)
+### 🇨🇱 Matriz de Publicaciones Nacionales y Libros (Kactus / Armada)
 
-<img src="assets_web/horta-exposicion-suecia-fotograficentrum-1.webp" width="100%" alt="Exposición Suecia 1984">
-<p align="center"><i>Registros de la exposición en el Fotograficentrum de Estocolmo (1984).</i></p>
+| Institución / Editorial | Proyecto / Destino | Prefijo Repo | Temática Principal |
+| :--- | :--- | :--- | :--- |
+| **Armada de Chile** | **Revista Vigía** | `pub_chile` | Difusión marítima y soberanía. |
+| **Armada de Chile** | **Faros de Chile** | `pub_chile` | Registro patrimonial (DIRECTEMAR). |
+| **Armada de Chile** | **Antártida y Bases** | `pub_chile` | Bases Prat (CL), Argentina e Inglesa. |
+| **Editorial Kactus** | **Libros de Turismo** | `pub_chile` | Colecciones: Santiago, Chiloé, Norte Grande. |
+| **Editorial Kactus** | **Rutas Internacionales**| `pub_viajes` | Ecuador, Tahití, España. |
 
 ---
+
+### 📰 Haroldo en la Prensa (Entrevistas y Reportajes)
+
+Para conocer al hombre detrás del lente, la prensa sudamericana ha documentado extensamente su transición de corresponsal de guerra a pionero del vuelo libre. Los siguientes artículos están disponibles para lectura directa:
+
+* 🇨🇱 [**Una vida de alto vuelo** *(La Tercera)*](https://www.latercera.com/diario-impreso/una-vida-de-alto-vuelo): Biografía desde las trincheras al vuelo libre.
+* 🇨🇱 [**"Superhéroes" en El Tatío** *(La Tercera)*](https://www.latercera.com/diario-impreso/superheroes-en-campana-contra-exploracion-en-el-tatio/): Activismo ambiental y creatividad.
+* 🇦🇷 [**Vuelo sobre el desierto** *(Página/12)*](https://www.pagina12.com.ar/diario/suplementos/turismo/9-3082-2015-05-10.html): La crónica argentina sobre su maestría aérea en el desierto de Atacama.
+
+---
+
+### 📚 Respaldo académico 
+Investigación de **Fernando Camacho Padilla** (UAM) sobre la supervivencia de los internacionalistas chilenos. 👉 [**Leer PDF**](docs/investigacion/Dialnet-RelacionesInteramericanas-Horta.pdf)
+
+<br><br>
+
 
 ## 🇺🇸 English / 🇧🇷 Português
 **English:** Digital legacy of international photojournalist Haroldo Horta (*Stern*, *NYT*).
