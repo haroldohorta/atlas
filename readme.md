@@ -107,6 +107,8 @@ Como parte del **Proyecto Surdao**, correspondiente a validacion de trayectorias
 
 
 **© 2026 Haroldo Horta / Proyecto Surdao. Todos los derechos reservados.**
+
+<div align="center">
   <img src="fotos/recortes/assets_web/horta-agencia-zeitenspiegel-alemania-equipo.webp" width="25%" alt="Equipo Zeitenspiegel">
   <p><i>Haroldo Horta junto al equipo central de la agencia Zeitenspiegel en Alemania.</i></p>
 </div>
