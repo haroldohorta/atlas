@@ -44,7 +44,7 @@ Este repositorio constituye el **Atlas Digital** de Haroldo Horta: 28TB de memor
 </div>
 
 <div align="center">
-<img src="fotos\pub_chiloe\libro_chiloe.webp" width="100%" alt="portada libro chiloe kactus foto">
+<img src="fotos\pub_chiloe\libro_chiloe.webp" width="75%" alt="portada libro chiloe kactus foto">
 
 * **III. El Vuelo Esencial (Presente):** El legado se digitaliza mientras la mirada evoluciona hacia la fotografía aérea y el "vuelo libre" sobre los paisajes del altiplano.
 
