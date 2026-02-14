@@ -53,22 +53,17 @@ Este repositorio constituye el **Atlas Digital** de Haroldo Horta: 28TB de memor
 </div>
 
   
- 
-
 ---
 
 <a name="-english"></a>
 ## 🇺🇸 ENGLISH: Archive Summary
 
 This repository hosts the digital legacy of international photojournalist **Haroldo Horta**. From the frontlines of the Sandinista Revolution to the remote Antarctic bases of the Chilean Navy, this archive documents 50 years of global history through the lens of one of Latin America's most prolific photographers.
-
 ---
-
 <a name="-português"></a>
 ## 🇧🇷 PORTUGUÊS: Resumo do Arquivo
 
 Este repositório contém o legado digital de **Haroldo Horta**. Como correspondente internacional e fotógrafo editorial, Horta registrou momentos cruciais da história e geografia latino-americana para os principais veículos de comunicação do mundo.
-
 
 <div align="center">
   <img src="fotos/recortes/assets_web/horta-propiedad-uyuni-panoramica.webp" width="100%" alt="Salar de Uyuni Panorâmica">
@@ -89,7 +84,6 @@ La obra de Haroldo Horta es objeto de estudio por su valor en la reconstrucción
 </div>
 
 ---
-
 ## 🛡️ Blindaje del Legado y Propiedad
 
 <div align="center">
