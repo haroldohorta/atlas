@@ -90,6 +90,28 @@ Haroldo Horta y Cristina Hurtado integraron la plana mayor de la agencia alemana
 
 ---
 
+### 🇨🇱 Matriz de Publicaciones Nacionales y Libros (Kactus / Armada)
+
+| Institución / Editorial | Proyecto / Destino | Prefijo Repo | Temática Principal |
+| :--- | :--- | :--- | :--- |
+| **Armada de Chile** | **Revista Vigía** | `pub_chile` | Difusión marítima y soberanía. |
+| **Armada de Chile** | **Faros de Chile** | `pub_chile` | Registro patrimonial (DIRECTEMAR). |
+| **Armada de Chile** | **Antártida y Bases** | `pub_chile` | Bases Prat (CL), Argentina e Inglesa. |
+| **Editorial Kactus** | **Libros de Turismo** | `pub_chile` | Colecciones: Santiago, Chiloé, Norte Grande. |
+| **Editorial Kactus** | **Rutas Internacionales**| `pub_viajes` | Ecuador, Tahití, España. |
+
+---
+
+### 📰 Haroldo en la Prensa (Entrevistas y Reportajes)
+
+Para conocer al hombre detrás del lente, la prensa sudamericana ha documentado extensamente su transición de corresponsal de guerra a pionero del vuelo libre. Los siguientes artículos están disponibles para lectura directa:
+
+* 🇨🇱 [**Una vida de alto vuelo** *(La Tercera)*](https://www.latercera.com/diario-impreso/una-vida-de-alto-vuelo): Biografía desde las trincheras al vuelo libre.
+* 🇨🇱 [**"Superhéroes" en El Tatío** *(La Tercera)*](https://www.latercera.com/diario-impreso/superheroes-en-campana-contra-exploracion-en-el-tatio/): Activismo ambiental y creatividad.
+* 🇦🇷 [**Vuelo sobre el desierto** *(Página/12)*](https://www.pagina12.com.ar/diario/suplementos/turismo/9-3082-2015-05-10.html): La crónica argentina sobre su maestría aérea en el desierto de Atacama.
+
+---
+
 ### 📚 Respaldo Científico
 Investigación de **Fernando Camacho Padilla** (UAM) sobre la supervivencia de los internacionalistas chilenos. 👉 [**Leer PDF**](docs/investigacion/Dialnet-RelacionesInteramericanas-Horta.pdf)
 
@@ -101,4 +123,30 @@ Investigación de **Fernando Camacho Padilla** (UAM) sobre la supervivencia de l
 
 This repository hosts the **Digital Atlas** of Haroldo Horta: 28TB of photographic memory documenting five decades of Latin American history. It is an archive of survival and unyielding ethics, validated by the world's most prestigious media.
 
-* **The War Correspondent (1979 - 1997):** Captured by Somoza’s forces in Nicaragua and abandoned by the Chilean dictatorship, Haroldo
+* **The War Correspondent (1979 - 1997):** Captured by Somoza’s forces in Nicaragua and abandoned by the Chilean dictatorship, Haroldo survived to become a top photojournalist for European agencies (*Zeitenspiegel*). His work was published in **The New York Times**, **Der Spiegel**, and the **Stern Yearbook (1991)**. He documented the Sandinista revolution, the Cholera epidemic in Peru, and urban violence in Colombia before choosing to stop photographing death.
+* **The Aerial Pioneer (1996 - 1997):** He pioneered independent aerial photography using an ultralight aircraft ("Mosquito") to cover the Japanese Embassy hostage crisis in Lima, operating under the sights of state snipers.
+* **Patrimony and The Final Flight (1998 - Present):** Returning to Chile, he used his aerial mastery to document national heritage with *Editorial Kactus* and the *Chilean Navy*. Today, this Atlas seeks to preserve his monumental legacy, allowing a lifetime of resistance and art to find its rightful place in history.
+
+---
+
+## 🇧🇷 Português: Resumo do Arquivo
+
+Este repositório abriga o **Atlas Digital** de Haroldo Horta: 28TB de memória fotográfica documentando cinco décadas de história latino-americana. É um arquivo de sobrevivência e ética inabalável, validado pela imprensa global.
+
+* **O Correspondente (1979 - 1997):** Capturado na Nicarágua e abandonado pela ditadura chilena, Haroldo sobreviveu para se tornar um fotógrafo de elite para agências europeias (*Zeitenspiegel*). Seu trabalho foi publicado no **The New York Times**, **Der Spiegel** e no prestigiado **Anuário da Stern (1991)**. Documentou a revolução Sandinista, a epidemia de cólera no Peru e a violência na Colômbia.
+* **O Pioneiro Aéreo (1996 - 1997):** Revolucionou a fotografia aérea usando um ultraleve ("Mosquito") para cobrir a crise dos reféns na Embaixada do Japão em Lima, voando sob a mira de atiradores de elite.
+* **Patrimônio e o Voo Final (1998 - Presente):** De volta ao Chile, usou sua maestria aérea para registrar o patrimônio nacional. Hoje, este Atlas busca preservar seu legado monumental, garantindo que uma vida inteira de resistência e arte encontre seu lugar definitivo na história.
+
+---
+
+### 🛡️ Copyright y Rescate Histórico (Proyecto Surdao)
+
+**© 2026 Haroldo Horta / Proyecto Surdao. Todos los derechos reservados.**
+
+Este Atlas es el resultado del **Proyecto Surdao**, una iniciativa tecnológica y familiar dedicada exclusivamente al rescate, preservación y difusión de memoria histórica viva. Nuestro objetivo no es solo alojar un archivo de 28TB, sino proteger a su autor y blindar la dignidad de su relato, asegurando que el legado visual de toda una vida quede resguardado para las futuras generaciones. 
+
+*Cualquier uso, reproducción, distribución, comercialización o exhibición del material fotográfico contenido en este repositorio requiere autorización expresa y por escrito de los titulares.*
+
+<div align="center">
+  <p><b>Contacto y Gestión de Archivo:</b> <a href="mailto:haroldohorta@gmail.com">haroldohorta@gmail.com</a></p>
+</div>
