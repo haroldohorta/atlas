@@ -99,13 +99,14 @@ La obra de Horta es material de estudio para historiadores y académicos interes
 
 ## 🛡️ Blindaje del Legado y Propiedad
 
-Como parte del **Proyecto Surdao**, cada pieza de este archivo ha pasado por un proceso de validación técnica y legal para asegurar su permanencia y autoría.
+Como parte del **Proyecto Surdao**, correspondiente a validacion de trayectorias en el continente Latinoamericano, rescatando el valor humano y cultural, esto mediante un atlas vivo de registros a lo largo de 50 años de trabajo documental/ etnográfico/libre
 
 <div align="center">
-  <img src="fotos/recortes/assets_web/horta-certificacion-propiedad-intelectual.webp" width="45%" alt="Certificación">
+  <img src="fotos/recortes/assets_web/horta-certificacion-propiedad-intelectual.webp" width="100%" alt="Certificación">
   <br><br>
-  <img src="fotos/recortes/assets_web/horta-agencia-zeitenspiegel-alemania-equipo.webp" width="75%" alt="Equipo Zeitenspiegel">
-  <p><i>Haroldo Horta junto al equipo central de la agencia Zeitenspiegel en Alemania.</i></p>
-</div>
+
 
 **© 2026 Haroldo Horta / Proyecto Surdao. Todos los derechos reservados.**
+  <img src="fotos/recortes/assets_web/horta-agencia-zeitenspiegel-alemania-equipo.webp" width="25%" alt="Equipo Zeitenspiegel">
+  <p><i>Haroldo Horta junto al equipo central de la agencia Zeitenspiegel en Alemania.</i></p>
+</div>
