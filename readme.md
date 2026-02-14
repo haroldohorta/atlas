@@ -67,11 +67,12 @@ This repository hosts the digital legacy of international photojournalist **Haro
 <a name="-português"></a>
 ## 🇧🇷 PORTUGUÊS: Resumo do Arquivo
 
+Este repositório contém o legado digital de **Haroldo Horta**. Como correspondente internacional e fotógrafo editorial, Horta registrou momentos cruciais da história e geografia latino-americana para os principais veículos de comunicação do mundo.
+
+
 <div align="center">
   <img src="fotos/recortes/assets_web/horta-propiedad-uyuni-panoramica.webp" width="100%" alt="Salar de Uyuni Panorâmica">
 </div>
-
-Este repositório contém o legado digital de **Haroldo Horta**. Como correspondente internacional e fotógrafo editorial, Horta registrou momentos cruciais da história e geografia latino-americana para os principais veículos de comunicação do mundo.
 
 ---
 
@@ -83,7 +84,7 @@ La obra de Haroldo Horta es objeto de estudio por su valor en la reconstrucción
 * **Documento:** [👉 Leer investigación académica completa aquí (PDF)](https://rephip.unr.edu.ar/bitstream/handle/2133/21434/Camacho%20Padilla_Aletheia.pdf)
 
 <div align="center">
-  <img src="fotos/recortes/assets_web/horta-exposicion-suecia-fotograficentrum-4.webp" width="45%" alt="Fotograficentrum Estocolmo 1984">
+  <img src="fotos/recortes/assets_web/horta-exposicion-suecia-fotograficentrum-4.webp" width="33%" alt="Fotograficentrum Estocolmo 1984">
   <p><i>Exposición histórica en el Fotograficentrum de Estocolmo (1984).</i></p>
 </div>
 
