@@ -2,7 +2,7 @@
   <h1>📷 HAROLDO HORTA 📷</h1>
   <h3>50 Años de Memoria Viva / 50 Years of Living Memory</h3>
   
-  <img src="fotos/recortes/assets_web/horta-certificacion-propiedad-cejar.webp" width="75%" alt="Haroldo Horta - Certificación Cejar">
+  <img src="fotos/recortes/assets_web/horta-certificacion-propiedad-cejar.webp" width="100%" alt="Haroldo Horta - Certificación Cejar">
   
   <p>
     <i>"De la trinchera al cielo: un registro ininterrumpido de la dignidad humana y la majestuosidad del territorio."</i>
