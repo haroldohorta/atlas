@@ -109,13 +109,7 @@ Registro de las publicaciones que validan la trayectoria de Haroldo en los medio
 | **El Comercio (Perú)** | Cobertura histórica del asedio a la Embajada de Japón (1997). |
 | **Revistas Suecas** | Monografías sobre la Revolución Sandinista y crisis sociales. |
 
-<div align="center">
-  <img src="fotos/recortes/spiegel_das_war_1991.jpeg" width="45%" alt="Spiegel 1991">
-  <img src="fotos/recortes/new_york_times_1987.jpeg" width="45%" alt="NYT 1987">
-  <p><i>Documentación de prensa: Der Spiegel y New York Times.</i></p>
-</div>
 
----
 
 ### 🇨🇴 II. Medellín: El Pulso de la Violencia
 Un registro crudo y necesario sobre la crisis institucional en Colombia, capturando la despedida de los agentes caídos y el impacto en la sociedad civil.
