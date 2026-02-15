@@ -3,127 +3,177 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Expediente Táctico | Atlas Haroldo Horta</title>
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <title>Expedientes Atlas | Haroldo Horta</title>
     <style>
-        * { box-sizing: border-box; margin: 0; padding: 0; }
-        body { font-family: 'Courier New', monospace; background: #0f0f0f; color: #ccc; padding: 20px; line-height: 1.5; }
+        :root { --oro: #FFD700; --fondo: #0a0a0a; --tarjeta: #151515; }
         
-        /* CABECERA DE EXPEDIENTE */
-        header { text-align: center; margin-bottom: 40px; border-bottom: 2px solid #444; padding-bottom: 20px; position: relative; }
-        h1 { color: #FFD700; font-size: 2.5em; text-transform: uppercase; letter-spacing: 2px; margin-top: 10px;}
-        .sub-header { color: #888; font-size: 14px; text-transform: uppercase; margin-top: 5px; }
-        
-        #back { position: absolute; top: 0; left: 0; background: #222; color: #ff9f1c; padding: 10px 15px; text-decoration: none; border: 1px solid #ff9f1c; transition: 0.3s; font-weight: bold; }
-        #back:hover { background: #ff9f1c; color: #000; }
+        body { 
+            background: var(--fondo); color: #eee; 
+            font-family: 'Courier New', Courier, monospace; 
+            margin: 0; padding: 0; overflow-x: hidden;
+        }
 
-        /* GRILLA INTELIGENTE */
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 25px; grid-auto-flow: dense; }
-        
-        /* TARJETA DE FOTO */
-        .card { background: #111; border: 1px solid #333; display: flex; flex-direction: column; transition: 0.3s; }
-        .card:hover { border-color: #666; transform: translateY(-3px); }
-        .card-img { width: 100%; height: 250px; object-fit: cover; border-bottom: 1px solid #333; }
-        
-        /* FOTOS 5 ESTRELLAS (PORTADAS) */
-        .card.insignia { border: 2px solid #FFD700; grid-column: span 2; grid-row: span 2; }
-        .card.insignia .card-img { height: 400px; } /* Más grandes */
-        .card.insignia .titulo { color: #FFD700; font-size: 1.5em; }
+        header { 
+            padding: 30px; border-bottom: 1px solid #333; 
+            display: flex; justify-content: space-between; align-items: center;
+        }
 
-        .card-body { padding: 15px; display: flex; flex-direction: column; flex-grow: 1; }
-        .titulo { color: #fff; font-size: 1.2em; font-weight: bold; margin-bottom: 5px; text-transform: uppercase; }
-        .rating { color: #FFD700; font-size: 18px; letter-spacing: 2px; margin-bottom: 10px; }
-        
-        /* METADATA Y RELATO */
-        .metadata { font-size: 11px; color: #00ffcc; margin-bottom: 15px; border-bottom: 1px dashed #333; padding-bottom: 10px; }
-        .relato-box { background: #1a1a1a; padding: 15px; border-left: 3px solid #ff9f1c; font-style: italic; font-size: 13px; color: #eee; flex-grow: 1; }
-        .relato-autor { display: block; margin-top: 10px; font-size: 10px; color: #888; text-transform: uppercase; font-weight: bold; font-style: normal; }
+        .btn-volver { 
+            color: var(--oro); text-decoration: none; border: 1px solid var(--oro);
+            padding: 8px 15px; font-size: 12px; transition: 0.3s;
+        }
+        .btn-volver:hover { background: var(--oro); color: #000; }
 
-        /* Controles de Scroll Flotantes (Los que ganamos antes) */
-        .scroll-controls { position: fixed; bottom: 30px; right: 30px; display: flex; flex-direction: column; gap: 10px; z-index: 1000; opacity: 0.7; transition: 0.3s; }
-        .scroll-controls:hover { opacity: 1; }
-        .btn-scroll { background: #111; color: #ff9f1c; border: 1px solid #ff9f1c; width: 40px; height: 40px; font-size: 20px; font-weight: bold; cursor: pointer; transition: 0.3s; }
-        .btn-scroll:hover { background: #ff9f1c; color: #000; }
-        
-        /* Ajuste para móviles */
-        @media (max-width: 768px) {
-            .card.insignia { grid-column: span 1; }
-            .card.insignia .card-img { height: 250px; }
+        /* Grilla de Miniaturas */
+        .galeria-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px; padding: 30px;
+        }
+
+        .card-expediente {
+            background: var(--tarjeta); border: 1px solid #222;
+            padding: 10px; cursor: pointer; transition: 0.3s;
+        }
+        .card-expediente:hover { border-color: var(--oro); transform: translateY(-3px); }
+
+        .img-container {
+            width: 100%; height: 200px; background: #000;
+            display: flex; justify-content: center; align-items: center; overflow: hidden;
+        }
+        .img-container img {
+            max-width: 100%; max-height: 100%; object-fit: contain;
+        }
+
+        .info-card { margin-top: 10px; font-size: 11px; color: #888; }
+        .info-card b { color: var(--oro); }
+
+        /* --- VISOR DE EXPEDIENTE (MODAL) --- */
+        .modal-visor {
+            display: none; position: fixed; top: 0; left: 0;
+            width: 100%; height: 100%; background: rgba(0,0,0,0.98);
+            z-index: 10000; backdrop-filter: blur(10px);
+        }
+
+        .modal-contenido {
+            display: flex; width: 95%; height: 90%;
+            margin: 2vh auto; background: #111; border: 1px solid #333;
+            animation: fadeIn 0.3s;
+        }
+
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+        .visor-foto {
+            flex: 7; display: flex; justify-content: center;
+            align-items: center; background: #000; padding: 10px;
+        }
+        .visor-foto img { max-width: 100%; max-height: 100%; object-fit: contain; }
+
+        .visor-info {
+            flex: 3; padding: 40px; border-left: 1px solid #222;
+            overflow-y: auto; display: flex; flex-direction: column;
+        }
+
+        .visor-info h2 { color: var(--oro); margin: 0 0 20px 0; font-size: 24px; text-transform: uppercase; }
+        .meta { font-size: 12px; color: #666; margin-bottom: 30px; line-height: 1.8; }
+        .meta b { color: var(--oro); }
+        .descripcion { font-size: 14px; line-height: 1.6; color: #ccc; border-left: 2px solid var(--oro); padding-left: 15px; }
+
+        .btn-cerrar {
+            position: absolute; top: 10px; right: 20px;
+            color: #fff; font-size: 40px; cursor: pointer; z-index: 10001;
+        }
+
+        @media (max-width: 800px) {
+            .modal-contenido { flex-direction: column; overflow-y: auto; }
+            .visor-foto { height: 50vh; }
         }
     </style>
 </head>
 <body>
-    <header>
-        <a href="index.html" id="back">← RADAR PRINCIPAL</a>
-        <h1 id="zona-titulo">CARGANDO EXPEDIENTE...</h1>
-        <div class="sub-header" id="zona-desc">Recuperando coordenadas y relatos de la base de datos...</div>
-    </header>
 
-    <div class="grid" id="grid"></div>
-
-    <div class="scroll-controls">
-        <button class="btn-scroll" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" title="Subir">↑</button>
-        <button class="btn-scroll" onclick="window.scrollTo({top: document.body.scrollHeight, behavior: 'smooth'})" title="Bajar">↓</button>
+<header>
+    <div>
+        <h1 id="zona-titulo" style="margin:0; font-size: 22px; color: var(--oro);">EXPEDIENTE: CARGANDO...</h1>
+        <p id="conteo" style="margin:5px 0 0 0; font-size: 11px; color: #666;">SINCRONIZANDO ARCHIVOS</p>
     </div>
+    <a href="index.html" class="btn-volver">← VOLVER AL ATLAS</a>
+</header>
 
-    <script>
-        const urlParams = new URLSearchParams(window.location.search);
-        const zonaActual = urlParams.get('zona');
-        
-        if(!zonaActual) {
-            document.getElementById('zona-titulo').textContent = "ERROR: ZONA NO ESPECIFICADA";
-        } else {
-            fetch('data/puntos_mapa.json')
-                .then(res => res.json())
-                .then(data => {
-                    const filtered = data.filter(p => p.zona === zonaActual);
-                    
-                    // Actualizar Cabecera
-                    document.getElementById('zona-titulo').textContent = `EXPEDIENTE: ${zonaActual.replace(/_/g, ' ')}`;
-                    document.getElementById('zona-desc').textContent = `${filtered.length} ARCHIVOS CLASIFICADOS | ZONA DE OPERACIÓN CONFIRMADA`;
-                    
-                    renderGrid(filtered);
-                });
-        }
-        
-        function renderGrid(fotos) {
-            const grid = document.getElementById('grid');
-            grid.innerHTML = '';
+<div id="galeria" class="galeria-grid"></div>
+
+<div id="miVisor" class="modal-visor">
+    <span class="btn-cerrar" onclick="cerrarVisor()">&times;</span>
+    <div class="modal-contenido">
+        <div class="visor-foto">
+            <img id="imgVisor" src="">
+        </div>
+        <div class="visor-info">
+            <h2 id="tituloVisor">CARGANDO...</h2>
+            <div class="meta">
+                <div><b>ZONA:</b> <span id="zonaVisor"></span></div>
+                <div><b>CAPA:</b> <span id="capaVisor"></span></div>
+                <div><b>ARCHIVO:</b> <span id="idVisor"></span></div>
+            </div>
+            <div class="descripcion" id="descVisor"></div>
+            <div style="margin-top:auto; padding-top: 30px;">
+                <button onclick="cerrarVisor()" style="width:100%; padding:12px; background:var(--oro); border:none; cursor:pointer; font-weight:bold; font-family:inherit;">CERRAR FICHA</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    let allData = [];
+    const params = new URLSearchParams(window.location.search);
+    const zonaFiltrada = params.get('zona');
+
+    // Cargar el JSON
+    fetch('data/puntos_mapa.json?v=' + Date.now())
+        .then(res => res.json())
+        .then(data => {
+            allData = data;
+            const fotosZona = allData.filter(p => p.zona === zonaFiltrada);
             
-            // Ordenar: Las de 5 estrellas van primero
-            fotos.sort((a, b) => (b.rating || 0) - (a.rating || 0));
+            document.getElementById('zona-titulo').innerText = `EXPEDIENTE: ${zonaFiltrada.toUpperCase()}`;
+            document.getElementById('conteo').innerText = `${fotosZona.length} ARCHIVOS CLASIFICADOS EN EL BÚNKER`;
 
-            fotos.forEach(p => {
-                const estrellas = p.rating || 0; // Si no tiene, es 0
-                const esInsignia = estrellas === 5 ? 'insignia' : ''; // Clase especial para 5 estrellas
-                const estrellasHTML = '★'.repeat(estrellas) + '☆'.repeat(5 - estrellas);
-                
-                // Si en el JSON le agregas "camara": "Nikon D850", aquí aparecerá
-                const equipoInfo = p.camara ? ` | 📷 EQ: ${p.camara}` : '';
-                const isoInfo = p.iso ? ` | ISO: ${p.iso}` : '';
-
-                const card = document.createElement('div');
-                card.className = `card ${esInsignia}`;
-                card.innerHTML = `
-                    <img src="${p.full || p.thumb}" class="card-img" alt="${p.titulo}" loading="lazy">
-                    <div class="card-body">
-                        <div class="titulo">${p.titulo || p.id}</div>
-                        ${estrellas > 0 ? `<div class="rating">${estrellasHTML}</div>` : ''}
-                        
-                        <div class="metadata">
-                            📍 GPS: ${p.lat}, ${p.lon} ${equipoInfo} ${isoInfo}
-                            <br>📂 ARCHIVO: ${p.capa || 'Clasificado'}
+            const container = document.getElementById('galeria');
+            fotosZona.forEach(p => {
+                container.innerHTML += `
+                    <div class="card-expediente" onclick="abrirVisor('${p.id}')">
+                        <div class="img-container">
+                            <img src="${p.thumb}" loading="lazy">
                         </div>
-                        
-                        <div class="relato-box">
-                            "${p.relato || 'Pendiente de relato de Haroldo...'}"
-                            <span class="relato-autor">— Bitácora de Campo</span>
+                        <div class="info-card">
+                            <b>ID:</b> ${p.id.split('_').pop()} <br>
+                            <b>TITULO:</b> ${p.titulo}
                         </div>
                     </div>
                 `;
-                grid.appendChild(card);
             });
-        }
-    </script>
+        });
+
+    function abrirVisor(id) {
+        const p = allData.find(item => item.id === id);
+        if(!p) return;
+
+        document.getElementById('imgVisor').src = p.full;
+        document.getElementById('tituloVisor').innerText = p.titulo;
+        document.getElementById('zonaVisor').innerText = p.zona.toUpperCase();
+        document.getElementById('capaVisor').innerText = p.capa.toUpperCase();
+        document.getElementById('idVisor').innerText = p.id;
+        document.getElementById('descVisor').innerText = p.descripcion || "Este archivo forma parte del registro histórico de Haroldo Horta.";
+
+        document.getElementById('miVisor').style.display = 'block';
+        document.body.style.overflow = 'hidden'; // Bloquear scroll al ver foto
+    }
+
+    function cerrarVisor() {
+        document.getElementById('miVisor').style.display = 'none';
+        document.body.style.overflow = 'auto';
+    }
+</script>
+
 </body>
 </html>
