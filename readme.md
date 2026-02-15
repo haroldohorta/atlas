@@ -104,10 +104,9 @@ Desde la efervescencia de la Revolución Sandinista hasta el impacto de la derro
 
 <div align="center">
   <img src="fotos/pub_nicaragua/comandante_daniel_ortega.webp" width="48%" alt="Daniel Ortega">
-  <img src="fotos/pub_nicaragua/derrota_electoral_1989.webp" width="48%" alt="Derrota 1989">
-  <p><i>Personajes y momentos clave de la historia política nicaragüense.</i></p>
+  <img src="fotos/pub_nicaragua/reflejo_convoy.webp" width="48%" alt="Convoy Nicaragua">
+  <p><i>Poder y conflicto: El Comandante Ortega y la movilización militar en el terreno.</i></p>
 </div>
-
 
 
 ## 🎓 Respaldo Académico e Investigación
