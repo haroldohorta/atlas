@@ -74,10 +74,6 @@ El legado se digitaliza mientras la mirada evoluciona hacia el "vuelo libre" sob
 | **La Nación (Arg)** | [Haroldo Horta: El fotógrafo que vuela](https://www.lanacion.com.ar/turismo/haroldo-horta-el-fotografo-que-vuela-nid1789782/) |
 | **La Tercera (Chile)** | [Una vida de alto vuelo](https://www.latercera.com/diario-impreso/una-vida-de-alto-vuelo) |
 
-<div align="center">
-  <img src="fotos/recortes/assets_web/horta-folket-i-bild-portada-nicaragua.webp" width="65%" alt="Folket i Bild 1987">
-  <p><i>Portada de la revista sueca "Folket i Bild" (1987).</i></p>
-</div>
 
 ---
 
@@ -87,6 +83,24 @@ Esta sección destaca coberturas específicas que marcaron la agenda informativa
 
 ### 📰 I. El Ojo de la Prensa Europea
 Registro de las publicaciones que validan la trayectoria de Haroldo en los medios más influyentes del siglo XX.
+
+
+<div align="center">
+<table>
+<tr valign="middle">
+<td width="33%" align="center" style="border: none;">
+<img src="fotos/recortes/spiegel_das_war_1991.jpeg" alt="Spiegel 1991" width="100%">
+</td>
+<td width="33%" align="center" style="border: none;">
+<img src="fotos/recortes/new_york_times_1987.jpeg" alt="NYT 1987" width="100%">
+</td>
+<td width="33%" align="center" style="border: none;">
+<img src="fotos/recortes/bilder_portada_.jpeg" alt="Bilder Portada" width="100%">
+</td>
+</tr>
+</table>
+<p><i>Documentación histórica: Coberturas en Der Spiegel (Alemania), New York Times (EE.UU.) y Bilder (Europa).</i></p>
+</div>
 
 | Publicación | Contenido del Dossier |
 | :--- | :--- |
