@@ -104,10 +104,10 @@ Un registro crudo y necesario sobre la crisis institucional en Colombia, captura
 Desde la efervescencia de la Revolución Sandinista hasta el impacto de la derrota electoral de 1989. Un archivo único sobre el poder y la resistencia en Centroamérica.
 
 <div align="center">
-  <img src="fotos/pub_nicaragua/comandante_daniel_ortega.webp" width="32%" alt="Daniel Ortega">
-  <img src="fotos/pub_nicaragua/reflejo_convoy.webp" width="32%" alt="Convoy Nicaragua">
-  <img src="fotos/pub_nicaragua/derrota_electoral_1989.webp" width="32%" alt="Derrota 1989">
-  <p><i>Tríptico histórico: El poder, el despliegue militar y el hito democrático de 1989.</i></p>
+<img src="fotos/pub_nicaragua/disparo_rpg7.webp" width="32%" alt="Disparo RPG7 Nicaragua">
+<img src="fotos/pub_nicaragua/reflejo_convoy.webp" width="32%" alt="Convoy Nicaragua">
+<img src="fotos/pub_nicaragua/derrota_electoral_1989.webp" width="32%" alt="Derrota 1989">
+<p><i>Tríptico de conflicto: El fragor del combate, el despliegue logístico y el desenlace político.</i></p>
 </div>
 
 
