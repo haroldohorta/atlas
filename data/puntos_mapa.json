@@ -4,13 +4,12 @@
     "lat": 48.856,
     "lon": 2.352,
     "zona": "europa",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Collage1",
     "thumb": "fotos/pub_europa/collage1.webp",
     "full": "fotos/pub_europa/collage1.webp",
-    "rating": 5,
     "descripcion": "Archivo General Europa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "junin_junin_(1)_webp",
@@ -21,9 +20,8 @@
     "titulo": "Junin",
     "thumb": "fotos/fly_junin/junin_(1).webp",
     "full": "fotos/fly_junin/junin_(1).webp",
-    "rating": 5,
     "descripcion": "Base Junín Argentina",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "junin_junin_(10)_webp",
@@ -34,9 +32,8 @@
     "titulo": "Junin",
     "thumb": "fotos/fly_junin/junin_(10).webp",
     "full": "fotos/fly_junin/junin_(10).webp",
-    "rating": 5,
     "descripcion": "Base Junín Argentina",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "junin_junin_(11)_webp",
@@ -47,9 +44,8 @@
     "titulo": "Junin",
     "thumb": "fotos/fly_junin/junin_(11).webp",
     "full": "fotos/fly_junin/junin_(11).webp",
-    "rating": 5,
     "descripcion": "Base Junín Argentina",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "junin_junin_(12)_webp",
@@ -60,9 +56,8 @@
     "titulo": "Junin",
     "thumb": "fotos/fly_junin/junin_(12).webp",
     "full": "fotos/fly_junin/junin_(12).webp",
-    "rating": 5,
     "descripcion": "Base Junín Argentina",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "junin_junin_(13)_webp",
@@ -73,9 +68,8 @@
     "titulo": "Junin",
     "thumb": "fotos/fly_junin/junin_(13).webp",
     "full": "fotos/fly_junin/junin_(13).webp",
-    "rating": 5,
     "descripcion": "Base Junín Argentina",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "junin_junin_(8)_webp",
@@ -86,9 +80,8 @@
     "titulo": "Junin",
     "thumb": "fotos/fly_junin/junin_(8).webp",
     "full": "fotos/fly_junin/junin_(8).webp",
-    "rating": 5,
     "descripcion": "Base Junín Argentina",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "junin_junin_(9)_webp",
@@ -99,360 +92,332 @@
     "titulo": "Junin",
     "thumb": "fotos/fly_junin/junin_(9).webp",
     "full": "fotos/fly_junin/junin_(9).webp",
-    "rating": 5,
     "descripcion": "Base Junín Argentina",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_indigenas_cuzco_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Indigenas cuzco",
     "thumb": "fotos/pub_lima/indigenas_cuzco.webp",
     "full": "fotos/pub_lima/indigenas_cuzco.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_colera_2_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Colera 2",
     "thumb": "fotos/pub_lima/colera_2.webp",
     "full": "fotos/pub_lima/colera_2.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_abimael_guzman_1_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Abimael guzman 1",
     "thumb": "fotos/pub_lima/abimael_guzman_1.webp",
     "full": "fotos/pub_lima/abimael_guzman_1.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_retrato_1_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Retrato 1",
     "thumb": "fotos/pub_lima/retrato_1.webp",
     "full": "fotos/pub_lima/retrato_1.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_coche_bomba_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Coche bomba",
     "thumb": "fotos/pub_lima/coche_bomba.webp",
     "full": "fotos/pub_lima/coche_bomba.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_abimael_guzman_0_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Abimael guzman 0",
     "thumb": "fotos/pub_lima/abimael_guzman_0.webp",
     "full": "fotos/pub_lima/abimael_guzman_0.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_fujimori_periodistas_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fujimori periodistas",
     "thumb": "fotos/pub_lima/fujimori_periodistas.webp",
     "full": "fotos/pub_lima/fujimori_periodistas.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_condiciones_salud_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Condiciones salud",
     "thumb": "fotos/pub_lima/condiciones_salud.webp",
     "full": "fotos/pub_lima/condiciones_salud.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_sendero_luminoso_2_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Sendero luminoso 2",
     "thumb": "fotos/pub_lima/sendero_luminoso_2.webp",
     "full": "fotos/pub_lima/sendero_luminoso_2.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_campesinos_armados_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Campesinos armados",
     "thumb": "fotos/pub_lima/campesinos_armados.webp",
     "full": "fotos/pub_lima/campesinos_armados.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_mujer_escaleras_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Mujer escaleras",
     "thumb": "fotos/pub_lima/mujer_escaleras.webp",
     "full": "fotos/pub_lima/mujer_escaleras.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_efectos_colera_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Efectos colera",
     "thumb": "fotos/pub_lima/efectos_colera.webp",
     "full": "fotos/pub_lima/efectos_colera.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_embajada_1_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Embajada 1",
     "thumb": "fotos/pub_lima/embajada_1.webp",
     "full": "fotos/pub_lima/embajada_1.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_embajada_2_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Embajada 2",
     "thumb": "fotos/pub_lima/embajada_2.webp",
     "full": "fotos/pub_lima/embajada_2.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_embajada_4_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Embajada 4",
     "thumb": "fotos/pub_lima/embajada_4.webp",
     "full": "fotos/pub_lima/embajada_4.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_embajada_0_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Embajada 0",
     "thumb": "fotos/pub_lima/embajada_0.webp",
     "full": "fotos/pub_lima/embajada_0.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_embajada_3_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Embajada 3",
     "thumb": "fotos/pub_lima/embajada_3.webp",
     "full": "fotos/pub_lima/embajada_3.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_afoco_bendito_desierto0_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Afoco bendito desierto0",
     "thumb": "fotos/pub_lima/afoco_bendito_desierto0.webp",
     "full": "fotos/pub_lima/afoco_bendito_desierto0.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_afoco_bendito_desierto1_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Afoco bendito desierto1",
     "thumb": "fotos/pub_lima/afoco_bendito_desierto1.webp",
     "full": "fotos/pub_lima/afoco_bendito_desierto1.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_campesino_tienda_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Campesino tienda",
     "thumb": "fotos/pub_lima/campesino_tienda.webp",
     "full": "fotos/pub_lima/campesino_tienda.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_ejercito_peruano_2_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Ejercito peruano 2",
     "thumb": "fotos/pub_lima/ejercito_peruano_2.webp",
     "full": "fotos/pub_lima/ejercito_peruano_2.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_fujimori_1991_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fujimori 1991",
     "thumb": "fotos/pub_lima/fujimori_1991.webp",
     "full": "fotos/pub_lima/fujimori_1991.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_mercado_lima_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Mercado lima",
     "thumb": "fotos/pub_lima/mercado_lima.webp",
     "full": "fotos/pub_lima/mercado_lima.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_mujeres_campesinas_sierra_peru_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Mujeres campesinas sierra peru",
     "thumb": "fotos/pub_lima/mujeres_campesinas_sierra_peru.webp",
     "full": "fotos/pub_lima/mujeres_campesinas_sierra_peru.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_mujeres_rivera_rimac_lima_peru_1991_2_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Mujeres rivera rimac lima peru 1991 2",
     "thumb": "fotos/pub_lima/mujeres_rivera_rimac_lima_peru_1991_2.webp",
     "full": "fotos/pub_lima/mujeres_rivera_rimac_lima_peru_1991_2.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_peru_colera_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Peru colera",
     "thumb": "fotos/pub_lima/peru_colera.webp",
     "full": "fotos/pub_lima/peru_colera.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lima_portada_caretas_inundaciones_webp",
     "lat": -12.045,
     "lon": -77.03,
     "zona": "lima",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Portada caretas inundaciones",
     "thumb": "fotos/pub_lima/portada_caretas_inundaciones.webp",
     "full": "fotos/pub_lima/portada_caretas_inundaciones.webp",
-    "rating": 5,
     "descripcion": "Embajada Japonesa / Prensa",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "uyuni_uyuni_espejo_pano_webp",
@@ -463,9 +428,8 @@
     "titulo": "Uyuni espejo pano",
     "thumb": "fotos/nomad_uyuni/uyuni_espejo_pano.webp",
     "full": "fotos/nomad_uyuni/uyuni_espejo_pano.webp",
-    "rating": 5,
     "descripcion": "Salar de Uyuni / Bolivia",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "uyuni_panoramica_uyuni_webp",
@@ -489,9 +453,8 @@
     "titulo": "Fotografo uyuni",
     "thumb": "fotos/nomad_uyuni/fotografo_uyuni.webp",
     "full": "fotos/nomad_uyuni/fotografo_uyuni.webp",
-    "rating": 5,
     "descripcion": "Salar de Uyuni / Bolivia",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "uyuni_hotel_sal_webp",
@@ -502,9 +465,8 @@
     "titulo": "Hotel sal",
     "thumb": "fotos/nomad_uyuni/hotel_sal.webp",
     "full": "fotos/nomad_uyuni/hotel_sal.webp",
-    "rating": 5,
     "descripcion": "Salar de Uyuni / Bolivia",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "uyuni_laguna_altipano_webp",
@@ -515,9 +477,8 @@
     "titulo": "Laguna altipano",
     "thumb": "fotos/nomad_uyuni/laguna_altipano.webp",
     "full": "fotos/nomad_uyuni/laguna_altipano.webp",
-    "rating": 5,
     "descripcion": "Salar de Uyuni / Bolivia",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "uyuni_reflejo_uyuni_webp",
@@ -528,9 +489,8 @@
     "titulo": "Reflejo uyuni",
     "thumb": "fotos/nomad_uyuni/reflejo_uyuni.webp",
     "full": "fotos/nomad_uyuni/reflejo_uyuni.webp",
-    "rating": 5,
     "descripcion": "Salar de Uyuni / Bolivia",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "uyuni_salar_pano_webp",
@@ -541,9 +501,8 @@
     "titulo": "Salar pano",
     "thumb": "fotos/nomad_uyuni/salar_pano.webp",
     "full": "fotos/nomad_uyuni/salar_pano.webp",
-    "rating": 5,
     "descripcion": "Salar de Uyuni / Bolivia",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "uyuni_saltando_uyuni_webp",
@@ -554,16 +513,15 @@
     "titulo": "Saltando uyuni",
     "thumb": "fotos/nomad_uyuni/saltando_uyuni.webp",
     "full": "fotos/nomad_uyuni/saltando_uyuni.webp",
-    "rating": 5,
     "descripcion": "Salar de Uyuni / Bolivia",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "alemania_05052002-doble-pag_-stern_webp",
     "lat": 51.165,
     "lon": 10.451,
     "zona": "alemania",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "05052002-doble-pag.-stern",
     "thumb": "fotos/pub_alemania/05052002-doble-pag.-stern.webp",
     "full": "fotos/pub_alemania/05052002-doble-pag.-stern.webp",
@@ -576,7 +534,7 @@
     "lat": 51.165,
     "lon": 10.451,
     "zona": "alemania",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "05052002-pub.doble.-marisol-y-tino",
     "thumb": "fotos/pub_alemania/05052002-pub.doble.-marisol-y-tino.webp",
     "full": "fotos/pub_alemania/05052002-pub.doble.-marisol-y-tino.webp",
@@ -589,7 +547,7 @@
     "lat": 51.165,
     "lon": 10.451,
     "zona": "alemania",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "05052002-pub.sueca-fotografo-hh",
     "thumb": "fotos/pub_alemania/05052002-pub.sueca-fotografo-hh.webp",
     "full": "fotos/pub_alemania/05052002-pub.sueca-fotografo-hh.webp",
@@ -602,7 +560,7 @@
     "lat": 51.165,
     "lon": 10.451,
     "zona": "alemania",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "05052002-pub",
     "thumb": "fotos/pub_alemania/05052002-pub.webp",
     "full": "fotos/pub_alemania/05052002-pub.webp",
@@ -615,26 +573,24 @@
     "lat": -62.2,
     "lon": -58.964,
     "zona": "antartida",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Hielo teatral",
     "thumb": "fotos/pub_antartida/hielo_teatral.webp",
     "full": "fotos/pub_antartida/hielo_teatral.webp",
-    "rating": 5,
     "descripcion": "Base Frei / Territorio Antártico",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "antartida_base-naval-prat-antartica_webp",
     "lat": -62.2,
     "lon": -58.964,
     "zona": "antartida",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Base-naval-prat-antartica",
     "thumb": "fotos/pub_antartida/base-naval-prat-antartica.webp",
     "full": "fotos/pub_antartida/base-naval-prat-antartica.webp",
-    "rating": 5,
     "descripcion": "Base Frei / Territorio Antártico",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "cejar_cejar_(1)_webp",
@@ -645,9 +601,8 @@
     "titulo": "Cejar",
     "thumb": "fotos/nomad_cejar/cejar_(1).webp",
     "full": "fotos/nomad_cejar/cejar_(1).webp",
-    "rating": 5,
     "descripcion": "Laguna Cejar",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "cejar_cejar_(10)_webp",
@@ -658,9 +613,8 @@
     "titulo": "Cejar",
     "thumb": "fotos/nomad_cejar/cejar_(10).webp",
     "full": "fotos/nomad_cejar/cejar_(10).webp",
-    "rating": 5,
     "descripcion": "Laguna Cejar",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "cejar_cejar_(11)_webp",
@@ -671,9 +625,8 @@
     "titulo": "Cejar",
     "thumb": "fotos/nomad_cejar/cejar_(11).webp",
     "full": "fotos/nomad_cejar/cejar_(11).webp",
-    "rating": 5,
     "descripcion": "Laguna Cejar",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "cejar_cejar_(12)_webp",
@@ -684,9 +637,8 @@
     "titulo": "Cejar",
     "thumb": "fotos/nomad_cejar/cejar_(12).webp",
     "full": "fotos/nomad_cejar/cejar_(12).webp",
-    "rating": 5,
     "descripcion": "Laguna Cejar",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "cejar_cejar_(13)_webp",
@@ -697,9 +649,8 @@
     "titulo": "Cejar",
     "thumb": "fotos/nomad_cejar/cejar_(13).webp",
     "full": "fotos/nomad_cejar/cejar_(13).webp",
-    "rating": 5,
     "descripcion": "Laguna Cejar",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "cejar_cejar_(14)_webp",
@@ -710,9 +661,8 @@
     "titulo": "Cejar",
     "thumb": "fotos/nomad_cejar/cejar_(14).webp",
     "full": "fotos/nomad_cejar/cejar_(14).webp",
-    "rating": 5,
     "descripcion": "Laguna Cejar",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "cejar_cejar_(2)_webp",
@@ -723,9 +673,8 @@
     "titulo": "Cejar",
     "thumb": "fotos/nomad_cejar/cejar_(2).webp",
     "full": "fotos/nomad_cejar/cejar_(2).webp",
-    "rating": 5,
     "descripcion": "Laguna Cejar",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "cejar_cejar_(3)_webp",
@@ -736,9 +685,8 @@
     "titulo": "Cejar",
     "thumb": "fotos/nomad_cejar/cejar_(3).webp",
     "full": "fotos/nomad_cejar/cejar_(3).webp",
-    "rating": 5,
     "descripcion": "Laguna Cejar",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "cejar_cejar_(4)_webp",
@@ -749,9 +697,8 @@
     "titulo": "Cejar",
     "thumb": "fotos/nomad_cejar/cejar_(4).webp",
     "full": "fotos/nomad_cejar/cejar_(4).webp",
-    "rating": 5,
     "descripcion": "Laguna Cejar",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "cejar_cejar_(5)_webp",
@@ -762,9 +709,8 @@
     "titulo": "Cejar",
     "thumb": "fotos/nomad_cejar/cejar_(5).webp",
     "full": "fotos/nomad_cejar/cejar_(5).webp",
-    "rating": 5,
     "descripcion": "Laguna Cejar",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "cejar_cejar_(6)_webp",
@@ -775,9 +721,8 @@
     "titulo": "Cejar",
     "thumb": "fotos/nomad_cejar/cejar_(6).webp",
     "full": "fotos/nomad_cejar/cejar_(6).webp",
-    "rating": 5,
     "descripcion": "Laguna Cejar",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "cejar_cejar_(7)_webp",
@@ -788,9 +733,8 @@
     "titulo": "Cejar",
     "thumb": "fotos/nomad_cejar/cejar_(7).webp",
     "full": "fotos/nomad_cejar/cejar_(7).webp",
-    "rating": 5,
     "descripcion": "Laguna Cejar",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "cejar_cejar_(8)_webp",
@@ -801,9 +745,8 @@
     "titulo": "Cejar",
     "thumb": "fotos/nomad_cejar/cejar_(8).webp",
     "full": "fotos/nomad_cejar/cejar_(8).webp",
-    "rating": 5,
     "descripcion": "Laguna Cejar",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "cejar_cejar_(9)_webp",
@@ -814,94 +757,87 @@
     "titulo": "Cejar",
     "thumb": "fotos/nomad_cejar/cejar_(9).webp",
     "full": "fotos/nomad_cejar/cejar_(9).webp",
-    "rating": 5,
     "descripcion": "Laguna Cejar",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "chiloe_chiloe303_copy_webp",
     "lat": -42.612,
     "lon": -73.928,
     "zona": "chiloe",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Chiloe303 copy",
     "thumb": "fotos/pub_chiloe/chiloe303_copy.webp",
     "full": "fotos/pub_chiloe/chiloe303_copy.webp",
-    "rating": 5,
     "descripcion": "Mitología y Paisaje",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "chiloe_chiloe362_copy_1_webp",
     "lat": -42.612,
     "lon": -73.928,
     "zona": "chiloe",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Chiloe362 copy 1",
     "thumb": "fotos/pub_chiloe/chiloe362_copy_1.webp",
     "full": "fotos/pub_chiloe/chiloe362_copy_1.webp",
-    "rating": 5,
     "descripcion": "Mitología y Paisaje",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "chiloe_chiloe620_copy_webp",
     "lat": -42.612,
     "lon": -73.928,
     "zona": "chiloe",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Chiloe620 copy",
     "thumb": "fotos/pub_chiloe/chiloe620_copy.webp",
     "full": "fotos/pub_chiloe/chiloe620_copy.webp",
-    "rating": 5,
     "descripcion": "Mitología y Paisaje",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "chiloe_chiloe646_copy_2_webp",
     "lat": -42.612,
     "lon": -73.928,
     "zona": "chiloe",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Chiloe646 copy 2",
     "thumb": "fotos/pub_chiloe/chiloe646_copy_2.webp",
     "full": "fotos/pub_chiloe/chiloe646_copy_2.webp",
-    "rating": 5,
     "descripcion": "Mitología y Paisaje",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "chiloe_chiloe_balsas_3_pwp_webp",
     "lat": -42.612,
     "lon": -73.928,
     "zona": "chiloe",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Chiloe balsas 3 pwp",
     "thumb": "fotos/pub_chiloe/chiloe_balsas_3_pwp.webp",
     "full": "fotos/pub_chiloe/chiloe_balsas_3_pwp.webp",
-    "rating": 5,
     "descripcion": "Mitología y Paisaje",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "chiloe_libro_chiloe_webp",
     "lat": -42.612,
     "lon": -73.928,
     "zona": "chiloe",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Libro chiloe",
     "thumb": "fotos/pub_chiloe/libro_chiloe.webp",
     "full": "fotos/pub_chiloe/libro_chiloe.webp",
-    "rating": 5,
     "descripcion": "Mitología y Paisaje",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "estrecho_magallanes_reagan_nuclear_webp",
     "lat": -53.616,
     "lon": -70.912,
     "zona": "estrecho_magallanes",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Reagan nuclear",
     "thumb": "fotos/pub_estrecho_magallanes/reagan_nuclear.webp",
     "full": "fotos/pub_estrecho_magallanes/reagan_nuclear.webp",
@@ -914,7 +850,7 @@
     "lat": -53.616,
     "lon": -70.912,
     "zona": "estrecho_magallanes",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Entrada al estrecho, faro dungenes en la punta",
     "thumb": "fotos/pub_estrecho_magallanes/entrada_al_estrecho,_faro_dungenes_en_la_punta.webp",
     "full": "fotos/pub_estrecho_magallanes/entrada_al_estrecho,_faro_dungenes_en_la_punta.webp",
@@ -927,7 +863,7 @@
     "lat": -53.616,
     "lon": -70.912,
     "zona": "estrecho_magallanes",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Estrecho, faro espiritu santo",
     "thumb": "fotos/pub_estrecho_magallanes/estrecho,_faro_espiritu_santo.webp",
     "full": "fotos/pub_estrecho_magallanes/estrecho,_faro_espiritu_santo.webp",
@@ -940,7 +876,7 @@
     "lat": -53.616,
     "lon": -70.912,
     "zona": "estrecho_magallanes",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Estrecho magallanes",
     "thumb": "fotos/pub_estrecho_magallanes/estrecho_magallanes.webp",
     "full": "fotos/pub_estrecho_magallanes/estrecho_magallanes.webp",
@@ -953,234 +889,216 @@
     "lat": -3.831,
     "lon": -55.498,
     "zona": "fordlandia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fordlandia",
     "thumb": "fotos/pub_fordlandia/fordlandia_(1).webp",
     "full": "fotos/pub_fordlandia/fordlandia_(1).webp",
-    "rating": 5,
     "descripcion": "Proyecto Ford / Amazonía",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "fordlandia_fordlandia_(10)_webp",
     "lat": -3.831,
     "lon": -55.498,
     "zona": "fordlandia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fordlandia",
     "thumb": "fotos/pub_fordlandia/fordlandia_(10).webp",
     "full": "fotos/pub_fordlandia/fordlandia_(10).webp",
-    "rating": 5,
     "descripcion": "Proyecto Ford / Amazonía",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "fordlandia_fordlandia_(11)_webp",
     "lat": -3.831,
     "lon": -55.498,
     "zona": "fordlandia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fordlandia",
     "thumb": "fotos/pub_fordlandia/fordlandia_(11).webp",
     "full": "fotos/pub_fordlandia/fordlandia_(11).webp",
-    "rating": 5,
     "descripcion": "Proyecto Ford / Amazonía",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "fordlandia_fordlandia_(12)_webp",
     "lat": -3.831,
     "lon": -55.498,
     "zona": "fordlandia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fordlandia",
     "thumb": "fotos/pub_fordlandia/fordlandia_(12).webp",
     "full": "fotos/pub_fordlandia/fordlandia_(12).webp",
-    "rating": 5,
     "descripcion": "Proyecto Ford / Amazonía",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "fordlandia_fordlandia_(13)_webp",
     "lat": -3.831,
     "lon": -55.498,
     "zona": "fordlandia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fordlandia",
     "thumb": "fotos/pub_fordlandia/fordlandia_(13).webp",
     "full": "fotos/pub_fordlandia/fordlandia_(13).webp",
-    "rating": 5,
     "descripcion": "Proyecto Ford / Amazonía",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "fordlandia_fordlandia_(14)_webp",
     "lat": -3.831,
     "lon": -55.498,
     "zona": "fordlandia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fordlandia",
     "thumb": "fotos/pub_fordlandia/fordlandia_(14).webp",
     "full": "fotos/pub_fordlandia/fordlandia_(14).webp",
-    "rating": 5,
     "descripcion": "Proyecto Ford / Amazonía",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "fordlandia_fordlandia_(15)_webp",
     "lat": -3.831,
     "lon": -55.498,
     "zona": "fordlandia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fordlandia",
     "thumb": "fotos/pub_fordlandia/fordlandia_(15).webp",
     "full": "fotos/pub_fordlandia/fordlandia_(15).webp",
-    "rating": 5,
     "descripcion": "Proyecto Ford / Amazonía",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "fordlandia_fordlandia_(16)_webp",
     "lat": -3.831,
     "lon": -55.498,
     "zona": "fordlandia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fordlandia",
     "thumb": "fotos/pub_fordlandia/fordlandia_(16).webp",
     "full": "fotos/pub_fordlandia/fordlandia_(16).webp",
-    "rating": 5,
     "descripcion": "Proyecto Ford / Amazonía",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "fordlandia_fordlandia_(17)_webp",
     "lat": -3.831,
     "lon": -55.498,
     "zona": "fordlandia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fordlandia",
     "thumb": "fotos/pub_fordlandia/fordlandia_(17).webp",
     "full": "fotos/pub_fordlandia/fordlandia_(17).webp",
-    "rating": 5,
     "descripcion": "Proyecto Ford / Amazonía",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "fordlandia_fordlandia_(18)_webp",
     "lat": -3.831,
     "lon": -55.498,
     "zona": "fordlandia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fordlandia",
     "thumb": "fotos/pub_fordlandia/fordlandia_(18).webp",
     "full": "fotos/pub_fordlandia/fordlandia_(18).webp",
-    "rating": 5,
     "descripcion": "Proyecto Ford / Amazonía",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "fordlandia_fordlandia_(2)_webp",
     "lat": -3.831,
     "lon": -55.498,
     "zona": "fordlandia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fordlandia",
     "thumb": "fotos/pub_fordlandia/fordlandia_(2).webp",
     "full": "fotos/pub_fordlandia/fordlandia_(2).webp",
-    "rating": 5,
     "descripcion": "Proyecto Ford / Amazonía",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "fordlandia_fordlandia_(3)_webp",
     "lat": -3.831,
     "lon": -55.498,
     "zona": "fordlandia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fordlandia",
     "thumb": "fotos/pub_fordlandia/fordlandia_(3).webp",
     "full": "fotos/pub_fordlandia/fordlandia_(3).webp",
-    "rating": 5,
     "descripcion": "Proyecto Ford / Amazonía",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "fordlandia_fordlandia_(4)_webp",
     "lat": -3.831,
     "lon": -55.498,
     "zona": "fordlandia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fordlandia",
     "thumb": "fotos/pub_fordlandia/fordlandia_(4).webp",
     "full": "fotos/pub_fordlandia/fordlandia_(4).webp",
-    "rating": 5,
     "descripcion": "Proyecto Ford / Amazonía",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "fordlandia_fordlandia_(5)_webp",
     "lat": -3.831,
     "lon": -55.498,
     "zona": "fordlandia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fordlandia",
     "thumb": "fotos/pub_fordlandia/fordlandia_(5).webp",
     "full": "fotos/pub_fordlandia/fordlandia_(5).webp",
-    "rating": 5,
     "descripcion": "Proyecto Ford / Amazonía",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "fordlandia_fordlandia_(6)_webp",
     "lat": -3.831,
     "lon": -55.498,
     "zona": "fordlandia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fordlandia",
     "thumb": "fotos/pub_fordlandia/fordlandia_(6).webp",
     "full": "fotos/pub_fordlandia/fordlandia_(6).webp",
-    "rating": 5,
     "descripcion": "Proyecto Ford / Amazonía",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "fordlandia_fordlandia_(7)_webp",
     "lat": -3.831,
     "lon": -55.498,
     "zona": "fordlandia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fordlandia",
     "thumb": "fotos/pub_fordlandia/fordlandia_(7).webp",
     "full": "fotos/pub_fordlandia/fordlandia_(7).webp",
-    "rating": 5,
     "descripcion": "Proyecto Ford / Amazonía",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "fordlandia_fordlandia_(8)_webp",
     "lat": -3.831,
     "lon": -55.498,
     "zona": "fordlandia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fordlandia",
     "thumb": "fotos/pub_fordlandia/fordlandia_(8).webp",
     "full": "fotos/pub_fordlandia/fordlandia_(8).webp",
-    "rating": 5,
     "descripcion": "Proyecto Ford / Amazonía",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "fordlandia_fordlandia_(9)_webp",
     "lat": -3.831,
     "lon": -55.498,
     "zona": "fordlandia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Fordlandia",
     "thumb": "fotos/pub_fordlandia/fordlandia_(9).webp",
     "full": "fotos/pub_fordlandia/fordlandia_(9).webp",
-    "rating": 5,
     "descripcion": "Proyecto Ford / Amazonía",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lazcar_lazcar_(1)_webp",
@@ -1191,9 +1109,8 @@
     "titulo": "Lazcar",
     "thumb": "fotos/nomad_lazcar/lazcar_(1).webp",
     "full": "fotos/nomad_lazcar/lazcar_(1).webp",
-    "rating": 5,
     "descripcion": "Volcán Lascar",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lazcar_lazcar_(2)_webp",
@@ -1204,9 +1121,8 @@
     "titulo": "Lazcar",
     "thumb": "fotos/nomad_lazcar/lazcar_(2).webp",
     "full": "fotos/nomad_lazcar/lazcar_(2).webp",
-    "rating": 5,
     "descripcion": "Volcán Lascar",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lazcar_lazcar_(3)_webp",
@@ -1217,16 +1133,15 @@
     "titulo": "Lazcar",
     "thumb": "fotos/nomad_lazcar/lazcar_(3).webp",
     "full": "fotos/nomad_lazcar/lazcar_(3).webp",
-    "rating": 5,
     "descripcion": "Volcán Lascar",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lota__mgd7164_webp",
     "lat": -37.091,
     "lon": -73.159,
     "zona": "lota",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Mgd7164",
     "thumb": "fotos/pub_lota/_mgd7164.webp",
     "full": "fotos/pub_lota/_mgd7164.webp",
@@ -1239,33 +1154,31 @@
     "lat": -37.091,
     "lon": -73.159,
     "zona": "lota",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Lota chile 1990 anciano recolector de carbon",
     "thumb": "fotos/pub_lota/lota_chile_1990_anciano_recolector_de_carbon.webp",
     "full": "fotos/pub_lota/lota_chile_1990_anciano_recolector_de_carbon.webp",
-    "rating": 5,
     "descripcion": "Realismo Social Carbón",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "lota_lota_chile_1990_pescando_carbon_webp",
     "lat": -37.091,
     "lon": -73.159,
     "zona": "lota",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Lota chile 1990 pescando carbon",
     "thumb": "fotos/pub_lota/lota_chile_1990_pescando_carbon.webp",
     "full": "fotos/pub_lota/lota_chile_1990_pescando_carbon.webp",
-    "rating": 5,
     "descripcion": "Realismo Social Carbón",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "suecia_05052002-doble-pag_pub_-sueca_webp",
     "lat": 60.128,
     "lon": 18.643,
     "zona": "suecia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "05052002-doble-pag.pub.-sueca",
     "thumb": "fotos/pub_suecia/05052002-doble-pag.pub.-sueca.webp",
     "full": "fotos/pub_suecia/05052002-doble-pag.pub.-sueca.webp",
@@ -1278,7 +1191,7 @@
     "lat": 60.128,
     "lon": 18.643,
     "zona": "suecia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "05052002-pub-sueca-fothh3",
     "thumb": "fotos/pub_suecia/05052002-pub-sueca-fothh3.webp",
     "full": "fotos/pub_suecia/05052002-pub-sueca-fothh3.webp",
@@ -1291,7 +1204,7 @@
     "lat": 60.128,
     "lon": 18.643,
     "zona": "suecia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "05052002-pub-sueca-fotograf-hh2",
     "thumb": "fotos/pub_suecia/05052002-pub-sueca-fotograf-hh2.webp",
     "full": "fotos/pub_suecia/05052002-pub-sueca-fotograf-hh2.webp",
@@ -1304,7 +1217,7 @@
     "lat": 60.128,
     "lon": 18.643,
     "zona": "suecia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "05052002-pub.sueca-2",
     "thumb": "fotos/pub_suecia/05052002-pub.sueca-2.webp",
     "full": "fotos/pub_suecia/05052002-pub.sueca-2.webp",
@@ -1317,7 +1230,7 @@
     "lat": 60.128,
     "lon": 18.643,
     "zona": "suecia",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "05052002-pub.sueca",
     "thumb": "fotos/pub_suecia/05052002-pub.sueca.webp",
     "full": "fotos/pub_suecia/05052002-pub.sueca.webp",
@@ -1330,46 +1243,43 @@
     "lat": -33.047,
     "lon": -71.619,
     "zona": "valparaiso",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Arribo esmeralda",
     "thumb": "fotos/pub_valparaiso/arribo_esmeralda.webp",
     "full": "fotos/pub_valparaiso/arribo_esmeralda.webp",
-    "rating": 5,
     "descripcion": "Puerto de Valparaíso",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "valparaiso_arribo_esmeralda_2_webp",
     "lat": -33.047,
     "lon": -71.619,
     "zona": "valparaiso",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Arribo esmeralda 2",
     "thumb": "fotos/pub_valparaiso/arribo_esmeralda_2.webp",
     "full": "fotos/pub_valparaiso/arribo_esmeralda_2.webp",
-    "rating": 5,
     "descripcion": "Puerto de Valparaíso",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "valparaiso_arribo_esmeralda_4_webp",
     "lat": -33.047,
     "lon": -71.619,
     "zona": "valparaiso",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Arribo esmeralda 4",
     "thumb": "fotos/pub_valparaiso/arribo_esmeralda_4.webp",
     "full": "fotos/pub_valparaiso/arribo_esmeralda_4.webp",
-    "rating": 5,
     "descripcion": "Puerto de Valparaíso",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "planta_litio_dsc_4425-editar_webp",
     "lat": -23.473,
     "lon": -68.349,
     "zona": "planta_litio",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Dsc 4425-editar",
     "thumb": "fotos/pub_planta_litio/dsc_4425-editar.webp",
     "full": "fotos/pub_planta_litio/dsc_4425-editar.webp",
@@ -1382,7 +1292,7 @@
     "lat": -23.473,
     "lon": -68.349,
     "zona": "planta_litio",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Dsc 4470",
     "thumb": "fotos/pub_planta_litio/dsc_4470.webp",
     "full": "fotos/pub_planta_litio/dsc_4470.webp",
@@ -1395,7 +1305,7 @@
     "lat": -23.473,
     "lon": -68.349,
     "zona": "planta_litio",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Dsc 5027 copia-editar",
     "thumb": "fotos/pub_planta_litio/dsc_5027_copia-editar.webp",
     "full": "fotos/pub_planta_litio/dsc_5027_copia-editar.webp",
@@ -1408,7 +1318,7 @@
     "lat": -23.473,
     "lon": -68.349,
     "zona": "planta_litio",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "G0010946 copia",
     "thumb": "fotos/pub_planta_litio/g0010946_copia.webp",
     "full": "fotos/pub_planta_litio/g0010946_copia.webp",
@@ -2266,163 +2176,151 @@
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Campesino hija",
     "thumb": "fotos/pub_nicaragua/campesino_hija.webp",
     "full": "fotos/pub_nicaragua/campesino_hija.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_collage_nicaragua_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Collage nicaragua",
     "thumb": "fotos/pub_nicaragua/collage_nicaragua.webp",
     "full": "fotos/pub_nicaragua/collage_nicaragua.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_crudeza_guerra_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Crudeza guerra",
     "thumb": "fotos/pub_nicaragua/crudeza_guerra.webp",
     "full": "fotos/pub_nicaragua/crudeza_guerra.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_en_la_montana_con_telcor_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "En la montana con telcor",
     "thumb": "fotos/pub_nicaragua/en_la_montana_con_telcor.webp",
     "full": "fotos/pub_nicaragua/en_la_montana_con_telcor.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_haroldo_con_las_brigadas_de_telcor_4_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Haroldo con las brigadas de telcor 4",
     "thumb": "fotos/pub_nicaragua/haroldo_con_las_brigadas_de_telcor_4.webp",
     "full": "fotos/pub_nicaragua/haroldo_con_las_brigadas_de_telcor_4.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_nicaragua_-los_arcos-_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Nicaragua -los arcos-",
     "thumb": "fotos/pub_nicaragua/nicaragua_-los_arcos-.webp",
     "full": "fotos/pub_nicaragua/nicaragua_-los_arcos-.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_soldado_herido_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Soldado herido",
     "thumb": "fotos/pub_nicaragua/soldado_herido.webp",
     "full": "fotos/pub_nicaragua/soldado_herido.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_derrota_electoral_2_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Derrota electoral 2",
     "thumb": "fotos/pub_nicaragua/derrota_electoral_2.webp",
     "full": "fotos/pub_nicaragua/derrota_electoral_2.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_pintura_sandino_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Pintura sandino",
     "thumb": "fotos/pub_nicaragua/pintura_sandino.webp",
     "full": "fotos/pub_nicaragua/pintura_sandino.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_cocinando_guerra_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Cocinando guerra",
     "thumb": "fotos/pub_nicaragua/cocinando_guerra.webp",
     "full": "fotos/pub_nicaragua/cocinando_guerra.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_bombardeo_nocturno_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Bombardeo nocturno",
     "thumb": "fotos/pub_nicaragua/bombardeo_nocturno.webp",
     "full": "fotos/pub_nicaragua/bombardeo_nocturno.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_hospital_militar_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Hospital militar",
     "thumb": "fotos/pub_nicaragua/hospital_militar.webp",
     "full": "fotos/pub_nicaragua/hospital_militar.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_enfermero_combatiente_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Enfermero combatiente",
     "thumb": "fotos/pub_nicaragua/enfermero_combatiente.webp",
     "full": "fotos/pub_nicaragua/enfermero_combatiente.webp",
@@ -2435,611 +2333,564 @@
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Disparo rpg7",
     "thumb": "fotos/pub_nicaragua/disparo_rpg7.webp",
     "full": "fotos/pub_nicaragua/disparo_rpg7.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_triste_retorno_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Triste retorno",
     "thumb": "fotos/pub_nicaragua/triste_retorno.webp",
     "full": "fotos/pub_nicaragua/triste_retorno.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_alicia_alonso_danza_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Alicia alonso danza",
     "thumb": "fotos/pub_nicaragua/alicia_alonso_danza.webp",
     "full": "fotos/pub_nicaragua/alicia_alonso_danza.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_miliciano_herido_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Miliciano herido",
     "thumb": "fotos/pub_nicaragua/miliciano_herido.webp",
     "full": "fotos/pub_nicaragua/miliciano_herido.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_dolor_guerra_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Dolor guerra",
     "thumb": "fotos/pub_nicaragua/dolor_guerra.webp",
     "full": "fotos/pub_nicaragua/dolor_guerra.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_mujer_guerra_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Mujer guerra",
     "thumb": "fotos/pub_nicaragua/mujer_guerra.webp",
     "full": "fotos/pub_nicaragua/mujer_guerra.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_derrota_electoral_1989_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Derrota electoral 1989",
     "thumb": "fotos/pub_nicaragua/derrota_electoral_1989.webp",
     "full": "fotos/pub_nicaragua/derrota_electoral_1989.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_soldados_sandinistas_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Soldados sandinistas",
     "thumb": "fotos/pub_nicaragua/soldados_sandinistas.webp",
     "full": "fotos/pub_nicaragua/soldados_sandinistas.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_reflejo_convoy_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Reflejo convoy",
     "thumb": "fotos/pub_nicaragua/reflejo_convoy.webp",
     "full": "fotos/pub_nicaragua/reflejo_convoy.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_chamorro_carter_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Chamorro carter",
     "thumb": "fotos/pub_nicaragua/chamorro_carter.webp",
     "full": "fotos/pub_nicaragua/chamorro_carter.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_barbero_carpintero_ataud_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Barbero carpintero ataud",
     "thumb": "fotos/pub_nicaragua/barbero_carpintero_ataud.webp",
     "full": "fotos/pub_nicaragua/barbero_carpintero_ataud.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_nicaragua_dia_dia_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Nicaragua dia dia",
     "thumb": "fotos/pub_nicaragua/nicaragua_dia_dia.webp",
     "full": "fotos/pub_nicaragua/nicaragua_dia_dia.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_familia_tiempos_guerra_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Familia tiempos guerra",
     "thumb": "fotos/pub_nicaragua/familia_tiempos_guerra.webp",
     "full": "fotos/pub_nicaragua/familia_tiempos_guerra.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_alicia_alonso_1_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Alicia alonso 1",
     "thumb": "fotos/pub_nicaragua/alicia_alonso_1.webp",
     "full": "fotos/pub_nicaragua/alicia_alonso_1.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_miliciano_1_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Miliciano 1",
     "thumb": "fotos/pub_nicaragua/miliciano_1.webp",
     "full": "fotos/pub_nicaragua/miliciano_1.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_mujer_luz_webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Mujer luz",
     "thumb": "fotos/pub_nicaragua/mujer_luz.webp",
     "full": "fotos/pub_nicaragua/mujer_luz.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "nicaragua_miliciano__webp",
     "lat": 12.136,
     "lon": -86.251,
     "zona": "nicaragua",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Miliciano",
     "thumb": "fotos/pub_nicaragua/miliciano_.webp",
     "full": "fotos/pub_nicaragua/miliciano_.webp",
-    "rating": 5,
     "descripcion": "Etapa Corresponsalía Guerra",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "santiago_libro_esmeralda_webp",
     "lat": -33.448,
     "lon": -70.665,
     "zona": "santiago",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Libro esmeralda",
     "thumb": "fotos/pub_santiago/libro_esmeralda.webp",
     "full": "fotos/pub_santiago/libro_esmeralda.webp",
-    "rating": 5,
     "descripcion": "Capital Chile",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "santiago_publicaciones_souvenir1_webp",
     "lat": -33.448,
     "lon": -70.665,
     "zona": "santiago",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Publicaciones souvenir1",
     "thumb": "fotos/pub_santiago/publicaciones_souvenir1.webp",
     "full": "fotos/pub_santiago/publicaciones_souvenir1.webp",
-    "rating": 5,
     "descripcion": "Capital Chile",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "santiago_publicaciones_souvenir2_webp",
     "lat": -33.448,
     "lon": -70.665,
     "zona": "santiago",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Publicaciones souvenir2",
     "thumb": "fotos/pub_santiago/publicaciones_souvenir2.webp",
     "full": "fotos/pub_santiago/publicaciones_souvenir2.webp",
-    "rating": 5,
     "descripcion": "Capital Chile",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_1_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 1",
     "thumb": "fotos/pub_medellin/medellin_1.webp",
     "full": "fotos/pub_medellin/medellin_1.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_2_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 2",
     "thumb": "fotos/pub_medellin/medellin_2.webp",
     "full": "fotos/pub_medellin/medellin_2.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_3_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 3",
     "thumb": "fotos/pub_medellin/medellin_3.webp",
     "full": "fotos/pub_medellin/medellin_3.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_4_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 4",
     "thumb": "fotos/pub_medellin/medellin_4.webp",
     "full": "fotos/pub_medellin/medellin_4.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_5_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 5",
     "thumb": "fotos/pub_medellin/medellin_5.webp",
     "full": "fotos/pub_medellin/medellin_5.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_6_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 6",
     "thumb": "fotos/pub_medellin/medellin_6.webp",
     "full": "fotos/pub_medellin/medellin_6.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_7_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 7",
     "thumb": "fotos/pub_medellin/medellin_7.webp",
     "full": "fotos/pub_medellin/medellin_7.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_8_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 8",
     "thumb": "fotos/pub_medellin/medellin_8.webp",
     "full": "fotos/pub_medellin/medellin_8.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_9_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 9",
     "thumb": "fotos/pub_medellin/medellin_9.webp",
     "full": "fotos/pub_medellin/medellin_9.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_10_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 10",
     "thumb": "fotos/pub_medellin/medellin_10.webp",
     "full": "fotos/pub_medellin/medellin_10.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_11_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 11",
     "thumb": "fotos/pub_medellin/medellin_11.webp",
     "full": "fotos/pub_medellin/medellin_11.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_12_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 12",
     "thumb": "fotos/pub_medellin/medellin_12.webp",
     "full": "fotos/pub_medellin/medellin_12.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_13_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 13",
     "thumb": "fotos/pub_medellin/medellin_13.webp",
     "full": "fotos/pub_medellin/medellin_13.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_14_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 14",
     "thumb": "fotos/pub_medellin/medellin_14.webp",
     "full": "fotos/pub_medellin/medellin_14.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_15_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 15",
     "thumb": "fotos/pub_medellin/medellin_15.webp",
     "full": "fotos/pub_medellin/medellin_15.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_16_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 16",
     "thumb": "fotos/pub_medellin/medellin_16.webp",
     "full": "fotos/pub_medellin/medellin_16.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_17_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 17",
     "thumb": "fotos/pub_medellin/medellin_17.webp",
     "full": "fotos/pub_medellin/medellin_17.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_18_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 18",
     "thumb": "fotos/pub_medellin/medellin_18.webp",
     "full": "fotos/pub_medellin/medellin_18.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_19_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 19",
     "thumb": "fotos/pub_medellin/medellin_19.webp",
     "full": "fotos/pub_medellin/medellin_19.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_20_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 20",
     "thumb": "fotos/pub_medellin/medellin_20.webp",
     "full": "fotos/pub_medellin/medellin_20.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_21_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 21",
     "thumb": "fotos/pub_medellin/medellin_21.webp",
     "full": "fotos/pub_medellin/medellin_21.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_22_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 22",
     "thumb": "fotos/pub_medellin/medellin_22.webp",
     "full": "fotos/pub_medellin/medellin_22.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_23_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 23",
     "thumb": "fotos/pub_medellin/medellin_23.webp",
     "full": "fotos/pub_medellin/medellin_23.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_24_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 24",
     "thumb": "fotos/pub_medellin/medellin_24.webp",
     "full": "fotos/pub_medellin/medellin_24.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_25_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 25",
     "thumb": "fotos/pub_medellin/medellin_25.webp",
     "full": "fotos/pub_medellin/medellin_25.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_26_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 26",
     "thumb": "fotos/pub_medellin/medellin_26.webp",
     "full": "fotos/pub_medellin/medellin_26.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "medellin_medellin_27_webp",
     "lat": 6.2442,
     "lon": -75.5812,
     "zona": "medellin",
-    "capa": "Publicaciones",
+    "capa": "Patrimonio Histórico",
     "titulo": "Medellin 27",
     "thumb": "fotos/pub_medellin/medellin_27.webp",
     "full": "fotos/pub_medellin/medellin_27.webp",
-    "rating": 5,
     "descripcion": "Crónica urbana y transformación en Medellín.",
-    "relato": "Pendiente de relato..."
+    "relato": "Pendiente..."
   },
   {
     "id": "san_pedro_atacamaseleccion_hht0204_webp",
