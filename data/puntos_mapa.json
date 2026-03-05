@@ -432,14 +432,14 @@
     "relato": "Pendiente..."
   },
   {
-    "id": "uyuni_panoramica_uyuni_webp",
+    "id": "uyuni_panoramica_uyuni2_webp",
     "lat": -20.1338,
     "lon": -67.4891,
     "zona": "uyuni",
     "capa": "Bitácora Nómada",
-    "titulo": "Panoramica uyuni",
-    "thumb": "fotos/nomad_uyuni/panoramica_uyuni.webp",
-    "full": "fotos/nomad_uyuni/panoramica_uyuni.webp",
+    "titulo": "Panoramica uyuni2",
+    "thumb": "fotos/nomad_uyuni/panoramica_uyuni2.webp",
+    "full": "fotos/nomad_uyuni/panoramica_uyuni2.webp",
     "rating": 5,
     "descripcion": "Salar de Uyuni / Bolivia",
     "relato": "Pendiente de relato..."
@@ -1275,27 +1275,14 @@
     "relato": "Pendiente..."
   },
   {
-    "id": "planta_litio_dsc_4425-editar_webp",
+    "id": "planta_litio_aerea_litio1_webp",
     "lat": -23.473,
     "lon": -68.349,
     "zona": "planta_litio",
     "capa": "Patrimonio Histórico",
-    "titulo": "Dsc 4425-editar",
-    "thumb": "fotos/pub_planta_litio/dsc_4425-editar.webp",
-    "full": "fotos/pub_planta_litio/dsc_4425-editar.webp",
-    "rating": 5,
-    "descripcion": "Explotación Litio",
-    "relato": "Pendiente de relato..."
-  },
-  {
-    "id": "planta_litio_dsc_4470_webp",
-    "lat": -23.473,
-    "lon": -68.349,
-    "zona": "planta_litio",
-    "capa": "Patrimonio Histórico",
-    "titulo": "Dsc 4470",
-    "thumb": "fotos/pub_planta_litio/dsc_4470.webp",
-    "full": "fotos/pub_planta_litio/dsc_4470.webp",
+    "titulo": "Aerea litio1",
+    "thumb": "fotos/pub_planta_litio/aerea_litio1.webp",
+    "full": "fotos/pub_planta_litio/aerea_litio1.webp",
     "rating": 5,
     "descripcion": "Explotación Litio",
     "relato": "Pendiente de relato..."
@@ -1322,6 +1309,32 @@
     "titulo": "G0010946 copia",
     "thumb": "fotos/pub_planta_litio/g0010946_copia.webp",
     "full": "fotos/pub_planta_litio/g0010946_copia.webp",
+    "rating": 5,
+    "descripcion": "Explotación Litio",
+    "relato": "Pendiente de relato..."
+  },
+  {
+    "id": "planta_litio_planta_litio_webp",
+    "lat": -23.473,
+    "lon": -68.349,
+    "zona": "planta_litio",
+    "capa": "Patrimonio Histórico",
+    "titulo": "Planta litio",
+    "thumb": "fotos/pub_planta_litio/planta_litio.webp",
+    "full": "fotos/pub_planta_litio/planta_litio.webp",
+    "rating": 5,
+    "descripcion": "Explotación Litio",
+    "relato": "Pendiente de relato..."
+  },
+  {
+    "id": "planta_litio_aerea_litio2_webp",
+    "lat": -23.473,
+    "lon": -68.349,
+    "zona": "planta_litio",
+    "capa": "Patrimonio Histórico",
+    "titulo": "Aerea litio2",
+    "thumb": "fotos/pub_planta_litio/aerea_litio2.webp",
+    "full": "fotos/pub_planta_litio/aerea_litio2.webp",
     "rating": 5,
     "descripcion": "Explotación Litio",
     "relato": "Pendiente de relato..."
@@ -2531,6 +2544,19 @@
     "full": "fotos/pub_nicaragua/miliciano_.webp",
     "descripcion": "Etapa Corresponsalía Guerra",
     "relato": "Pendiente..."
+  },
+  {
+    "id": "nicaragua_panoramica_webp",
+    "lat": 12.136,
+    "lon": -86.251,
+    "zona": "nicaragua",
+    "capa": "Patrimonio Histórico",
+    "titulo": "Panoramica",
+    "thumb": "fotos/pub_nicaragua/panoramica.webp",
+    "full": "fotos/pub_nicaragua/panoramica.webp",
+    "rating": 5,
+    "descripcion": "Etapa Corresponsalía Guerra",
+    "relato": "Pendiente de relato..."
   },
   {
     "id": "santiago_libro_esmeralda_webp",
