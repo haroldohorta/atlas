@@ -82,13 +82,13 @@ Registro de las publicaciones que validan la trayectoria de Haroldo en los medio
 <table>
 <tr valign="middle">
 <td width="33%" align="center" style="border: none;">
-<img src="fotos/recortes/spiegel_das_war_1991.jpeg" alt="Spiegel 1991" width="100%">
+<img src="fotos/recortes/assets_web/spiegel_das_war_1991.jpeg" alt="Spiegel 1991" width="100%">
 </td>
 <td width="33%" align="center" style="border: none;">
-<img src="fotos/recortes/new_york_times_1987.jpeg" alt="NYT 1987" width="100%">
+<img src="fotos/recortes/assets_web/new_york_times_1987.jpeg" alt="NYT 1987" width="100%">
 </td>
 <td width="33%" align="center" style="border: none;">
-<img src="fotos/recortes/bilder_portada_.jpeg" alt="Bilder Portada" width="100%">
+<img src="fotos/recortes/assets_web/bilder_portada_.jpeg" alt="Bilder Portada" width="100%">
 </td>
 </tr>
 </table>
@@ -106,8 +106,8 @@ Registro de las publicaciones que validan la trayectoria de Haroldo en los medio
 Un registro crudo y necesario sobre la crisis institucional en Colombia, capturando la despedida de los agentes caídos y el impacto en la sociedad civil.
 
 <div align="center">
-  <img src="fotos/pub_medellin/Colombia%20Policia%20Asesinado.webp" width="75%" alt="Medellín Conflicto">
-  <p><i>Escenas de la crisis en Medellín: El costo humano del conflicto.</i></p>
+  <img src="fotos/pub_medellin/medellin_25.webp" width="75%" alt="Medellín Conflicto">
+  <p><i>Escenas de la crisis en Medellín: El costo humano del conflicto (Registro 1991).</i></p>
 </div>
 
 ---
